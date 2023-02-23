@@ -1,0 +1,41 @@
+{
+	actor: 
+	{
+		objectType: "Agent",
+		account: 
+		{
+		homePage: "https://lms.lcontent.ru",
+		name: "ООО ИНК"
+		}
+	},
+	verb: 
+	{
+		id: "https://lcontent.ru/xapi/verbs/licensed",
+		display: 
+		{
+			en-US: "licensed"
+		}
+	},
+	object: 
+	{
+		id: "simulation://xapitest",
+		definition: 
+		{
+			type: "https://lcontent.ru/xapi/simulator",
+			name: 
+			{
+				en-US: "Первая помощь"
+			},
+			description: 
+			{
+				en-US: "Первая помощь. 10 сценариев."
+			},
+			extensions: 
+			{
+				"https://lcontent.ru/xapi/LicenseExpirationDate": "2021-10-05",
+				"https://lcontent.ru/xapi/LicenseActive": "true",
+				"https://lcontent.ru/xapi/LicenseDemoMode": "true"
+			}
+		}
+	}
+}
