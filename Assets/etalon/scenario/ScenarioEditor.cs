@@ -250,6 +250,7 @@ public class ScenarioEditor : MonoBehaviour
 	public void SetExamMode(bool value)
 	{
 		exam_mode = value;
+		Debug.Log("Получилось");
 	}
 	
 	public void ManualStart(int num_step=0)
