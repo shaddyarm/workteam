@@ -1,0 +1,1213 @@
+fileFormatVersion: 2
+guid: a8a7bebe3893ecd4e904bccdbdbf3bdc
+ModelImporter:
+  serializedVersion: 28
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: c167d91d267a59541b805944fa83b65b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Hardhat
+    second: {fileID: 2100000, guid: e5a9cb267925523449d96623640c64f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Jacket
+    second: {fileID: 2100000, guid: 5c180613dcc03f64a8aaa662ab092b22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Vest
+    second: {fileID: 2100000, guid: a5b58ad4f9269d443b39956b7ef54482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boots
+    second: {fileID: 2100000, guid: f338529e7bc34134098a0937c8f03306, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes
+    second: {fileID: 2100000, guid: 9159ff418caf22e4aa437b2e230dcd14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gloves
+    second: {fileID: 2100000, guid: f6a55ca5f618b004a8df57bc57838037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: harness_brass
+    second: {fileID: 2100000, guid: 79f3b3c32bf7a8a429aab81198118d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: harness_straps
+    second: {fileID: 2100000, guid: a4123ee967e512045b3c3f2135e9e3de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head
+    second: {fileID: 2100000, guid: 21461273849e5454c9833ebaa35c5a9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_grey_dark
+    second: {fileID: 2100000, guid: 1e81224df5da1c74dbb7e3b1ddc1b173, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: safety_glasses
+    second: {fileID: 2100000, guid: 4919cb3e43cb6f841bce79a921e69a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: safety_hook
+    second: {fileID: 2100000, guid: 69789a32a02684f4a8ee42e5023baaa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: self_rescuer
+    second: {fileID: 2100000, guid: 44494b299b1457143b28c72de6f54b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: workman
+    second: {fileID: 2100000, guid: f63994433248baf4da157004240a9b75, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: workmanHips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLUpperLeg1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRUpperLeg1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLLowerLeg1
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRLowerLeg1
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanSpine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanChest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanNeck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLUpperArm1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRUpperArm1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLLowerArm1
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRLowerArm1
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLToe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRToe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanREye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanMJaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit11
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit12
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit13
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit21
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit22
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit23
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit31
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit32
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit33
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit41
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit42
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit43
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit51
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit52
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanLDigit53
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit11
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit12
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit13
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit21
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit22
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit23
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit31
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit32
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit33
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit41
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit42
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit43
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit51
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit52
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: workmanRDigit53
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01 Root
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: workmanHips
+      parentName: Bip01 Root
+      position: {x: -0, y: 0.8951848, z: -0.00000010671436}
+      rotation: {x: -0.5000003, y: 0.5000011, z: 0.49999967, w: -0.49999896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: workmanSpine
+      parentName: workmanHips
+      position: {x: -0.17108062, y: 0.0000003515844, z: 0.00000023385903}
+      rotation: {x: 0.000006679029, y: -0.00015605506, z: 0.029086843, w: 0.99957687}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1}
+    - name: workmanChest
+      parentName: workmanSpine
+      position: {x: -0.1920649, y: 0.0000000047683715, z: 0}
+      rotation: {x: -0.000029925182, y: 0.0002626893, z: -0.0007412691, w: 0.9999997}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+    - name: workmanRibcage
+      parentName: workmanChest
+      position: {x: -0.27179167, y: 0, z: -3.7252902e-11}
+      rotation: {x: 0.000028155791, y: -0.00010491404, z: -0.028345777, w: 0.9995982}
+      scale: {x: 0.9999997, y: 0.9999997, z: 1}
+    - name: workmanNeck
+      parentName: workmanRibcage
+      position: {x: -0.06577438, y: 0.05599637, z: 0.00000008755946}
+      rotation: {x: 0.000047519497, y: -0.000043790857, z: -0.043999534, w: 0.99903154}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: workmanHead
+      parentName: workmanNeck
+      position: {x: -0.08860504, y: 0.000000009536743, z: 0}
+      rotation: {x: -0.000023665909, y: 0.000044723492, z: 0.04267799, w: 0.9990889}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.9999998}
+    - name: workmanMJaw
+      parentName: workmanHead
+      position: {x: 0.011331786, y: 0.013807792, z: 0.000010286085}
+      rotation: {x: 0.0015047829, y: 0.00414102, z: -0.8100333, w: 0.58636725}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+    - name: workmanRMouthBottom
+      parentName: workmanMJaw
+      position: {x: -0.094939455, y: -0.021910857, z: -0.012724141}
+      rotation: {x: 0.03828823, y: -0.21554111, z: 0.16942692, w: 0.9609217}
+      scale: {x: 0.9999991, y: 1.0000002, z: 1.0000004}
+    - name: workmanMBottomLip
+      parentName: workmanMJaw
+      position: {x: -0.09635055, y: -0.02164978, z: -0.00079414516}
+      rotation: {x: -0.0000010822763, y: -0.000002016959, z: 0.17364869, w: 0.98480767}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1}
+    - name: workmanLMouthBottom
+      parentName: workmanMJaw
+      position: {x: -0.09347389, y: -0.020967407, z: 0.010629594}
+      rotation: {x: -0.038381524, y: 0.21606502, z: 0.16940765, w: 0.96080375}
+      scale: {x: 0.999999, y: 0.9999999, z: 1.0000007}
+    - name: workmanLMouthCorner
+      parentName: workmanHead
+      position: {x: 0.01981842, y: 0.10040355, z: 0.021570217}
+      rotation: {x: 0.1726939, y: 0.18919541, z: -0.7611332, w: 0.59586763}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000002}
+    - name: workmanLMasseter
+      parentName: workmanHead
+      position: {x: 0.018917846, y: 0.090543345, z: 0.0374455}
+      rotation: {x: 0.2785103, y: 0.2624191, z: -0.7259915, w: 0.57140577}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999964}
+    - name: workmanRMouthCorner
+      parentName: workmanHead
+      position: {x: 0.019165497, y: 0.10154185, z: -0.023663128}
+      rotation: {x: -0.17271851, y: -0.1892239, z: -0.7611263, w: 0.59586024}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: workmanRMasseter
+      parentName: workmanHead
+      position: {x: 0.018201293, y: 0.093152806, z: -0.039260924}
+      rotation: {x: -0.2785349, y: -0.26244733, z: -0.72598153, w: 0.5713935}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999996}
+    - name: workmanMMiddleEyebrow
+      parentName: workmanHead
+      position: {x: -0.06478897, y: 0.11040086, z: 0.00009945331}
+      rotation: {x: -0.000016007303, y: -0.000015105193, z: -0.7298542, w: 0.6836028}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: workmanLInnerEyebrow
+      parentName: workmanHead
+      position: {x: -0.06938125, y: 0.10898938, z: 0.026350863}
+      rotation: {x: 0.068384334, y: 0.05399837, z: -0.72613543, w: 0.68200815}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: workmanMNose
+      parentName: workmanHead
+      position: {x: -0.01621994, y: 0.114993185, z: 0.0000056463527}
+      rotation: {x: -0.00001620978, y: -0.000014138864, z: -0.7263485, w: 0.6873266}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: workmanLCheek
+      parentName: workmanHead
+      position: {x: -0.028104858, y: 0.09234319, z: 0.044468477}
+      rotation: {x: 0.14223853, y: 0.12467917, z: -0.7492832, w: 0.63466376}
+      scale: {x: 0.9999995, y: 1.0000002, z: 1.0000008}
+    - name: workmanLOuterEyebrow
+      parentName: workmanHead
+      position: {x: -0.07021606, y: 0.10164061, z: 0.04282357}
+      rotation: {x: 0.19369937, y: 0.17161988, z: -0.7069976, w: 0.65816534}
+      scale: {x: 0.9999991, y: 1, z: 1.0000011}
+    - name: workmanRInnerEyebrow
+      parentName: workmanHead
+      position: {x: -0.06986816, y: 0.10850612, z: -0.025769373}
+      rotation: {x: -0.06841626, y: -0.05402834, z: -0.7261333, w: 0.68200487}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: workmanRCheek
+      parentName: workmanHead
+      position: {x: -0.028400421, y: 0.091693416, z: -0.04455323}
+      rotation: {x: -0.14226171, y: -0.12470464, z: -0.749279, w: 0.63465846}
+      scale: {x: 0.99999976, y: 1.0000002, z: 1.0000005}
+    - name: workmanROuterEyebrow
+      parentName: workmanHead
+      position: {x: -0.071342774, y: 0.10059468, z: -0.042162903}
+      rotation: {x: -0.19373138, y: -0.17165038, z: -0.7069902, w: 0.6581559}
+      scale: {x: 0.99999803, y: 1.0000001, z: 1.0000019}
+    - name: workmanLUpperlip
+      parentName: workmanHead
+      position: {x: 0.016668854, y: 0.110127434, z: 0.012064871}
+      rotation: {x: 0.18242103, y: 0.15727712, z: -0.73576564, w: 0.63295776}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: workmanLCaninus
+      parentName: workmanHead
+      position: {x: 0.00013931275, y: 0.09720452, z: 0.031590678}
+      rotation: {x: 0.20311041, y: 0.16038397, z: -0.7040555, w: 0.6613086}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000001}
+    - name: workmanRCaninus
+      parentName: workmanHead
+      position: {x: 0.0005169678, y: 0.09702705, z: -0.034600314}
+      rotation: {x: -0.20314153, y: -0.16041315, z: -0.70404875, w: 0.6612991}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.9999999}
+    - name: workmanMUpperLip
+      parentName: workmanHead
+      position: {x: 0.015439453, y: 0.11303973, z: -0.0001340254}
+      rotation: {x: -0.000016094084, y: -0.00001424719, z: -0.7289085, w: 0.68461114}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1}
+    - name: workmanRUpperlip
+      parentName: workmanHead
+      position: {x: 0.016125793, y: 0.11094186, z: -0.012205163}
+      rotation: {x: -0.18256113, y: -0.15740286, z: -0.73573154, w: 0.6329257}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: workmanLEyeBlinkTop
+      parentName: workmanHead
+      position: {x: -0.056551665, y: 0.07965139, z: 0.032633346}
+      rotation: {x: -0.000023211926, y: -0.0000055733512, z: -0.6417738, w: 0.766894}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000001}
+    - name: workmanLEyeBlinkBottom
+      parentName: workmanHead
+      position: {x: -0.056551665, y: 0.07965139, z: 0.032633346}
+      rotation: {x: -0.000020424495, y: -0.000012289465, z: -0.84268004, w: 0.5384147}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1}
+    - name: workmanREyeBlinkBottom
+      parentName: workmanHead
+      position: {x: -0.05655029, y: 0.07935779, z: -0.032076135}
+      rotation: {x: -0.0000057417656, y: -0.00002347251, z: -0.84268004, w: 0.5384147}
+      scale: {x: 0.99999976, y: 1.0000005, z: 1}
+    - name: workmanREyeBlinkTop
+      parentName: workmanHead
+      position: {x: -0.05655029, y: 0.07935779, z: -0.032076135}
+      rotation: {x: -0.000012524025, y: -0.000020656862, z: -0.6417738, w: 0.766894}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: workmanLEye
+      parentName: workmanHead
+      position: {x: -0.056551665, y: 0.07965139, z: 0.032633346}
+      rotation: {x: -0.0076934774, y: 0.008315225, z: -0.73532665, w: 0.6776182}
+      scale: {x: 1.0000006, y: 0.9999997, z: 1.0000001}
+    - name: workmanREye
+      parentName: workmanHead
+      position: {x: -0.05655029, y: 0.07935779, z: -0.032076135}
+      rotation: {x: -0.007681007, y: 0.008301755, z: -0.73532677, w: 0.6776184}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1.0000001}
+    - name: workmanLShoulder
+      parentName: workmanChest
+      position: {x: -0.25813887, y: 0.0011802769, z: 0.07282473}
+      rotation: {x: 0.020693304, y: 0.7811989, z: -0.005052368, w: 0.6239187}
+      scale: {x: 1.0000015, y: 1, z: 0.99999845}
+    - name: workmanLUpperArm1
+      parentName: workmanLShoulder
+      position: {x: -0.14107983, y: 0, z: 0}
+      rotation: {x: 0.010142764, y: -0.08770907, z: -0.0076456987, w: 0.99606514}
+      scale: {x: 1.0000027, y: 0.9999986, z: 0.99999905}
+    - name: workmanLUpperArm2
+      parentName: workmanLUpperArm1
+      position: {x: -0.14999999, y: 0.0000000023841857, z: -0.000000076293944}
+      rotation: {x: 0.0011772044, y: 0, z: -0, w: 0.99999934}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: workmanLLowerArm1
+      parentName: workmanLUpperArm2
+      position: {x: -0.14999992, y: 0.0000000023841857, z: -0.00000015258789}
+      rotation: {x: -0.008184069, y: -0.022688372, z: -0.02408098, w: 0.99941903}
+      scale: {x: 0.9999941, y: 1.0000056, z: 0.9999998}
+    - name: workmanLLowerArm2
+      parentName: workmanLLowerArm1
+      position: {x: -0.13499981, y: 0, z: 0.00000015258789}
+      rotation: {x: -0.0023559998, y: -0.000000014866013, z: -0.000000014936228, w: 0.99999726}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: workmanLHand
+      parentName: workmanLLowerArm2
+      position: {x: -0.13499975, y: 0, z: 0.000000076293944}
+      rotation: {x: -0.70775014, y: 0.022692027, z: -0.048595406, w: 0.7044241}
+      scale: {x: 0.9999919, y: 1.0000085, z: 0.99999994}
+    - name: workmanLDigit11
+      parentName: workmanLHand
+      position: {x: -0.026760902, y: -0.010042495, z: 0.031009711}
+      rotation: {x: 0.6455102, y: 0.3064586, z: -0.1879804, w: 0.673842}
+      scale: {x: 0.9999805, y: 1.0000153, z: 1.0000042}
+    - name: workmanLDigit12
+      parentName: workmanLDigit11
+      position: {x: -0.028278198, y: 0.000000038146972, z: 0.000000076293944}
+      rotation: {x: -0.010474323, y: -0.0003999173, z: 0.0379526, w: 0.9992246}
+      scale: {x: 0.9999876, y: 1.0000116, z: 1.0000008}
+    - name: workmanLDigit13
+      parentName: workmanLDigit12
+      position: {x: -0.031003265, y: -0.000000038146972, z: 0.000000076293944}
+      rotation: {x: -0.0006044532, y: -0.0022971898, z: 0.106825225, w: 0.994275}
+      scale: {x: 0.99998695, y: 1.0000122, z: 1.0000008}
+    - name: workmanLDigit21
+      parentName: workmanLHand
+      position: {x: -0.09438927, y: -0.0006431579, z: 0.022509193}
+      rotation: {x: 0.0590678, y: -0.0037319334, z: 0.071097866, w: 0.995712}
+      scale: {x: 0.9999901, y: 1.0000011, z: 1.0000085}
+    - name: workmanLDigit22
+      parentName: workmanLDigit21
+      position: {x: -0.031289633, y: 0, z: 0.000000038146972}
+      rotation: {x: -0.0000001378357, y: 0.0000018731218, z: 0.03893231, w: 0.9992419}
+      scale: {x: 0.99999, y: 1.0000013, z: 1.0000085}
+    - name: workmanLDigit23
+      parentName: workmanLDigit22
+      position: {x: -0.023790436, y: 0, z: -0.000000019073486}
+      rotation: {x: 0.000000035641175, y: 0.0000009829525, z: -0.021091651, w: 0.99977756}
+      scale: {x: 0.99999094, y: 1.0000005, z: 1.0000086}
+    - name: workmanLDigit51
+      parentName: workmanLHand
+      position: {x: -0.08023784, y: -0.00720726, z: -0.040892944}
+      rotation: {x: -0.17287624, y: -0.018656041, z: 0.059697814, w: 0.9829557}
+      scale: {x: 0.99998623, y: 1.0000045, z: 1.0000088}
+    - name: workmanLDigit52
+      parentName: workmanLDigit51
+      position: {x: -0.029087791, y: -0.000000076293944, z: 0.000000076293944}
+      rotation: {x: 0.0000030782837, y: -0.00042665412, z: 0.02114865, w: 0.99977624}
+      scale: {x: 0.9999918, y: 0.99999994, z: 1.0000083}
+    - name: workmanLDigit53
+      parentName: workmanLDigit52
+      position: {x: -0.015357742, y: -0.000000076293944, z: 0}
+      rotation: {x: 0.000007370513, y: 0.00028114874, z: 0.025150554, w: 0.9996836}
+      scale: {x: 0.99999136, y: 1, z: 1.0000083}
+    - name: workmanLDigit41
+      parentName: workmanLHand
+      position: {x: -0.08993591, y: 0.00048286436, z: -0.023121795}
+      rotation: {x: -0.09014172, y: -0.015184718, z: 0.065602, w: 0.99364996}
+      scale: {x: 0.99998933, y: 1.0000025, z: 1.000008}
+    - name: workmanLDigit42
+      parentName: workmanLDigit41
+      position: {x: -0.033696402, y: 0, z: 0}
+      rotation: {x: 0.00000017136331, y: -0.0000014510002, z: 0.04114635, w: 0.99915314}
+      scale: {x: 0.9999917, y: 1.0000002, z: 1.0000077}
+    - name: workmanLDigit43
+      parentName: workmanLDigit42
+      position: {x: -0.024442025, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.00000013345145, y: 0.000002403212, z: 0.025093779, w: 0.9996851}
+      scale: {x: 0.9999919, y: 1, z: 1.000008}
+    - name: workmanLDigit31
+      parentName: workmanLHand
+      position: {x: -0.09559227, y: 0.0020228575, z: -0.001219902}
+      rotation: {x: -0.08070835, y: -0.021469625, z: 0.066655956, w: 0.99427474}
+      scale: {x: 0.9999898, y: 1.0000014, z: 1.0000085}
+    - name: workmanLDigit32
+      parentName: workmanLDigit31
+      position: {x: -0.038014144, y: 0, z: 0}
+      rotation: {x: 0.0000002607703, y: 0.0000008996575, z: 0.040290635, w: 0.999188}
+      scale: {x: 0.9999905, y: 1.0000012, z: 1.0000081}
+    - name: workmanLDigit33
+      parentName: workmanLDigit32
+      position: {x: -0.02848793, y: 0, z: 0}
+      rotation: {x: 0.00000023796011, y: -0.0000022078211, z: 0.09046546, w: 0.9958996}
+      scale: {x: 0.99999, y: 1.000002, z: 1.0000082}
+    - name: workmanRShoulder
+      parentName: workmanChest
+      position: {x: -0.25813842, y: 0.0011802816, z: -0.07282474}
+      rotation: {x: -0.020693317, y: -0.7811988, z: -0.005052376, w: 0.6239189}
+      scale: {x: 0.9999988, y: 1.0000002, z: 1.0000015}
+    - name: workmanRUpperArm1
+      parentName: workmanRShoulder
+      position: {x: -0.14107983, y: 0.0000000023841857, z: -0.00000015258789}
+      rotation: {x: -0.010161667, y: 0.08750331, z: -0.007677458, w: 0.99608284}
+      scale: {x: 1.0000017, y: 0.99999857, z: 1.0000002}
+    - name: workmanRUpperArm2
+      parentName: workmanRUpperArm1
+      position: {x: -0.14999999, y: 0, z: 0}
+      rotation: {x: -0.0011772045, y: -3.3458165e-17, z: 2.842169e-14, w: 0.99999934}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: workmanRLowerArm1
+      parentName: workmanRUpperArm2
+      position: {x: -0.14999996, y: 0.0000000023841857, z: -0.000000076293944}
+      rotation: {x: 0.008183842, y: 0.022685738, z: -0.024077754, w: 0.9994192}
+      scale: {x: 1.000009, y: 0.99999124, z: 0.99999994}
+    - name: workmanRLowerArm2
+      parentName: workmanRLowerArm1
+      position: {x: -0.13499981, y: 0, z: -0.000000076293944}
+      rotation: {x: 0.0023559846, y: -1.7553453e-11, z: -0.00000000745056, w: 0.99999726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: workmanRHand
+      parentName: workmanRLowerArm2
+      position: {x: -0.13499981, y: 0, z: 0}
+      rotation: {x: 0.70775014, y: -0.02269281, z: -0.048596624, w: 0.704424}
+      scale: {x: 1.0000083, y: 0.9999904, z: 1.000002}
+    - name: workmanRDigit11
+      parentName: workmanRHand
+      position: {x: -0.026761398, y: -0.010042267, z: -0.031010054}
+      rotation: {x: -0.64550376, y: -0.30646476, z: -0.1879847, w: 0.6738442}
+      scale: {x: 1.0000218, y: 0.99998224, z: 0.9999963}
+    - name: workmanRDigit12
+      parentName: workmanRDigit11
+      position: {x: -0.028278198, y: 0, z: 0}
+      rotation: {x: 0.010473632, y: 0.00039903796, z: 0.03796432, w: 0.9992241}
+      scale: {x: 1.0000124, y: 0.9999885, z: 0.99999934}
+    - name: workmanRDigit13
+      parentName: workmanRDigit12
+      position: {x: -0.031003302, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.00060444034, y: 0.0022975157, z: 0.10683803, w: 0.9942736}
+      scale: {x: 1.000013, y: 0.9999876, z: 0.99999917}
+    - name: workmanRDigit21
+      parentName: workmanRHand
+      position: {x: -0.09439075, y: -0.00064300536, z: -0.022509689}
+      rotation: {x: -0.05906809, y: 0.0037317188, z: 0.0711008, w: 0.99571174}
+      scale: {x: 1.00001, y: 0.9999985, z: 0.9999914}
+    - name: workmanRDigit22
+      parentName: workmanRDigit21
+      position: {x: -0.031289633, y: 0, z: -0.000000038146972}
+      rotation: {x: -0.00000008940692, y: -0.0000020174764, z: 0.038941987, w: 0.99924153}
+      scale: {x: 1.0000101, y: 0.9999984, z: 0.9999913}
+    - name: workmanRDigit23
+      parentName: workmanRDigit22
+      position: {x: -0.023790436, y: 0.000000076293944, z: 0.000000038146972}
+      rotation: {x: 0.000000055630448, y: -0.00000089543425, z: -0.021093415, w: 0.9997775}
+      scale: {x: 1.0000091, y: 0.9999996, z: 0.99999154}
+    - name: workmanRDigit51
+      parentName: workmanRHand
+      position: {x: -0.080239065, y: -0.0072073364, z: 0.040893096}
+      rotation: {x: 0.17287618, y: 0.018655967, z: 0.05971024, w: 0.98295504}
+      scale: {x: 1.0000153, y: 0.9999938, z: 0.99999106}
+    - name: workmanRDigit52
+      parentName: workmanRDigit51
+      position: {x: -0.029087828, y: 0, z: 0.000000076293944}
+      rotation: {x: -0.0000031571246, y: 0.00042666026, z: 0.021149734, w: 0.99977624}
+      scale: {x: 1.0000083, y: 0.9999999, z: 0.99999213}
+    - name: workmanRDigit53
+      parentName: workmanRDigit52
+      position: {x: -0.01535778, y: 0, z: 0.000000076293944}
+      rotation: {x: -0.0000071980494, y: -0.00028102048, z: 0.025152504, w: 0.9996836}
+      scale: {x: 1.0000081, y: 0.9999998, z: 0.99999183}
+    - name: workmanRDigit41
+      parentName: workmanRHand
+      position: {x: -0.08993725, y: 0.00048301695, z: 0.023121757}
+      rotation: {x: 0.09014183, y: 0.015186419, z: 0.06561174, w: 0.9936493}
+      scale: {x: 1.0000113, y: 0.9999966, z: 0.9999922}
+    - name: workmanRDigit42
+      parentName: workmanRDigit41
+      position: {x: -0.03369644, y: 0, z: 0}
+      rotation: {x: -0.00000023841855, y: 0.00000071059907, z: 0.04114506, w: 0.99915326}
+      scale: {x: 1.0000083, y: 0.9999996, z: 0.99999243}
+    - name: workmanRDigit43
+      parentName: workmanRDigit42
+      position: {x: -0.024442062, y: 0, z: 0}
+      rotation: {x: -0.0000001349435, y: -0.0000023435891, z: 0.025095778, w: 0.99968505}
+      scale: {x: 1.0000076, y: 0.99999946, z: 0.999992}
+    - name: workmanRDigit31
+      parentName: workmanRHand
+      position: {x: -0.09559372, y: 0.002022934, z: 0.0012196731}
+      rotation: {x: 0.08070777, y: 0.021470232, z: 0.06665842, w: 0.99427456}
+      scale: {x: 1.0000107, y: 0.99999803, z: 0.9999916}
+    - name: workmanRDigit32
+      parentName: workmanRDigit31
+      position: {x: -0.038014222, y: 0, z: 0.000000038146972}
+      rotation: {x: -0.00000019371505, y: -0.0000015683469, z: 0.040298957, w: 0.9991877}
+      scale: {x: 1.000009, y: 0.99999857, z: 0.9999918}
+    - name: workmanRDigit33
+      parentName: workmanRDigit32
+      position: {x: -0.028488044, y: 0, z: 0.000000076293944}
+      rotation: {x: -0.00000014691531, y: 0.000002111311, z: 0.09047289, w: 0.99589896}
+      scale: {x: 1.0000099, y: 0.9999976, z: 0.9999918}
+    - name: workmanLUpperLeg1
+      parentName: workmanHips
+      position: {x: 0.00000022888183, y: -0.00000024387143, z: 0.08836851}
+      rotation: {x: -0.031567287, y: 0.9890523, z: 0.13745506, w: 0.043418743}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: workmanLUpperLeg2
+      parentName: workmanLUpperLeg1
+      position: {x: -0.19999999, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.0000000053551044, y: -0.0000000037252903, z: -1.9949318e-17,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: workmanLLowerLeg1
+      parentName: workmanLUpperLeg2
+      position: {x: -0.19999999, y: -0.0000007534027, z: 0.0000007343292}
+      rotation: {x: -0.00007797035, y: -0.000098998, z: 0.07163394, w: 0.997431}
+      scale: {x: 0.9999998, y: 0.9999971, z: 1.0000035}
+    - name: workmanLLowerLeg2
+      parentName: workmanLLowerLeg1
+      position: {x: -0.19899999, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.0019720932, y: 0, z: -0, w: 0.9999981}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: workmanLFoot
+      parentName: workmanLLowerLeg2
+      position: {x: -0.19899999, y: 0, z: 0}
+      rotation: {x: -0.0017205846, y: 0.042046294, z: -0.5235232, w: 0.8509716}
+      scale: {x: 1.0000023, y: 0.9999976, z: 1.0000002}
+    - name: workmanLToe
+      parentName: workmanLFoot
+      position: {x: -0.16939673, y: -0.01443675, z: -0.00010958671}
+      rotation: {x: -0.0004093145, y: 0.001585086, z: -0.26556438, w: 0.9640917}
+      scale: {x: 1.0000006, y: 0.99999934, z: 1}
+    - name: workmanRUpperLeg1
+      parentName: workmanHips
+      position: {x: 0.00000022888183, y: -0.00000024387157, z: -0.08836851}
+      rotation: {x: -0.03157254, y: 0.9890517, z: -0.13745739, w: -0.043420363}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: workmanRUpperLeg2
+      parentName: workmanRUpperLeg1
+      position: {x: -0.19999999, y: 0, z: -0.000000019073486}
+      rotation: {x: -0.000000020954756, y: 0.0000000037252899, z: 7.8062537e-17, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: workmanRLowerLeg1
+      parentName: workmanRUpperLeg2
+      position: {x: -0.20000008, y: -0.00000078201293, z: -0.00000072479247}
+      rotation: {x: 0.00007794308, y: 0.0001008759, z: 0.07164874, w: 0.9974299}
+      scale: {x: 1.0000004, y: 1.0000026, z: 0.99999714}
+    - name: workmanRLowerLeg2
+      parentName: workmanRLowerLeg1
+      position: {x: -0.19900003, y: 0.0000000023841857, z: 0.000000009536743}
+      rotation: {x: 0.0019721151, y: 0, z: -0, w: 0.9999981}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: workmanRFoot
+      parentName: workmanRLowerLeg2
+      position: {x: -0.19899997, y: 0, z: 0.000000009536743}
+      rotation: {x: 0.0016783589, y: -0.042106543, z: -0.5233959, w: 0.851047}
+      scale: {x: 0.9999981, y: 1.0000017, z: 1}
+    - name: workmanRToe
+      parentName: workmanRFoot
+      position: {x: -0.1693967, y: -0.01443676, z: 0.00010960579}
+      rotation: {x: 0.00039087987, y: -0.0015190698, z: -0.26571614, w: 0.96405005}
+      scale: {x: 0.9999994, y: 1.0000006, z: 1}
+    - name: giz Head
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: 0.00001035751, y: 1.6833968, z: 0.037215702}
+      rotation: {x: 0.5006778, y: -0.4993553, z: -0.50064397, w: 0.49932116}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.99999994}
+    - name: giz Hips
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0, y: 0.8951848, z: -0.00000006758459}
+      rotation: {x: 0.5000011, y: -0.50000036, z: -0.49999893, w: 0.4999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: m_CSE
+      parentName: giz Hips
+      position: {x: 0.8951848, y: 0.00000013469698, z: -0.000001395996}
+      rotation: {x: 0.7071079, y: -0.000000030908573, z: -0.70710564, w: -0.000000030908673}
+      scale: {x: 1, y: 1, z: 1}
+    - name: giz LAnkle
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0.14820819, y: 0.101620555, z: -0.014534854}
+      rotation: {x: 0.16382001, y: 0.5923051, z: 0.20901512, w: 0.7606907}
+      scale: {x: 0.9999997, y: 0.99999684, z: 1.0000036}
+    - name: giz LHand
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0.5575001, y: 1.1373416, z: 0.1644112}
+      rotation: {x: -0.17254128, y: 0.39255607, z: 0.33085862, w: 0.8406318}
+      scale: {x: 0.99998754, y: 1.0000072, z: 1.0000067}
+    - name: giz LLowerArm
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0.42250097, y: 1.2723405, z: -0.02650663}
+      rotation: {x: 0.50166416, y: 0.49999863, z: -0.0011782676, w: 0.7059271}
+      scale: {x: 0.9999955, y: 1.000007, z: 0.9999987}
+    - name: giz LLowerLeg
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0.12619424, y: 0.49749008, z: 0.020201664}
+      rotation: {x: 0.46069643, y: 0.38776585, z: 0.5674345, w: 0.5616178}
+      scale: {x: 0.99999976, y: 0.9999969, z: 1.0000035}
+    - name: giz LShoulder
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0.07281889, y: 1.5157814, z: -0.024613485}
+      rotation: {x: 0.6955895, y: 0.07333732, z: 0.084469736, w: 0.7096772}
+      scale: {x: 1.0000015, y: 1.0000005, z: 0.999999}
+    - name: giz LUpperArm
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0.21036813, y: 1.4844732, z: -0.026506903}
+      rotation: {x: 0.6532813, y: 0.2705982, z: 0.27059773, w: 0.6532818}
+      scale: {x: 1.0000036, y: 0.99999917, z: 0.9999988}
+    - name: giz LUpperLeg
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0.08836851, y: 0.89518476, z: -0.0000005576087}
+      rotation: {x: 0.43172398, y: 0.41987178, z: 0.52576077, w: 0.60074764}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: giz RAnkle
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: 0.1482076, y: 0.1016209, z: -0.01453798}
+      rotation: {x: 0.20914695, y: 0.76061684, z: 0.16389945, w: 0.59233147}
+      scale: {x: 1.0000001, y: 1.0000024, z: 0.999997}
+    - name: giz RHand
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: 0.55752546, y: 1.1374271, z: 0.16438672}
+      rotation: {x: 0.3308587, y: 0.8406317, z: -0.1725415, w: 0.392556}
+      scale: {x: 1.0000173, y: 0.9999916, z: 0.9999937}
+    - name: giz RibcageGizmo
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: 0.0000028851766, y: 1.5293604, z: -0.026570272}
+      rotation: {x: 0.49999946, y: -0.49999934, z: -0.5000006, w: 0.5000007}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: giz RLowerArm
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: 0.42252448, y: 1.272428, z: -0.026533753}
+      rotation: {x: -0.0011781573, y: 0.70592713, z: 0.501664, w: 0.49999875}
+      scale: {x: 1.0000093, y: 0.9999916, z: 1.0000013}
+    - name: giz RLowerLeg
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: 0.12619483, y: 0.49749, z: 0.020206226}
+      rotation: {x: 0.56743836, y: 0.5616116, z: 0.46070245, w: 0.38776222}
+      scale: {x: 1.0000002, y: 1.0000025, z: 0.99999696}
+    - name: giz RShoulder
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: 0.072830565, y: 1.5158111, z: -0.024622876}
+      rotation: {x: 0.084366985, y: 0.7096995, z: 0.6955993, w: 0.07314656}
+      scale: {x: 0.9999988, y: 1.0000007, z: 1.0000021}
+    - name: giz RUpperArm
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: 0.2103922, y: 1.4845604, z: -0.026534092}
+      rotation: {x: 0.27059782, y: 0.6532818, z: 0.65328115, w: 0.2705984}
+      scale: {x: 1.0000014, y: 0.9999993, z: 1.0000013}
+    - name: giz RUpperLeg
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: 0.08836851, y: 0.89518446, z: -0.00000006530347}
+      rotation: {x: 0.52575797, y: 0.6007501, z: 0.43172145, w: 0.41987437}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: giz_soldier_Eyes_cntrl001
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0.94542515, y: 0.76069516, z: -0.003492546}
+      rotation: {x: -0.705871, y: -0.0000060846633, z: -0.0000060529323, w: 0.7083404}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1}
+    - name: giz_soldier_Eyes_cntrl001 1
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0.053807326, y: 1.7159265, z: 0.32302263}
+      rotation: {x: -0.705871, y: -0.0000060821576, z: -0.000006055694, w: 0.7083404}
+      scale: {x: 1.0000001, y: 0.9999997, z: 1}
+    - name: m_glasses
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: 0.009654464, y: 1.7444879, z: 0.14966393}
+      rotation: {x: 0.0013190272, y: 0.15747473, z: -0.013682458, w: 0.98742735}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+    - name: m_gloves
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M_Hardhat
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: 0.000010286772, y: 1.8256024, z: 0.059067164}
+      rotation: {x: 0.5006724, y: -0.5006721, z: -0.4993268, w: 0.49932706}
+      scale: {x: 1.0000002, y: 0.9999994, z: 0.9999998}
+    - name: m_harness_tie
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0.5379056, y: 0.9194818, z: 0.022267073}
+      rotation: {x: -0.6408564, y: 0.29883623, z: 0.29883623, w: 0.6408564}
+      scale: {x: 1, y: 1, z: 1}
+    - name: m_miner_harness
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0, y: 1.4209734, z: -0.15191482}
+      rotation: {x: -0.64278764, y: 0, z: -0, w: 0.76604444}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M_vest
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0.0009398651, y: 0.081788786, z: -0.0012860489}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: m_workman_head
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: m_workman_uniform
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object016
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: workman
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.50000006, y: -0.5, z: -0.4999999, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: workmanLPlatform
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0.14624052, y: 0.000000013388263, z: -0.016}
+      rotation: {x: 0.5572079, y: -0.5572077, z: -0.43533832, w: 0.43533844}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: workmanRPlatform
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: 0.14624052, y: 0.000000013388256, z: -0.015999954}
+      rotation: {x: 0.43533853, y: -0.43533844, z: -0.55720764, w: 0.55720776}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: ZBrushPolyMesh3D
+      parentName: "\u0421\u0442\u0440\u043E\u043F\u0430\u043B\u044C\u0449\u0438\u043A(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: -0.00000002815278, z: -0.0000000031280865, w: 0.7071068}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
