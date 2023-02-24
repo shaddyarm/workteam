@@ -284,6 +284,7 @@
     <Compile Include="Assets\VLR\Детали машин\labDM_parametr.cs" />
     <Compile Include="Assets\_SCENARIO\Assets\Scripts\MovingSphere.cs" />
     <Compile Include="Assets\_SCENARIO\Assets\Scripts\OrbitCamera.cs" />
+    <Compile Include="Assets\_Shaddy\OutLineOnDown.cs" />
     <Compile Include="Assets\etalon\Obi\Samples\Common\SampleResources\Scripts\ActorCOMTransform.cs" />
     <Compile Include="Assets\etalon\Obi\Samples\Common\SampleResources\Scripts\ActorSpawner.cs" />
     <Compile Include="Assets\etalon\Obi\Samples\Common\SampleResources\Scripts\AddRandomVelocity.cs" />
