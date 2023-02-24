@@ -276,6 +276,7 @@
      <Compile Include="Assets\_MATERIALS+TEXTURES\AllMaterials\3D_materials\JCR\Script\RotatePos1A.cs" />
      <Compile Include="Assets\_MATERIALS+TEXTURES\AllMaterials\3D_materials\JCR\Script\RotatePos1C.cs" />
      <Compile Include="Assets\_MATERIALS+TEXTURES\AllMaterials\3D_materials\JCR\Script\RotatePosZ.cs" />
+     <Compile Include="Assets\_Shaddy\OutLineOnDown.cs" />
      <Compile Include="Assets\etalon\Obi\Samples\Common\SampleResources\Scripts\ActorCOMTransform.cs" />
      <Compile Include="Assets\etalon\Obi\Samples\Common\SampleResources\Scripts\ActorSpawner.cs" />
      <Compile Include="Assets\etalon\Obi\Samples\Common\SampleResources\Scripts\AddRandomVelocity.cs" />
