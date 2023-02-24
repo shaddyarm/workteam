@@ -179,7 +179,6 @@ public class Scenario_step_question : MonoBehaviour
 	
 	public void CorrectAnswer()
 	{
-		//bad_answer=false;
 		if (clipCorrectAnswer!=null)
 		{
 			editor.AudioSourceForMessage.clip = clipCorrectAnswer;
@@ -189,8 +188,15 @@ public class Scenario_step_question : MonoBehaviour
 			editor.AudioSourceForMessage.clip = editor.StandartCorrectQuestionClip;
 		}
 		editor.AudioSourceForMessage.Play();
-		//
-		OK();
+		StartCoroutine(WaitTillAudioEnds());
+	}
+	IEnumerator WaitTillAudioEnds()//Корутин, чтобы аудио следующего вопроса не перекрывало аудио о правильном ответе
+	{
+		while (true)
+		{
+			yield return new WaitForSeconds(clipCorrectAnswer.length);
+			OK();
+		}
 	}
 	public void IncorrectAnswer1()
 	{
