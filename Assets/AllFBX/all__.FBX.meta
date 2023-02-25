@@ -1,0 +1,4108 @@
+fileFormatVersion: 2
+guid: 6eafed8e445f4774baee02de5186d203
+timeCreated: 1553333573
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3835
+    100002: 3836
+    100004: 3837
+    100006: 3838
+    100008: 3839
+    100010: 3840
+    100012: 3841
+    100014: 3842
+    100016: 3843
+    100018: 3844
+    100020: 3845
+    100022: 3846
+    100024: 3847
+    100026: 3848
+    100028: 3849
+    100030: 3850
+    100032: 3852
+    100034: 3853
+    100036: 3854
+    100038: 3855
+    100040: 3857
+    100042: 3858
+    100044: 3859
+    100046: 3861
+    100048: 3862
+    100050: 3863
+    100052: 3864
+    100054: 3865
+    100056: 3867
+    100058: 3868
+    100060: 3869
+    100062: 3870
+    100064: 3871
+    100066: 3872
+    100068: 3903
+    100070: 3904
+    100072: 3905
+    100074: 3906
+    100076: 3907
+    100078: 3908
+    100080: 3911
+    100082: 3914
+    100084: 3915
+    100086: 3916
+    100088: 3917
+    100090: 3918
+    100092: 3919
+    100094: 3920
+    100096: 3921
+    100098: 3923
+    100100: 3924
+    100102: 3927
+    100104: 3928
+    100106: 3929
+    100108: 3930
+    100110: 3931
+    100112: 3932
+    100114: 3933
+    100116: 3934
+    100118: 3935
+    100120: 3936
+    100122: 3937
+    100124: 3938
+    100126: 3966
+    100128: 3968
+    100130: 3970
+    100132: 3972
+    100134: 3974
+    100136: 3976
+    100138: 3980
+    100140: 3982
+    100142: 3984
+    100144: 3986
+    100146: 3988
+    100148: 3990
+    100150: 3992
+    100152: 3994
+    100154: 3994 1
+    100156: 3994 2
+    100158: 3994 3
+    100160: 3994 4
+    100162: 3994 5
+    100164: 3996
+    100166: 3996 1
+    100168: 3996 2
+    100170: 3996 3
+    100172: 3996 4
+    100174: 3996 5
+    100176: 3997
+    100178: 3998
+    100180: 3999
+    100182: 4000
+    100184: 4001
+    100186: 4003
+    100188: 4005
+    100190: 4007
+    100192: 4009
+    100194: 4011
+    100196: 4013
+    100198: 4015
+    100200: 4017
+    100202: 4019
+    100204: 4021
+    100206: 4023
+    100208: 4025
+    100210: 4027
+    100212: 4029
+    100214: 4031
+    100216: 4033
+    100218: 4035
+    100220: 4037
+    100222: 4039
+    100224: 4041
+    100226: 4043
+    100228: 4045
+    100230: 4047
+    100232: 4049
+    100234: 4050
+    100236: 4051
+    100238: 4052
+    100240: 4054
+    100242: 4056
+    100244: 4058
+    100246: 4060
+    100248: 4061
+    100250: 4062
+    100252: 4064
+    100254: 4065
+    100256: 4066
+    100258: 4068
+    100260: 4070
+    100262: 4071
+    100264: 4072
+    100266: 4073
+    100268: 4074
+    100270: 4075
+    100272: 4076
+    100274: 4077
+    100276: 4079
+    100278: 4081
+    100280: 4083
+    100282: 4085
+    100284: 4086
+    100286: 4088
+    100288: 4089
+    100290: 4091
+    100292: 4093
+    100294: 4094
+    100296: 4096
+    100298: 4097
+    100300: 4099
+    100302: 4101
+    100304: 4102
+    100306: 4103
+    100308: 4105
+    100310: 4107
+    100312: "_\xC2-\xCC\xE0\xF1\xEB\xE5\xED\xEA\xE0 1,2 (\xCC10\xF51) \xC3\xCE\xD1\xD219853-74_38"
+    100314: Adjusting spindle:1
+    100316: //RootNode
+    100318: Ball:1
+    100320: Ball:2
+    100322: Body:1
+    100324: Bonnet:1
+    100326: Boss-Extrude26
+    100328: Boss-Extrude3
+    100330: Box001
+    100332: Box002
+    100334: Box003
+    100336: Box004
+    100338: Box005
+    100340: Box006
+    100342: Box007
+    100344: Box008
+    100346: Box009
+    100348: Box009 1
+    100350: Box010
+    100352: Box011
+    100354: Box012
+    100356: Box013
+    100358: Box014
+    100360: Chamfer5
+    100362: Chamfer6
+    100364: CirPattern1
+    100366: Copy of Bushing 2-1^angular valve
+    100368: Copy of bushing-1^angular valve
+    100370: Copy of oring-1^angular valve
+    100372: Copy of pressure cap-1^angular valve
+    100374: Copy of Ring-1^angular valve
+    100376: Copy of Safety-1^angular valve
+    100378: Copy of Shaft nut-1^angular valve
+    100380: Copy of Shaft-1^angular valve
+    100382: Copy of Spacer-1^angular valve
+    100384: Copy of Spacer-1^angular valve 1
+    100386: Copy of Valve cap-1^angular valve
+    100388: Copy of Valve nut-1^angular valve
+    100390: Copy of Valve-1^angular valve
+    100392: Copy of Wheel-1^angular valve
+    100394: Coupling_nut:1
+    100396: Cut-Extrude19
+    100398: Cut-Extrude19_MeshPart0
+    100400: Cut-Extrude19_MeshPart1
+    100402: Cut-Extrude19_MeshPart2
+    100404: Cut-Extrude20
+    100406: dlawiiik
+    100408: Extrude2
+    100410: Feder 300x35x15
+    100412: Feder 300x35x15_MeshPart0
+    100414: Feder 300x35x15_MeshPart1
+    100416: Fillet1
+    100418: Fillet38
+    100420: Fillet44
+    100422: Fillet56
+    100424: Fillet58
+    100426: Fillet59
+    100428: Fillet60
+    100430: Fillet64
+    100432: Fillet73
+    100434: Fillet73_MeshPart0
+    100436: Fillet73_MeshPart1
+    100438: Fillet73_MeshPart2
+    100440: Flachdichtung 170x140x1
+    100442: Flange:1
+    100444: Flange:2
+    100446: Flywheel:1
+    100448: GarterSpring:1
+    100450: Gasket:1
+    100452: Gasket:2
+    100454: Gasket:3
+    100456: Gasket:4
+    100458: Gasket:5
+    100460: Gasket:6
+    100462: Group001
+    100464: Group002
+    100466: Group003
+    100468: Group004
+    100470: Group005
+    100472: Group006
+    100474: Group007
+    100476: Group008
+    100478: Group009
+    100480: Group010
+    100482: Group011
+    100484: Group012
+    100486: Group013
+    100488: grzyb
+    100490: Handwheel:1
+    100492: hex nut gradec_iso-23-solid1
+    100494: hex nut gradec_iso-24-solid1
+    100496: hex nut gradec_iso-44-solid1
+    100498: hex nut gradec_iso-54-solid1
+    100500: hex nut gradec_iso-68-solid1
+    100502: hex nut gradec_iso-74-solid1
+    100504: hex nut gradec_iso-75-solid1
+    100506: hex nut gradec_iso-76-solid1
+    100508: hex nut gradec_iso-77-solid1
+    100510: hex nut gradec_iso-78-solid1
+    100512: hex nut gradec_iso-79-solid1
+    100514: hex nut gradec_iso-80-solid1
+    100516: hex nut gradec_iso-81-solid1
+    100518: Imported1
+    100520: Imported1 1
+    100522: Imported1 10
+    100524: Imported1 11
+    100526: Imported1 12
+    100528: Imported1 13
+    100530: Imported1 14
+    100532: Imported1 2
+    100534: Imported1 3
+    100536: Imported1 4
+    100538: Imported1 5
+    100540: Imported1 6
+    100542: Imported1 7
+    100544: Imported1 8
+    100546: Imported1 9
+    100548: Indicator:1
+    100550: JunkRing:1
+    100552: korp1
+    100554: korp1_MeshPart0
+    100556: korp1_MeshPart1
+    100558: korp2
+    100560: korpus
+    100562: korpus2.Renamed
+    100564: korpus_MeshPart0
+    100566: korpus_MeshPart1
+    100568: kulka.Renamed
+    100570: LockBolt:1
+    100572: m8
+    100574: m8 1
+    100576: m8 2
+    100578: m8 3
+    100580: Mirror2[1]
+    100582: Mirror2[2]
+    100584: Mirror3[1]
+    100586: Mirror3[2]
+    100588: Mirror3[3]
+    100590: Mirror3[4]
+    100592: Mirror4[1]
+    100594: Mirror4[2]
+    100596: Mirror4[3]
+    100598: Mirror4[4]
+    100600: Mutter_M16
+    100602: Mutter_M16 1
+    100604: nakretka.1
+    100606: nakretka_1
+    100608: NAUO10
+    100610: NAUO11
+    100612: NAUO13
+    100614: NAUO15
+    100616: NAUO17
+    100618: NAUO19
+    100620: NAUO2
+    100622: NAUO20
+    100624: NAUO21
+    100626: NAUO22
+    100628: NAUO23
+    100630: NAUO24
+    100632: NAUO25
+    100634: NAUO26
+    100636: NAUO27
+    100638: NAUO28
+    100640: NAUO3
+    100642: NAUO4
+    100644: NAUO5
+    100646: NAUO7
+    100648: NAUO8
+    100650: NAUO9
+    100652: Needle:1
+    100654: "Nut 11871_gost_\x83\_\xA9\xAA\_ M52x1 \x83\x8E\x91\x92 11871-88_9"
+    100656: Nut 1:1
+    100658: Nut:1
+    100660: O-Ring 30x3
+    100662: Packing:1
+    100664: part1-1-solid1
+    100666: Part1.2
+    100668: Part1.3
+    100670: Part1.4
+    100672: Part1.5
+    100674: Part1.6
+    100676: Part1.7
+    100678: Part1.8
+    100680: Part1.9
+    100682: part10-1-solid1
+    100684: part12-1-solid1
+    100686: part13-1-solid1
+    100688: part13-2-solid1
+    100690: part13-3-solid1
+    100692: part22-2-solid1
+    100694: Part3-1-solid1
+    100696: Part4-1-solid1
+    100698: Part4-2-solid1
+    100700: part5-1-solid1
+    100702: part5-2-solid1
+    100704: part6-1-solid1
+    100706: part6-1-solid2
+    100708: part7-4-solid1
+    100710: part7-5-solid1
+    100712: part7-6-solid1
+    100714: part7-7-solid1
+    100716: part9-1-solid1
+    100718: PartBody
+    100720: PartBody 1
+    100722: PartBody 2
+    100724: PartBody 3
+    100726: PartBody 4
+    100728: PartBody 5
+    100730: PartBody 6
+    100732: PartBody001
+    100734: PartBody002
+    100736: PartBody005
+    100738: PartBody006
+    100740: "Pin 397 C_gost_\x98\xAF\xAB\xA8\xAD\xE2 4x32 \x83\x8E\x91\x92 397-79_39"
+    100742: "Pin 397 C_gost_\x98\xAF\xAB\xA8\xAD\xE2 4x32 \x83\x8E\x91\x92 397-79_40"
+    100744: plain washer 10673 type snl_iso-1-solid1
+    100746: podk
+    100748: Revolve14
+    100750: Revolve3
+    100752: Revolve4
+    100754: Revolve4_MeshPart0
+    100756: Revolve4_MeshPart1
+    100758: Revolve8[1]
+    100760: Revolve8[2]
+    100762: Revolve8[3]
+    100764: Revolve8[4]
+    100766: Sealing PTFE bottom:1
+    100768: Sealing PTFE top:1
+    100770: Sealing PTFE:1
+    100772: Sealing PTFE:2
+    100774: Sealing PTFE:3
+    100776: Sealing PTFE:4
+    100778: Sealing PTFE:5
+    100780: Sealing PTFE:6
+    100782: Sealing washer 2:1
+    100784: Sealing washer:1
+    100786: SealRing:1
+    100788: Seat:002
+    100790: Seat:1
+    100792: SechskantmutterDIN8675_M42x2
+    100794: Segment:1
+    100796: Segment:2
+    100798: Segment:3
+    100800: Shaft body:1
+    100802: shaft lock:1
+    100804: shaft lock:2
+    100806: Solid1
+    100808: Solid1 1
+    100810: Solid1 10
+    100812: Solid1 11
+    100814: Solid1 12
+    100816: Solid1 13
+    100818: Solid1 14
+    100820: Solid1 15
+    100822: Solid1 16
+    100824: Solid1 17
+    100826: Solid1 18
+    100828: Solid1 19
+    100830: Solid1 2
+    100832: Solid1 20
+    100834: Solid1 21
+    100836: Solid1 22
+    100838: Solid1 23
+    100840: Solid1 24
+    100842: Solid1 25
+    100844: Solid1 26
+    100846: Solid1 27
+    100848: Solid1 28
+    100850: Solid1 29
+    100852: Solid1 3
+    100854: Solid1 30
+    100856: Solid1 31
+    100858: Solid1 32
+    100860: Solid1 33
+    100862: Solid1 34
+    100864: Solid1 35
+    100866: Solid1 36
+    100868: Solid1 37
+    100870: Solid1 38
+    100872: Solid1 39
+    100874: Solid1 4
+    100876: Solid1 40
+    100878: Solid1 41
+    100880: Solid1 42
+    100882: Solid1 43
+    100884: Solid1 44
+    100886: Solid1 45
+    100888: Solid1 46
+    100890: Solid1 46_MeshPart0
+    100892: Solid1 46_MeshPart1
+    100894: Solid1 47
+    100896: Solid1 48
+    100898: Solid1 48_MeshPart0
+    100900: Solid1 48_MeshPart1
+    100902: Solid1 48_MeshPart2
+    100904: Solid1 49
+    100906: Solid1 5
+    100908: Solid1 50
+    100910: Solid1 51
+    100912: Solid1 52
+    100914: Solid1 53
+    100916: Solid1 54
+    100918: Solid1 55
+    100920: Solid1 56
+    100922: Solid1 57
+    100924: Solid1 58
+    100926: Solid1 59
+    100928: Solid1 6
+    100930: Solid1 60
+    100932: Solid1 61
+    100934: Solid1 62
+    100936: Solid1 63
+    100938: Solid1 64
+    100940: Solid1 65
+    100942: Solid1 66
+    100944: Solid1 67
+    100946: Solid1 68
+    100948: Solid1 69
+    100950: Solid1 7
+    100952: Solid1 70
+    100954: Solid1 71
+    100956: Solid1 72
+    100958: Solid1 73
+    100960: Solid1 74
+    100962: Solid1 75
+    100964: Solid1 76
+    100966: Solid1 77
+    100968: Solid1 78
+    100970: Solid1 79
+    100972: Solid1 8
+    100974: Solid1 80
+    100976: Solid1 81
+    100978: Solid1 82
+    100980: Solid1 83
+    100982: Solid1 84
+    100984: Solid1 85
+    100986: Solid1 86
+    100988: Solid1 87
+    100990: Solid1 88
+    100992: Solid1 89
+    100994: Solid1 9
+    100996: Solid1 90
+    100998: Solid1 91
+    101000: Solid1 92
+    101002: Solid1 93
+    101004: Solid1 94
+    101006: Solid1 95
+    101008: Solid1 96
+    101010: Solid1 97
+    101012: "Spannh\xFClse geschlitzt DIN EN ISO 13337-6x40"
+    101014: Spindle cup:1
+    101016: Spindle:1
+    101018: Stehbolzen M16x60
+    101020: Stehbolzen M16x60 1
+    101022: Stem_:1
+    101024: stitch_result_stitch all
+    101026: stitch_result_stitch all 1
+    101028: stitch_result_stitch all 10
+    101030: stitch_result_stitch all 100
+    101032: stitch_result_stitch all 101
+    101034: stitch_result_stitch all 102
+    101036: stitch_result_stitch all 103
+    101038: stitch_result_stitch all 104
+    101040: stitch_result_stitch all 105
+    101042: stitch_result_stitch all 106
+    101044: stitch_result_stitch all 107
+    101046: stitch_result_stitch all 108
+    101048: stitch_result_stitch all 109
+    101050: stitch_result_stitch all 11
+    101052: stitch_result_stitch all 110
+    101054: stitch_result_stitch all 111
+    101056: stitch_result_stitch all 112
+    101058: stitch_result_stitch all 113
+    101060: stitch_result_stitch all 114
+    101062: stitch_result_stitch all 115
+    101064: stitch_result_stitch all 116
+    101066: stitch_result_stitch all 117
+    101068: stitch_result_stitch all 118
+    101070: stitch_result_stitch all 119
+    101072: stitch_result_stitch all 12
+    101074: stitch_result_stitch all 120
+    101076: stitch_result_stitch all 121
+    101078: stitch_result_stitch all 122
+    101080: stitch_result_stitch all 123
+    101082: stitch_result_stitch all 124
+    101084: stitch_result_stitch all 125
+    101086: stitch_result_stitch all 126
+    101088: stitch_result_stitch all 127
+    101090: stitch_result_stitch all 128
+    101092: stitch_result_stitch all 129
+    101094: stitch_result_stitch all 13
+    101096: stitch_result_stitch all 130
+    101098: stitch_result_stitch all 131
+    101100: stitch_result_stitch all 132
+    101102: stitch_result_stitch all 133
+    101104: stitch_result_stitch all 134
+    101106: stitch_result_stitch all 135
+    101108: stitch_result_stitch all 136
+    101110: stitch_result_stitch all 137
+    101112: stitch_result_stitch all 138
+    101114: stitch_result_stitch all 139
+    101116: stitch_result_stitch all 14
+    101118: stitch_result_stitch all 140
+    101120: stitch_result_stitch all 141
+    101122: stitch_result_stitch all 142
+    101124: stitch_result_stitch all 143
+    101126: stitch_result_stitch all 144
+    101128: stitch_result_stitch all 145
+    101130: stitch_result_stitch all 146
+    101132: stitch_result_stitch all 147
+    101134: stitch_result_stitch all 148
+    101136: stitch_result_stitch all 149
+    101138: stitch_result_stitch all 15
+    101140: stitch_result_stitch all 150
+    101142: stitch_result_stitch all 151
+    101144: stitch_result_stitch all 152
+    101146: stitch_result_stitch all 153
+    101148: stitch_result_stitch all 154
+    101150: stitch_result_stitch all 155
+    101152: stitch_result_stitch all 156
+    101154: stitch_result_stitch all 157
+    101156: stitch_result_stitch all 158
+    101158: stitch_result_stitch all 159
+    101160: stitch_result_stitch all 16
+    101162: stitch_result_stitch all 160
+    101164: stitch_result_stitch all 161
+    101166: stitch_result_stitch all 162
+    101168: stitch_result_stitch all 163
+    101170: stitch_result_stitch all 164
+    101172: stitch_result_stitch all 165
+    101174: stitch_result_stitch all 166
+    101176: stitch_result_stitch all 167
+    101178: stitch_result_stitch all 168
+    101180: stitch_result_stitch all 169
+    101182: stitch_result_stitch all 17
+    101184: stitch_result_stitch all 170
+    101186: stitch_result_stitch all 171
+    101188: stitch_result_stitch all 172
+    101190: stitch_result_stitch all 173
+    101192: stitch_result_stitch all 174
+    101194: stitch_result_stitch all 175
+    101196: stitch_result_stitch all 176
+    101198: stitch_result_stitch all 177
+    101200: stitch_result_stitch all 178
+    101202: stitch_result_stitch all 179
+    101204: stitch_result_stitch all 18
+    101206: stitch_result_stitch all 180
+    101208: stitch_result_stitch all 181
+    101210: stitch_result_stitch all 182
+    101212: stitch_result_stitch all 183
+    101214: stitch_result_stitch all 184
+    101216: stitch_result_stitch all 185
+    101218: stitch_result_stitch all 186
+    101220: stitch_result_stitch all 187
+    101222: stitch_result_stitch all 188
+    101224: stitch_result_stitch all 189
+    101226: stitch_result_stitch all 19
+    101228: stitch_result_stitch all 190
+    101230: stitch_result_stitch all 191
+    101232: stitch_result_stitch all 192
+    101234: stitch_result_stitch all 193
+    101236: stitch_result_stitch all 194
+    101238: stitch_result_stitch all 195
+    101240: stitch_result_stitch all 196
+    101242: stitch_result_stitch all 197
+    101244: stitch_result_stitch all 198
+    101246: stitch_result_stitch all 199
+    101248: stitch_result_stitch all 2
+    101250: stitch_result_stitch all 20
+    101252: stitch_result_stitch all 200
+    101254: stitch_result_stitch all 201
+    101256: stitch_result_stitch all 202
+    101258: stitch_result_stitch all 203
+    101260: stitch_result_stitch all 204
+    101262: stitch_result_stitch all 205
+    101264: stitch_result_stitch all 206
+    101266: stitch_result_stitch all 207
+    101268: stitch_result_stitch all 208
+    101270: stitch_result_stitch all 209
+    101272: stitch_result_stitch all 21
+    101274: stitch_result_stitch all 210
+    101276: stitch_result_stitch all 211
+    101278: stitch_result_stitch all 212
+    101280: stitch_result_stitch all 213
+    101282: stitch_result_stitch all 214
+    101284: stitch_result_stitch all 215
+    101286: stitch_result_stitch all 216
+    101288: stitch_result_stitch all 217
+    101290: stitch_result_stitch all 218
+    101292: stitch_result_stitch all 219
+    101294: stitch_result_stitch all 22
+    101296: stitch_result_stitch all 220
+    101298: stitch_result_stitch all 221
+    101300: stitch_result_stitch all 222
+    101302: stitch_result_stitch all 223
+    101304: stitch_result_stitch all 224
+    101306: stitch_result_stitch all 225
+    101308: stitch_result_stitch all 226
+    101310: stitch_result_stitch all 227
+    101312: stitch_result_stitch all 228
+    101314: stitch_result_stitch all 229
+    101316: stitch_result_stitch all 23
+    101318: stitch_result_stitch all 230
+    101320: stitch_result_stitch all 231
+    101322: stitch_result_stitch all 232
+    101324: stitch_result_stitch all 233
+    101326: stitch_result_stitch all 234
+    101328: stitch_result_stitch all 235
+    101330: stitch_result_stitch all 236
+    101332: stitch_result_stitch all 237
+    101334: stitch_result_stitch all 238
+    101336: stitch_result_stitch all 239
+    101338: stitch_result_stitch all 24
+    101340: stitch_result_stitch all 240
+    101342: stitch_result_stitch all 241
+    101344: stitch_result_stitch all 242
+    101346: stitch_result_stitch all 243
+    101348: stitch_result_stitch all 244
+    101350: stitch_result_stitch all 245
+    101352: stitch_result_stitch all 246
+    101354: stitch_result_stitch all 247
+    101356: stitch_result_stitch all 248
+    101358: stitch_result_stitch all 249
+    101360: stitch_result_stitch all 25
+    101362: stitch_result_stitch all 250
+    101364: stitch_result_stitch all 251
+    101366: stitch_result_stitch all 252
+    101368: stitch_result_stitch all 253
+    101370: stitch_result_stitch all 254
+    101372: stitch_result_stitch all 255
+    101374: stitch_result_stitch all 256
+    101376: stitch_result_stitch all 257
+    101378: stitch_result_stitch all 258
+    101380: stitch_result_stitch all 259
+    101382: stitch_result_stitch all 26
+    101384: stitch_result_stitch all 260
+    101386: stitch_result_stitch all 261
+    101388: stitch_result_stitch all 262
+    101390: stitch_result_stitch all 263
+    101392: stitch_result_stitch all 264
+    101394: stitch_result_stitch all 265
+    101396: stitch_result_stitch all 266
+    101398: stitch_result_stitch all 267
+    101400: stitch_result_stitch all 268
+    101402: stitch_result_stitch all 269
+    101404: stitch_result_stitch all 27
+    101406: stitch_result_stitch all 270
+    101408: stitch_result_stitch all 271
+    101410: stitch_result_stitch all 272
+    101412: stitch_result_stitch all 273
+    101414: stitch_result_stitch all 274
+    101416: stitch_result_stitch all 275
+    101418: stitch_result_stitch all 276
+    101420: stitch_result_stitch all 277
+    101422: stitch_result_stitch all 278
+    101424: stitch_result_stitch all 279
+    101426: stitch_result_stitch all 28
+    101428: stitch_result_stitch all 280
+    101430: stitch_result_stitch all 281
+    101432: stitch_result_stitch all 282
+    101434: stitch_result_stitch all 283
+    101436: stitch_result_stitch all 284
+    101438: stitch_result_stitch all 285
+    101440: stitch_result_stitch all 286
+    101442: stitch_result_stitch all 287
+    101444: stitch_result_stitch all 288
+    101446: stitch_result_stitch all 289
+    101448: stitch_result_stitch all 29
+    101450: stitch_result_stitch all 290
+    101452: stitch_result_stitch all 291
+    101454: stitch_result_stitch all 292
+    101456: stitch_result_stitch all 293
+    101458: stitch_result_stitch all 294
+    101460: stitch_result_stitch all 295
+    101462: stitch_result_stitch all 296
+    101464: stitch_result_stitch all 297
+    101466: stitch_result_stitch all 298
+    101468: stitch_result_stitch all 299
+    101470: stitch_result_stitch all 3
+    101472: stitch_result_stitch all 30
+    101474: stitch_result_stitch all 300
+    101476: stitch_result_stitch all 301
+    101478: stitch_result_stitch all 31
+    101480: stitch_result_stitch all 32
+    101482: stitch_result_stitch all 33
+    101484: stitch_result_stitch all 34
+    101486: stitch_result_stitch all 35
+    101488: stitch_result_stitch all 36
+    101490: stitch_result_stitch all 37
+    101492: stitch_result_stitch all 38
+    101494: stitch_result_stitch all 39
+    101496: stitch_result_stitch all 4
+    101498: stitch_result_stitch all 40
+    101500: stitch_result_stitch all 41
+    101502: stitch_result_stitch all 42
+    101504: stitch_result_stitch all 43
+    101506: stitch_result_stitch all 44
+    101508: stitch_result_stitch all 45
+    101510: stitch_result_stitch all 46
+    101512: stitch_result_stitch all 47
+    101514: stitch_result_stitch all 48
+    101516: stitch_result_stitch all 49
+    101518: stitch_result_stitch all 5
+    101520: stitch_result_stitch all 50
+    101522: stitch_result_stitch all 51
+    101524: stitch_result_stitch all 52
+    101526: stitch_result_stitch all 53
+    101528: stitch_result_stitch all 54
+    101530: stitch_result_stitch all 55
+    101532: stitch_result_stitch all 56
+    101534: stitch_result_stitch all 57
+    101536: stitch_result_stitch all 58
+    101538: stitch_result_stitch all 59
+    101540: stitch_result_stitch all 6
+    101542: stitch_result_stitch all 60
+    101544: stitch_result_stitch all 61
+    101546: stitch_result_stitch all 62
+    101548: stitch_result_stitch all 63
+    101550: stitch_result_stitch all 64
+    101552: stitch_result_stitch all 65
+    101554: stitch_result_stitch all 66
+    101556: stitch_result_stitch all 67
+    101558: stitch_result_stitch all 68
+    101560: stitch_result_stitch all 69
+    101562: stitch_result_stitch all 7
+    101564: stitch_result_stitch all 70
+    101566: stitch_result_stitch all 71
+    101568: stitch_result_stitch all 72
+    101570: stitch_result_stitch all 73
+    101572: stitch_result_stitch all 74
+    101574: stitch_result_stitch all 75
+    101576: stitch_result_stitch all 76
+    101578: stitch_result_stitch all 77
+    101580: stitch_result_stitch all 78
+    101582: stitch_result_stitch all 79
+    101584: stitch_result_stitch all 8
+    101586: stitch_result_stitch all 80
+    101588: stitch_result_stitch all 81
+    101590: stitch_result_stitch all 82
+    101592: stitch_result_stitch all 83
+    101594: stitch_result_stitch all 84
+    101596: stitch_result_stitch all 85
+    101598: stitch_result_stitch all 86
+    101600: stitch_result_stitch all 87
+    101602: stitch_result_stitch all 88
+    101604: stitch_result_stitch all 89
+    101606: stitch_result_stitch all 9
+    101608: stitch_result_stitch all 90
+    101610: stitch_result_stitch all 90_MeshPart0
+    101612: stitch_result_stitch all 90_MeshPart1
+    101614: stitch_result_stitch all 91
+    101616: stitch_result_stitch all 92
+    101618: stitch_result_stitch all 92_MeshPart0
+    101620: stitch_result_stitch all 92_MeshPart1
+    101622: stitch_result_stitch all 93
+    101624: stitch_result_stitch all 94
+    101626: stitch_result_stitch all 95
+    101628: stitch_result_stitch all 96
+    101630: stitch_result_stitch all 97
+    101632: stitch_result_stitch all 98
+    101634: stitch_result_stitch all 99
+    101636: Stopfen mit Rand_R3_8_Zoll
+    101638: SV911-80_125-Body
+    101640: SV911-80_125-Ring
+    101642: SV911-80_125_Druckplatte
+    101644: SV911-80_125_Druckplatte 1
+    101646: SV911-80_125_Federschraube
+    101648: "SV911-80_125_F\xFChrungsscheibe"
+    101650: SV911-80_125_Kappe
+    101652: SV911-80_125_Kugel
+    101654: SV911-80_125_Seat
+    101656: SV911-80_125_Spindel
+    101658: SV911-80_125_Springcover
+    101660: SV911-80_125_Teller
+    101662: SV911-80_Lead Seal
+    101664: ucwyyt
+    101666: UnionNut:1
+    101668: uszcz
+    101670: uszcz2
+    101672: uszcz3
+    101674: uszcz4
+    101676: Valve body:1
+    101678: VitonORing:1
+    101680: walek
+    101682: walek_MeshPart0
+    101684: walek_MeshPart1
+    101686: Washer:1
+    101688: Wire 1mm
+    101690: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_30"
+    101692: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_31"
+    101694: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_32"
+    101696: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_33"
+    101698: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_34"
+    101700: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_35"
+    101702: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_36"
+    101704: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_37"
+    101706: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    101708: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 1"
+    101710: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 10"
+    101712: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 11"
+    101714: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 12"
+    101716: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 2"
+    101718: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 3"
+    101720: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 4"
+    101722: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 5"
+    101724: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 6"
+    101726: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 7"
+    101728: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 8"
+    101730: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 9"
+    101732: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1"
+    101734: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1 1"
+    101736: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1 2"
+    101738: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1 3"
+    101740: "\xC2\xFB\xF0\xE5\xE72"
+    101742: "\xC2\xFB\xF0\xE5\xE72 1"
+    101744: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    101746: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 1"
+    101748: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 2"
+    101750: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 3"
+    101752: "\xC3\xE0\xE9\xEA\xE0_\xC2_5915-70_\x8C10_24"
+    101754: "\xC3\xE0\xE9\xEA\xE0_\xC2_5915-70_\x8C10_25"
+    101756: "\xC3\xE0\xE9\xEA\xE0_\xC2_5915-70_\x8C10_26"
+    101758: "\xC3\xE0\xE9\xEA\xE0_\xC2_5915-70_\x8C10_28"
+    101760: "\xC4\xE8\xE0\xEC\xE5\xF2\xF0 \xEE\xF2\xE2\xE5\xF0\xF1\xF2\xE8\xFF O24.0
+      (24)1"
+    101762: "\xC7\xE5\xF0\xEA\xE0\xEB\xFC\xED\xEE\xE5 \xEE\xF2\xF0\xE0\xE6\xE5\xED\xE8\xE51"
+    101764: "\xCA\xF0\xF3\xE3\xEE\xE2\xEE\xE9 \xEC\xE0\xF1\xF1\xE8\xE22"
+    101766: "\xCE\xF2\xE2\xE5\xF0\xF1\xF2\xE8\xE5 \xEE\xE1\xF0\xE0\xE1\xEE\xF2\xE0\xED\xED\xEE\xE5
+      \xEC\xE5\xF2\xF7\xE8\xEA\xEE\xEC M10x11"
+    101768: "\xCF\xC0540.300.00.01_\xCA\xEE\xF0\xEF\xF3\xF1_00_1"
+    101770: "\xCF\xC0540.300.00.02_\xCD\xEE\xE6_00_4"
+    101772: "\xCF\xC0540.300.00.03_\xD1\xF2\xEE\xE9\xEA\xE0_2"
+    101774: "\xCF\xC0540.300.00.03_\xD1\xF2\xEE\xE9\xEA\xE0_3"
+    101776: "\xCF\xC0540.300.00.04_\xCF\xE5\xF0\xE5\xEC\xFB\xF7\xEA\xE0_00_5"
+    101778: "\xCF\xC0540.300.00.05_\xCC\xE0\xF5\xEE\xE2\xE8\xEA_6"
+    101780: "\xCF\xC0540.300.00.06_\xC3\xE0\xE9\xEA\xE0_00_7"
+    101782: "\xCF\xC0540.300.00.07\xD8\xE0\xE9\xE1\xE0_00_8"
+    101784: "\xCF\xC0540.300.00.08_\xC2\xE8\xED\xF2_10"
+    101786: "\xCF\xC0540.300.00.08_\xC4\xE5\xF0\xE6\xE0\xF2\xE5\xEB\xFC \xE2\xE8\xED\xF2\xE0_11"
+    101788: "\xCF\xC0540.300.00.09_\xCD\xE0\xE1\xE8\xE2\xEA\xE0_00_12"
+    101790: "\xCF\xC0540.300.00.09_\xCD\xE0\xE1\xE8\xE2\xEA\xE0_00_13"
+    101792: "\xCF\xC0540.300.00.09_\xCD\xE0\xE1\xE8\xE2\xEA\xE0_00_14"
+    101794: "\xCF\xC0540.300.00.10_\xCF\xE0\xEB\xE5\xF6_15"
+    101796: "\xCF\xC0540.300.00.10_\xCF\xE0\xEB\xE5\xF6_16"
+    101798: "\xCF\xC0540.300.00.11_\xCF\xF0\xE8\xE6\xE8\xEC_00_17"
+    101800: "\xD0\xE5\xE7\xFC\xE1\xE01"
+    101802: "\xD0\xE5\xE7\xFC\xE1\xE01 1"
+    101804: "\xD0\xE5\xE7\xFC\xE1\xE01 1_MeshPart0"
+    101806: "\xD0\xE5\xE7\xFC\xE1\xE01 1_MeshPart1"
+    101808: "\xD0\xE5\xE7\xFC\xE1\xE01 1_MeshPart2"
+    101810: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51"
+    101812: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51 1"
+    101814: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51 2"
+    101816: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE52"
+    101818: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521"
+    101820: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart0"
+    101822: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart1"
+    101824: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart2"
+    101826: "\xD4\xE0\xF1\xEA\xE01"
+    101828: "\xD4\xE0\xF1\xEA\xE01 1"
+    101830: "\xD4\xE0\xF1\xEA\xE01 2"
+    101832: "\xD4\xE0\xF1\xEA\xE01 3"
+    101834: "\xD8\xE0\xE9\xE1\xE0_11371-78_\xE410_22"
+    101836: "\xD8\xE0\xE9\xE1\xE0_11371-78_\xE410_23"
+    101838: "\xD8\xE0\xE9\xE1\xE0_11371-78_\xE410_27"
+    101840: "\xD8\xE0\xE9\xE1\xE0_11371-78_\xE410_29"
+    101842: "\xD8\xEF\xE8\xEB\xFC\xEA\xE0 10\xF560_\x98\xAF\xA8\xAB\xEC\xAA\_ M10x0,5-6gx60.36.10.013
+      \x83\x8E\x91\x92 22042-76_18"
+    101844: "\xD8\xEF\xE8\xEB\xFC\xEA\xE0 10\xF560_\x98\xAF\xA8\xAB\xEC\xAA\_ M10x0,5-6gx60.36.10.013
+      \x83\x8E\x91\x92 22042-76_19"
+    101846: "\xD8\xEF\xE8\xEB\xFC\xEA\xE0 10\xF560_\x98\xAF\xA8\xAB\xEC\xAA\_ M10x0,5-6gx60.36.10.013
+      \x83\x8E\x91\x92 22042-76_20"
+    101848: "\xD8\xEF\xE8\xEB\xFC\xEA\xE0 10\xF560_\x98\xAF\xA8\xAB\xEC\xAA\_ M10x0,5-6gx60.36.10.013
+      \x83\x8E\x91\x92 22042-76_21"
+    101850: "\u0414\u0435\u0442\u0430\u043B\u044C7:1"
+    400000: 3835
+    400002: 3836
+    400004: 3837
+    400006: 3838
+    400008: 3839
+    400010: 3840
+    400012: 3841
+    400014: 3842
+    400016: 3843
+    400018: 3844
+    400020: 3845
+    400022: 3846
+    400024: 3847
+    400026: 3848
+    400028: 3849
+    400030: 3850
+    400032: 3852
+    400034: 3853
+    400036: 3854
+    400038: 3855
+    400040: 3857
+    400042: 3858
+    400044: 3859
+    400046: 3861
+    400048: 3862
+    400050: 3863
+    400052: 3864
+    400054: 3865
+    400056: 3867
+    400058: 3868
+    400060: 3869
+    400062: 3870
+    400064: 3871
+    400066: 3872
+    400068: 3903
+    400070: 3904
+    400072: 3905
+    400074: 3906
+    400076: 3907
+    400078: 3908
+    400080: 3911
+    400082: 3914
+    400084: 3915
+    400086: 3916
+    400088: 3917
+    400090: 3918
+    400092: 3919
+    400094: 3920
+    400096: 3921
+    400098: 3923
+    400100: 3924
+    400102: 3927
+    400104: 3928
+    400106: 3929
+    400108: 3930
+    400110: 3931
+    400112: 3932
+    400114: 3933
+    400116: 3934
+    400118: 3935
+    400120: 3936
+    400122: 3937
+    400124: 3938
+    400126: 3966
+    400128: 3968
+    400130: 3970
+    400132: 3972
+    400134: 3974
+    400136: 3976
+    400138: 3980
+    400140: 3982
+    400142: 3984
+    400144: 3986
+    400146: 3988
+    400148: 3990
+    400150: 3992
+    400152: 3994
+    400154: 3994 1
+    400156: 3994 2
+    400158: 3994 3
+    400160: 3994 4
+    400162: 3994 5
+    400164: 3996
+    400166: 3996 1
+    400168: 3996 2
+    400170: 3996 3
+    400172: 3996 4
+    400174: 3996 5
+    400176: 3997
+    400178: 3998
+    400180: 3999
+    400182: 4000
+    400184: 4001
+    400186: 4003
+    400188: 4005
+    400190: 4007
+    400192: 4009
+    400194: 4011
+    400196: 4013
+    400198: 4015
+    400200: 4017
+    400202: 4019
+    400204: 4021
+    400206: 4023
+    400208: 4025
+    400210: 4027
+    400212: 4029
+    400214: 4031
+    400216: 4033
+    400218: 4035
+    400220: 4037
+    400222: 4039
+    400224: 4041
+    400226: 4043
+    400228: 4045
+    400230: 4047
+    400232: 4049
+    400234: 4050
+    400236: 4051
+    400238: 4052
+    400240: 4054
+    400242: 4056
+    400244: 4058
+    400246: 4060
+    400248: 4061
+    400250: 4062
+    400252: 4064
+    400254: 4065
+    400256: 4066
+    400258: 4068
+    400260: 4070
+    400262: 4071
+    400264: 4072
+    400266: 4073
+    400268: 4074
+    400270: 4075
+    400272: 4076
+    400274: 4077
+    400276: 4079
+    400278: 4081
+    400280: 4083
+    400282: 4085
+    400284: 4086
+    400286: 4088
+    400288: 4089
+    400290: 4091
+    400292: 4093
+    400294: 4094
+    400296: 4096
+    400298: 4097
+    400300: 4099
+    400302: 4101
+    400304: 4102
+    400306: 4103
+    400308: 4105
+    400310: 4107
+    400312: "_\xC2-\xCC\xE0\xF1\xEB\xE5\xED\xEA\xE0 1,2 (\xCC10\xF51) \xC3\xCE\xD1\xD219853-74_38"
+    400314: Adjusting spindle:1
+    400316: //RootNode
+    400318: Ball:1
+    400320: Ball:2
+    400322: Body:1
+    400324: Bonnet:1
+    400326: Boss-Extrude26
+    400328: Boss-Extrude3
+    400330: Box001
+    400332: Box002
+    400334: Box003
+    400336: Box004
+    400338: Box005
+    400340: Box006
+    400342: Box007
+    400344: Box008
+    400346: Box009
+    400348: Box009 1
+    400350: Box010
+    400352: Box011
+    400354: Box012
+    400356: Box013
+    400358: Box014
+    400360: Chamfer5
+    400362: Chamfer6
+    400364: CirPattern1
+    400366: Copy of Bushing 2-1^angular valve
+    400368: Copy of bushing-1^angular valve
+    400370: Copy of oring-1^angular valve
+    400372: Copy of pressure cap-1^angular valve
+    400374: Copy of Ring-1^angular valve
+    400376: Copy of Safety-1^angular valve
+    400378: Copy of Shaft nut-1^angular valve
+    400380: Copy of Shaft-1^angular valve
+    400382: Copy of Spacer-1^angular valve
+    400384: Copy of Spacer-1^angular valve 1
+    400386: Copy of Valve cap-1^angular valve
+    400388: Copy of Valve nut-1^angular valve
+    400390: Copy of Valve-1^angular valve
+    400392: Copy of Wheel-1^angular valve
+    400394: Coupling_nut:1
+    400396: Cut-Extrude19
+    400398: Cut-Extrude19_MeshPart0
+    400400: Cut-Extrude19_MeshPart1
+    400402: Cut-Extrude19_MeshPart2
+    400404: Cut-Extrude20
+    400406: dlawiiik
+    400408: Extrude2
+    400410: Feder 300x35x15
+    400412: Feder 300x35x15_MeshPart0
+    400414: Feder 300x35x15_MeshPart1
+    400416: Fillet1
+    400418: Fillet38
+    400420: Fillet44
+    400422: Fillet56
+    400424: Fillet58
+    400426: Fillet59
+    400428: Fillet60
+    400430: Fillet64
+    400432: Fillet73
+    400434: Fillet73_MeshPart0
+    400436: Fillet73_MeshPart1
+    400438: Fillet73_MeshPart2
+    400440: Flachdichtung 170x140x1
+    400442: Flange:1
+    400444: Flange:2
+    400446: Flywheel:1
+    400448: GarterSpring:1
+    400450: Gasket:1
+    400452: Gasket:2
+    400454: Gasket:3
+    400456: Gasket:4
+    400458: Gasket:5
+    400460: Gasket:6
+    400462: Group001
+    400464: Group002
+    400466: Group003
+    400468: Group004
+    400470: Group005
+    400472: Group006
+    400474: Group007
+    400476: Group008
+    400478: Group009
+    400480: Group010
+    400482: Group011
+    400484: Group012
+    400486: Group013
+    400488: grzyb
+    400490: Handwheel:1
+    400492: hex nut gradec_iso-23-solid1
+    400494: hex nut gradec_iso-24-solid1
+    400496: hex nut gradec_iso-44-solid1
+    400498: hex nut gradec_iso-54-solid1
+    400500: hex nut gradec_iso-68-solid1
+    400502: hex nut gradec_iso-74-solid1
+    400504: hex nut gradec_iso-75-solid1
+    400506: hex nut gradec_iso-76-solid1
+    400508: hex nut gradec_iso-77-solid1
+    400510: hex nut gradec_iso-78-solid1
+    400512: hex nut gradec_iso-79-solid1
+    400514: hex nut gradec_iso-80-solid1
+    400516: hex nut gradec_iso-81-solid1
+    400518: Imported1
+    400520: Imported1 1
+    400522: Imported1 10
+    400524: Imported1 11
+    400526: Imported1 12
+    400528: Imported1 13
+    400530: Imported1 14
+    400532: Imported1 2
+    400534: Imported1 3
+    400536: Imported1 4
+    400538: Imported1 5
+    400540: Imported1 6
+    400542: Imported1 7
+    400544: Imported1 8
+    400546: Imported1 9
+    400548: Indicator:1
+    400550: JunkRing:1
+    400552: korp1
+    400554: korp1_MeshPart0
+    400556: korp1_MeshPart1
+    400558: korp2
+    400560: korpus
+    400562: korpus2.Renamed
+    400564: korpus_MeshPart0
+    400566: korpus_MeshPart1
+    400568: kulka.Renamed
+    400570: LockBolt:1
+    400572: m8
+    400574: m8 1
+    400576: m8 2
+    400578: m8 3
+    400580: Mirror2[1]
+    400582: Mirror2[2]
+    400584: Mirror3[1]
+    400586: Mirror3[2]
+    400588: Mirror3[3]
+    400590: Mirror3[4]
+    400592: Mirror4[1]
+    400594: Mirror4[2]
+    400596: Mirror4[3]
+    400598: Mirror4[4]
+    400600: Mutter_M16
+    400602: Mutter_M16 1
+    400604: nakretka.1
+    400606: nakretka_1
+    400608: NAUO10
+    400610: NAUO11
+    400612: NAUO13
+    400614: NAUO15
+    400616: NAUO17
+    400618: NAUO19
+    400620: NAUO2
+    400622: NAUO20
+    400624: NAUO21
+    400626: NAUO22
+    400628: NAUO23
+    400630: NAUO24
+    400632: NAUO25
+    400634: NAUO26
+    400636: NAUO27
+    400638: NAUO28
+    400640: NAUO3
+    400642: NAUO4
+    400644: NAUO5
+    400646: NAUO7
+    400648: NAUO8
+    400650: NAUO9
+    400652: Needle:1
+    400654: "Nut 11871_gost_\x83\_\xA9\xAA\_ M52x1 \x83\x8E\x91\x92 11871-88_9"
+    400656: Nut 1:1
+    400658: Nut:1
+    400660: O-Ring 30x3
+    400662: Packing:1
+    400664: part1-1-solid1
+    400666: Part1.2
+    400668: Part1.3
+    400670: Part1.4
+    400672: Part1.5
+    400674: Part1.6
+    400676: Part1.7
+    400678: Part1.8
+    400680: Part1.9
+    400682: part10-1-solid1
+    400684: part12-1-solid1
+    400686: part13-1-solid1
+    400688: part13-2-solid1
+    400690: part13-3-solid1
+    400692: part22-2-solid1
+    400694: Part3-1-solid1
+    400696: Part4-1-solid1
+    400698: Part4-2-solid1
+    400700: part5-1-solid1
+    400702: part5-2-solid1
+    400704: part6-1-solid1
+    400706: part6-1-solid2
+    400708: part7-4-solid1
+    400710: part7-5-solid1
+    400712: part7-6-solid1
+    400714: part7-7-solid1
+    400716: part9-1-solid1
+    400718: PartBody
+    400720: PartBody 1
+    400722: PartBody 2
+    400724: PartBody 3
+    400726: PartBody 4
+    400728: PartBody 5
+    400730: PartBody 6
+    400732: PartBody001
+    400734: PartBody002
+    400736: PartBody005
+    400738: PartBody006
+    400740: "Pin 397 C_gost_\x98\xAF\xAB\xA8\xAD\xE2 4x32 \x83\x8E\x91\x92 397-79_39"
+    400742: "Pin 397 C_gost_\x98\xAF\xAB\xA8\xAD\xE2 4x32 \x83\x8E\x91\x92 397-79_40"
+    400744: plain washer 10673 type snl_iso-1-solid1
+    400746: podk
+    400748: Revolve14
+    400750: Revolve3
+    400752: Revolve4
+    400754: Revolve4_MeshPart0
+    400756: Revolve4_MeshPart1
+    400758: Revolve8[1]
+    400760: Revolve8[2]
+    400762: Revolve8[3]
+    400764: Revolve8[4]
+    400766: Sealing PTFE bottom:1
+    400768: Sealing PTFE top:1
+    400770: Sealing PTFE:1
+    400772: Sealing PTFE:2
+    400774: Sealing PTFE:3
+    400776: Sealing PTFE:4
+    400778: Sealing PTFE:5
+    400780: Sealing PTFE:6
+    400782: Sealing washer 2:1
+    400784: Sealing washer:1
+    400786: SealRing:1
+    400788: Seat:002
+    400790: Seat:1
+    400792: SechskantmutterDIN8675_M42x2
+    400794: Segment:1
+    400796: Segment:2
+    400798: Segment:3
+    400800: Shaft body:1
+    400802: shaft lock:1
+    400804: shaft lock:2
+    400806: Solid1
+    400808: Solid1 1
+    400810: Solid1 10
+    400812: Solid1 11
+    400814: Solid1 12
+    400816: Solid1 13
+    400818: Solid1 14
+    400820: Solid1 15
+    400822: Solid1 16
+    400824: Solid1 17
+    400826: Solid1 18
+    400828: Solid1 19
+    400830: Solid1 2
+    400832: Solid1 20
+    400834: Solid1 21
+    400836: Solid1 22
+    400838: Solid1 23
+    400840: Solid1 24
+    400842: Solid1 25
+    400844: Solid1 26
+    400846: Solid1 27
+    400848: Solid1 28
+    400850: Solid1 29
+    400852: Solid1 3
+    400854: Solid1 30
+    400856: Solid1 31
+    400858: Solid1 32
+    400860: Solid1 33
+    400862: Solid1 34
+    400864: Solid1 35
+    400866: Solid1 36
+    400868: Solid1 37
+    400870: Solid1 38
+    400872: Solid1 39
+    400874: Solid1 4
+    400876: Solid1 40
+    400878: Solid1 41
+    400880: Solid1 42
+    400882: Solid1 43
+    400884: Solid1 44
+    400886: Solid1 45
+    400888: Solid1 46
+    400890: Solid1 46_MeshPart0
+    400892: Solid1 46_MeshPart1
+    400894: Solid1 47
+    400896: Solid1 48
+    400898: Solid1 48_MeshPart0
+    400900: Solid1 48_MeshPart1
+    400902: Solid1 48_MeshPart2
+    400904: Solid1 49
+    400906: Solid1 5
+    400908: Solid1 50
+    400910: Solid1 51
+    400912: Solid1 52
+    400914: Solid1 53
+    400916: Solid1 54
+    400918: Solid1 55
+    400920: Solid1 56
+    400922: Solid1 57
+    400924: Solid1 58
+    400926: Solid1 59
+    400928: Solid1 6
+    400930: Solid1 60
+    400932: Solid1 61
+    400934: Solid1 62
+    400936: Solid1 63
+    400938: Solid1 64
+    400940: Solid1 65
+    400942: Solid1 66
+    400944: Solid1 67
+    400946: Solid1 68
+    400948: Solid1 69
+    400950: Solid1 7
+    400952: Solid1 70
+    400954: Solid1 71
+    400956: Solid1 72
+    400958: Solid1 73
+    400960: Solid1 74
+    400962: Solid1 75
+    400964: Solid1 76
+    400966: Solid1 77
+    400968: Solid1 78
+    400970: Solid1 79
+    400972: Solid1 8
+    400974: Solid1 80
+    400976: Solid1 81
+    400978: Solid1 82
+    400980: Solid1 83
+    400982: Solid1 84
+    400984: Solid1 85
+    400986: Solid1 86
+    400988: Solid1 87
+    400990: Solid1 88
+    400992: Solid1 89
+    400994: Solid1 9
+    400996: Solid1 90
+    400998: Solid1 91
+    401000: Solid1 92
+    401002: Solid1 93
+    401004: Solid1 94
+    401006: Solid1 95
+    401008: Solid1 96
+    401010: Solid1 97
+    401012: "Spannh\xFClse geschlitzt DIN EN ISO 13337-6x40"
+    401014: Spindle cup:1
+    401016: Spindle:1
+    401018: Stehbolzen M16x60
+    401020: Stehbolzen M16x60 1
+    401022: Stem_:1
+    401024: stitch_result_stitch all
+    401026: stitch_result_stitch all 1
+    401028: stitch_result_stitch all 10
+    401030: stitch_result_stitch all 100
+    401032: stitch_result_stitch all 101
+    401034: stitch_result_stitch all 102
+    401036: stitch_result_stitch all 103
+    401038: stitch_result_stitch all 104
+    401040: stitch_result_stitch all 105
+    401042: stitch_result_stitch all 106
+    401044: stitch_result_stitch all 107
+    401046: stitch_result_stitch all 108
+    401048: stitch_result_stitch all 109
+    401050: stitch_result_stitch all 11
+    401052: stitch_result_stitch all 110
+    401054: stitch_result_stitch all 111
+    401056: stitch_result_stitch all 112
+    401058: stitch_result_stitch all 113
+    401060: stitch_result_stitch all 114
+    401062: stitch_result_stitch all 115
+    401064: stitch_result_stitch all 116
+    401066: stitch_result_stitch all 117
+    401068: stitch_result_stitch all 118
+    401070: stitch_result_stitch all 119
+    401072: stitch_result_stitch all 12
+    401074: stitch_result_stitch all 120
+    401076: stitch_result_stitch all 121
+    401078: stitch_result_stitch all 122
+    401080: stitch_result_stitch all 123
+    401082: stitch_result_stitch all 124
+    401084: stitch_result_stitch all 125
+    401086: stitch_result_stitch all 126
+    401088: stitch_result_stitch all 127
+    401090: stitch_result_stitch all 128
+    401092: stitch_result_stitch all 129
+    401094: stitch_result_stitch all 13
+    401096: stitch_result_stitch all 130
+    401098: stitch_result_stitch all 131
+    401100: stitch_result_stitch all 132
+    401102: stitch_result_stitch all 133
+    401104: stitch_result_stitch all 134
+    401106: stitch_result_stitch all 135
+    401108: stitch_result_stitch all 136
+    401110: stitch_result_stitch all 137
+    401112: stitch_result_stitch all 138
+    401114: stitch_result_stitch all 139
+    401116: stitch_result_stitch all 14
+    401118: stitch_result_stitch all 140
+    401120: stitch_result_stitch all 141
+    401122: stitch_result_stitch all 142
+    401124: stitch_result_stitch all 143
+    401126: stitch_result_stitch all 144
+    401128: stitch_result_stitch all 145
+    401130: stitch_result_stitch all 146
+    401132: stitch_result_stitch all 147
+    401134: stitch_result_stitch all 148
+    401136: stitch_result_stitch all 149
+    401138: stitch_result_stitch all 15
+    401140: stitch_result_stitch all 150
+    401142: stitch_result_stitch all 151
+    401144: stitch_result_stitch all 152
+    401146: stitch_result_stitch all 153
+    401148: stitch_result_stitch all 154
+    401150: stitch_result_stitch all 155
+    401152: stitch_result_stitch all 156
+    401154: stitch_result_stitch all 157
+    401156: stitch_result_stitch all 158
+    401158: stitch_result_stitch all 159
+    401160: stitch_result_stitch all 16
+    401162: stitch_result_stitch all 160
+    401164: stitch_result_stitch all 161
+    401166: stitch_result_stitch all 162
+    401168: stitch_result_stitch all 163
+    401170: stitch_result_stitch all 164
+    401172: stitch_result_stitch all 165
+    401174: stitch_result_stitch all 166
+    401176: stitch_result_stitch all 167
+    401178: stitch_result_stitch all 168
+    401180: stitch_result_stitch all 169
+    401182: stitch_result_stitch all 17
+    401184: stitch_result_stitch all 170
+    401186: stitch_result_stitch all 171
+    401188: stitch_result_stitch all 172
+    401190: stitch_result_stitch all 173
+    401192: stitch_result_stitch all 174
+    401194: stitch_result_stitch all 175
+    401196: stitch_result_stitch all 176
+    401198: stitch_result_stitch all 177
+    401200: stitch_result_stitch all 178
+    401202: stitch_result_stitch all 179
+    401204: stitch_result_stitch all 18
+    401206: stitch_result_stitch all 180
+    401208: stitch_result_stitch all 181
+    401210: stitch_result_stitch all 182
+    401212: stitch_result_stitch all 183
+    401214: stitch_result_stitch all 184
+    401216: stitch_result_stitch all 185
+    401218: stitch_result_stitch all 186
+    401220: stitch_result_stitch all 187
+    401222: stitch_result_stitch all 188
+    401224: stitch_result_stitch all 189
+    401226: stitch_result_stitch all 19
+    401228: stitch_result_stitch all 190
+    401230: stitch_result_stitch all 191
+    401232: stitch_result_stitch all 192
+    401234: stitch_result_stitch all 193
+    401236: stitch_result_stitch all 194
+    401238: stitch_result_stitch all 195
+    401240: stitch_result_stitch all 196
+    401242: stitch_result_stitch all 197
+    401244: stitch_result_stitch all 198
+    401246: stitch_result_stitch all 199
+    401248: stitch_result_stitch all 2
+    401250: stitch_result_stitch all 20
+    401252: stitch_result_stitch all 200
+    401254: stitch_result_stitch all 201
+    401256: stitch_result_stitch all 202
+    401258: stitch_result_stitch all 203
+    401260: stitch_result_stitch all 204
+    401262: stitch_result_stitch all 205
+    401264: stitch_result_stitch all 206
+    401266: stitch_result_stitch all 207
+    401268: stitch_result_stitch all 208
+    401270: stitch_result_stitch all 209
+    401272: stitch_result_stitch all 21
+    401274: stitch_result_stitch all 210
+    401276: stitch_result_stitch all 211
+    401278: stitch_result_stitch all 212
+    401280: stitch_result_stitch all 213
+    401282: stitch_result_stitch all 214
+    401284: stitch_result_stitch all 215
+    401286: stitch_result_stitch all 216
+    401288: stitch_result_stitch all 217
+    401290: stitch_result_stitch all 218
+    401292: stitch_result_stitch all 219
+    401294: stitch_result_stitch all 22
+    401296: stitch_result_stitch all 220
+    401298: stitch_result_stitch all 221
+    401300: stitch_result_stitch all 222
+    401302: stitch_result_stitch all 223
+    401304: stitch_result_stitch all 224
+    401306: stitch_result_stitch all 225
+    401308: stitch_result_stitch all 226
+    401310: stitch_result_stitch all 227
+    401312: stitch_result_stitch all 228
+    401314: stitch_result_stitch all 229
+    401316: stitch_result_stitch all 23
+    401318: stitch_result_stitch all 230
+    401320: stitch_result_stitch all 231
+    401322: stitch_result_stitch all 232
+    401324: stitch_result_stitch all 233
+    401326: stitch_result_stitch all 234
+    401328: stitch_result_stitch all 235
+    401330: stitch_result_stitch all 236
+    401332: stitch_result_stitch all 237
+    401334: stitch_result_stitch all 238
+    401336: stitch_result_stitch all 239
+    401338: stitch_result_stitch all 24
+    401340: stitch_result_stitch all 240
+    401342: stitch_result_stitch all 241
+    401344: stitch_result_stitch all 242
+    401346: stitch_result_stitch all 243
+    401348: stitch_result_stitch all 244
+    401350: stitch_result_stitch all 245
+    401352: stitch_result_stitch all 246
+    401354: stitch_result_stitch all 247
+    401356: stitch_result_stitch all 248
+    401358: stitch_result_stitch all 249
+    401360: stitch_result_stitch all 25
+    401362: stitch_result_stitch all 250
+    401364: stitch_result_stitch all 251
+    401366: stitch_result_stitch all 252
+    401368: stitch_result_stitch all 253
+    401370: stitch_result_stitch all 254
+    401372: stitch_result_stitch all 255
+    401374: stitch_result_stitch all 256
+    401376: stitch_result_stitch all 257
+    401378: stitch_result_stitch all 258
+    401380: stitch_result_stitch all 259
+    401382: stitch_result_stitch all 26
+    401384: stitch_result_stitch all 260
+    401386: stitch_result_stitch all 261
+    401388: stitch_result_stitch all 262
+    401390: stitch_result_stitch all 263
+    401392: stitch_result_stitch all 264
+    401394: stitch_result_stitch all 265
+    401396: stitch_result_stitch all 266
+    401398: stitch_result_stitch all 267
+    401400: stitch_result_stitch all 268
+    401402: stitch_result_stitch all 269
+    401404: stitch_result_stitch all 27
+    401406: stitch_result_stitch all 270
+    401408: stitch_result_stitch all 271
+    401410: stitch_result_stitch all 272
+    401412: stitch_result_stitch all 273
+    401414: stitch_result_stitch all 274
+    401416: stitch_result_stitch all 275
+    401418: stitch_result_stitch all 276
+    401420: stitch_result_stitch all 277
+    401422: stitch_result_stitch all 278
+    401424: stitch_result_stitch all 279
+    401426: stitch_result_stitch all 28
+    401428: stitch_result_stitch all 280
+    401430: stitch_result_stitch all 281
+    401432: stitch_result_stitch all 282
+    401434: stitch_result_stitch all 283
+    401436: stitch_result_stitch all 284
+    401438: stitch_result_stitch all 285
+    401440: stitch_result_stitch all 286
+    401442: stitch_result_stitch all 287
+    401444: stitch_result_stitch all 288
+    401446: stitch_result_stitch all 289
+    401448: stitch_result_stitch all 29
+    401450: stitch_result_stitch all 290
+    401452: stitch_result_stitch all 291
+    401454: stitch_result_stitch all 292
+    401456: stitch_result_stitch all 293
+    401458: stitch_result_stitch all 294
+    401460: stitch_result_stitch all 295
+    401462: stitch_result_stitch all 296
+    401464: stitch_result_stitch all 297
+    401466: stitch_result_stitch all 298
+    401468: stitch_result_stitch all 299
+    401470: stitch_result_stitch all 3
+    401472: stitch_result_stitch all 30
+    401474: stitch_result_stitch all 300
+    401476: stitch_result_stitch all 301
+    401478: stitch_result_stitch all 31
+    401480: stitch_result_stitch all 32
+    401482: stitch_result_stitch all 33
+    401484: stitch_result_stitch all 34
+    401486: stitch_result_stitch all 35
+    401488: stitch_result_stitch all 36
+    401490: stitch_result_stitch all 37
+    401492: stitch_result_stitch all 38
+    401494: stitch_result_stitch all 39
+    401496: stitch_result_stitch all 4
+    401498: stitch_result_stitch all 40
+    401500: stitch_result_stitch all 41
+    401502: stitch_result_stitch all 42
+    401504: stitch_result_stitch all 43
+    401506: stitch_result_stitch all 44
+    401508: stitch_result_stitch all 45
+    401510: stitch_result_stitch all 46
+    401512: stitch_result_stitch all 47
+    401514: stitch_result_stitch all 48
+    401516: stitch_result_stitch all 49
+    401518: stitch_result_stitch all 5
+    401520: stitch_result_stitch all 50
+    401522: stitch_result_stitch all 51
+    401524: stitch_result_stitch all 52
+    401526: stitch_result_stitch all 53
+    401528: stitch_result_stitch all 54
+    401530: stitch_result_stitch all 55
+    401532: stitch_result_stitch all 56
+    401534: stitch_result_stitch all 57
+    401536: stitch_result_stitch all 58
+    401538: stitch_result_stitch all 59
+    401540: stitch_result_stitch all 6
+    401542: stitch_result_stitch all 60
+    401544: stitch_result_stitch all 61
+    401546: stitch_result_stitch all 62
+    401548: stitch_result_stitch all 63
+    401550: stitch_result_stitch all 64
+    401552: stitch_result_stitch all 65
+    401554: stitch_result_stitch all 66
+    401556: stitch_result_stitch all 67
+    401558: stitch_result_stitch all 68
+    401560: stitch_result_stitch all 69
+    401562: stitch_result_stitch all 7
+    401564: stitch_result_stitch all 70
+    401566: stitch_result_stitch all 71
+    401568: stitch_result_stitch all 72
+    401570: stitch_result_stitch all 73
+    401572: stitch_result_stitch all 74
+    401574: stitch_result_stitch all 75
+    401576: stitch_result_stitch all 76
+    401578: stitch_result_stitch all 77
+    401580: stitch_result_stitch all 78
+    401582: stitch_result_stitch all 79
+    401584: stitch_result_stitch all 8
+    401586: stitch_result_stitch all 80
+    401588: stitch_result_stitch all 81
+    401590: stitch_result_stitch all 82
+    401592: stitch_result_stitch all 83
+    401594: stitch_result_stitch all 84
+    401596: stitch_result_stitch all 85
+    401598: stitch_result_stitch all 86
+    401600: stitch_result_stitch all 87
+    401602: stitch_result_stitch all 88
+    401604: stitch_result_stitch all 89
+    401606: stitch_result_stitch all 9
+    401608: stitch_result_stitch all 90
+    401610: stitch_result_stitch all 90_MeshPart0
+    401612: stitch_result_stitch all 90_MeshPart1
+    401614: stitch_result_stitch all 91
+    401616: stitch_result_stitch all 92
+    401618: stitch_result_stitch all 92_MeshPart0
+    401620: stitch_result_stitch all 92_MeshPart1
+    401622: stitch_result_stitch all 93
+    401624: stitch_result_stitch all 94
+    401626: stitch_result_stitch all 95
+    401628: stitch_result_stitch all 96
+    401630: stitch_result_stitch all 97
+    401632: stitch_result_stitch all 98
+    401634: stitch_result_stitch all 99
+    401636: Stopfen mit Rand_R3_8_Zoll
+    401638: SV911-80_125-Body
+    401640: SV911-80_125-Ring
+    401642: SV911-80_125_Druckplatte
+    401644: SV911-80_125_Druckplatte 1
+    401646: SV911-80_125_Federschraube
+    401648: "SV911-80_125_F\xFChrungsscheibe"
+    401650: SV911-80_125_Kappe
+    401652: SV911-80_125_Kugel
+    401654: SV911-80_125_Seat
+    401656: SV911-80_125_Spindel
+    401658: SV911-80_125_Springcover
+    401660: SV911-80_125_Teller
+    401662: SV911-80_Lead Seal
+    401664: ucwyyt
+    401666: UnionNut:1
+    401668: uszcz
+    401670: uszcz2
+    401672: uszcz3
+    401674: uszcz4
+    401676: Valve body:1
+    401678: VitonORing:1
+    401680: walek
+    401682: walek_MeshPart0
+    401684: walek_MeshPart1
+    401686: Washer:1
+    401688: Wire 1mm
+    401690: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_30"
+    401692: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_31"
+    401694: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_32"
+    401696: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_33"
+    401698: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_34"
+    401700: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_35"
+    401702: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_36"
+    401704: "\xC1\xEE\xEB\xF2_\xC2_7798-70_\x8C16 \xE5 30_37"
+    401706: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    401708: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 1"
+    401710: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 10"
+    401712: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 11"
+    401714: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 12"
+    401716: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 2"
+    401718: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 3"
+    401720: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 4"
+    401722: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 5"
+    401724: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 6"
+    401726: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 7"
+    401728: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 8"
+    401730: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 9"
+    401732: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1"
+    401734: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1 1"
+    401736: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1 2"
+    401738: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1 3"
+    401740: "\xC2\xFB\xF0\xE5\xE72"
+    401742: "\xC2\xFB\xF0\xE5\xE72 1"
+    401744: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    401746: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 1"
+    401748: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 2"
+    401750: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 3"
+    401752: "\xC3\xE0\xE9\xEA\xE0_\xC2_5915-70_\x8C10_24"
+    401754: "\xC3\xE0\xE9\xEA\xE0_\xC2_5915-70_\x8C10_25"
+    401756: "\xC3\xE0\xE9\xEA\xE0_\xC2_5915-70_\x8C10_26"
+    401758: "\xC3\xE0\xE9\xEA\xE0_\xC2_5915-70_\x8C10_28"
+    401760: "\xC4\xE8\xE0\xEC\xE5\xF2\xF0 \xEE\xF2\xE2\xE5\xF0\xF1\xF2\xE8\xFF O24.0
+      (24)1"
+    401762: "\xC7\xE5\xF0\xEA\xE0\xEB\xFC\xED\xEE\xE5 \xEE\xF2\xF0\xE0\xE6\xE5\xED\xE8\xE51"
+    401764: "\xCA\xF0\xF3\xE3\xEE\xE2\xEE\xE9 \xEC\xE0\xF1\xF1\xE8\xE22"
+    401766: "\xCE\xF2\xE2\xE5\xF0\xF1\xF2\xE8\xE5 \xEE\xE1\xF0\xE0\xE1\xEE\xF2\xE0\xED\xED\xEE\xE5
+      \xEC\xE5\xF2\xF7\xE8\xEA\xEE\xEC M10x11"
+    401768: "\xCF\xC0540.300.00.01_\xCA\xEE\xF0\xEF\xF3\xF1_00_1"
+    401770: "\xCF\xC0540.300.00.02_\xCD\xEE\xE6_00_4"
+    401772: "\xCF\xC0540.300.00.03_\xD1\xF2\xEE\xE9\xEA\xE0_2"
+    401774: "\xCF\xC0540.300.00.03_\xD1\xF2\xEE\xE9\xEA\xE0_3"
+    401776: "\xCF\xC0540.300.00.04_\xCF\xE5\xF0\xE5\xEC\xFB\xF7\xEA\xE0_00_5"
+    401778: "\xCF\xC0540.300.00.05_\xCC\xE0\xF5\xEE\xE2\xE8\xEA_6"
+    401780: "\xCF\xC0540.300.00.06_\xC3\xE0\xE9\xEA\xE0_00_7"
+    401782: "\xCF\xC0540.300.00.07\xD8\xE0\xE9\xE1\xE0_00_8"
+    401784: "\xCF\xC0540.300.00.08_\xC2\xE8\xED\xF2_10"
+    401786: "\xCF\xC0540.300.00.08_\xC4\xE5\xF0\xE6\xE0\xF2\xE5\xEB\xFC \xE2\xE8\xED\xF2\xE0_11"
+    401788: "\xCF\xC0540.300.00.09_\xCD\xE0\xE1\xE8\xE2\xEA\xE0_00_12"
+    401790: "\xCF\xC0540.300.00.09_\xCD\xE0\xE1\xE8\xE2\xEA\xE0_00_13"
+    401792: "\xCF\xC0540.300.00.09_\xCD\xE0\xE1\xE8\xE2\xEA\xE0_00_14"
+    401794: "\xCF\xC0540.300.00.10_\xCF\xE0\xEB\xE5\xF6_15"
+    401796: "\xCF\xC0540.300.00.10_\xCF\xE0\xEB\xE5\xF6_16"
+    401798: "\xCF\xC0540.300.00.11_\xCF\xF0\xE8\xE6\xE8\xEC_00_17"
+    401800: "\xD0\xE5\xE7\xFC\xE1\xE01"
+    401802: "\xD0\xE5\xE7\xFC\xE1\xE01 1"
+    401804: "\xD0\xE5\xE7\xFC\xE1\xE01 1_MeshPart0"
+    401806: "\xD0\xE5\xE7\xFC\xE1\xE01 1_MeshPart1"
+    401808: "\xD0\xE5\xE7\xFC\xE1\xE01 1_MeshPart2"
+    401810: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51"
+    401812: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51 1"
+    401814: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51 2"
+    401816: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE52"
+    401818: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521"
+    401820: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart0"
+    401822: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart1"
+    401824: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart2"
+    401826: "\xD4\xE0\xF1\xEA\xE01"
+    401828: "\xD4\xE0\xF1\xEA\xE01 1"
+    401830: "\xD4\xE0\xF1\xEA\xE01 2"
+    401832: "\xD4\xE0\xF1\xEA\xE01 3"
+    401834: "\xD8\xE0\xE9\xE1\xE0_11371-78_\xE410_22"
+    401836: "\xD8\xE0\xE9\xE1\xE0_11371-78_\xE410_23"
+    401838: "\xD8\xE0\xE9\xE1\xE0_11371-78_\xE410_27"
+    401840: "\xD8\xE0\xE9\xE1\xE0_11371-78_\xE410_29"
+    401842: "\xD8\xEF\xE8\xEB\xFC\xEA\xE0 10\xF560_\x98\xAF\xA8\xAB\xEC\xAA\_ M10x0,5-6gx60.36.10.013
+      \x83\x8E\x91\x92 22042-76_18"
+    401844: "\xD8\xEF\xE8\xEB\xFC\xEA\xE0 10\xF560_\x98\xAF\xA8\xAB\xEC\xAA\_ M10x0,5-6gx60.36.10.013
+      \x83\x8E\x91\x92 22042-76_19"
+    401846: "\xD8\xEF\xE8\xEB\xFC\xEA\xE0 10\xF560_\x98\xAF\xA8\xAB\xEC\xAA\_ M10x0,5-6gx60.36.10.013
+      \x83\x8E\x91\x92 22042-76_20"
+    401848: "\xD8\xEF\xE8\xEB\xFC\xEA\xE0 10\xF560_\x98\xAF\xA8\xAB\xEC\xAA\_ M10x0,5-6gx60.36.10.013
+      \x83\x8E\x91\x92 22042-76_21"
+    401850: "\u0414\u0435\u0442\u0430\u043B\u044C7:1"
+    2300000: 3835
+    2300002: 3836
+    2300004: 3837
+    2300006: 3838
+    2300008: 3839
+    2300010: 3840
+    2300012: 3841
+    2300014: 3842
+    2300016: 3843
+    2300018: 3844
+    2300020: 3845
+    2300022: 3846
+    2300024: 3847
+    2300026: 3848
+    2300028: 3849
+    2300030: 3850
+    2300032: 3852
+    2300034: 3853
+    2300036: 3854
+    2300038: 3855
+    2300040: 3857
+    2300042: 3858
+    2300044: 3859
+    2300046: 3861
+    2300048: 3862
+    2300050: 3863
+    2300052: 3864
+    2300054: 3865
+    2300056: 3867
+    2300058: 3868
+    2300060: 3869
+    2300062: 3870
+    2300064: 3871
+    2300066: 3872
+    2300068: 3903
+    2300070: 3904
+    2300072: 3905
+    2300074: 3906
+    2300076: 3907
+    2300078: 3908
+    2300080: 3911
+    2300082: 3914
+    2300084: 3915
+    2300086: 3916
+    2300088: 3917
+    2300090: 3918
+    2300092: 3919
+    2300094: 3920
+    2300096: 3921
+    2300098: 3923
+    2300100: 3924
+    2300102: 3927
+    2300104: 3928
+    2300106: 3929
+    2300108: 3930
+    2300110: 3931
+    2300112: 3932
+    2300114: 3933
+    2300116: 3934
+    2300118: 3935
+    2300120: 3936
+    2300122: 3937
+    2300124: 3938
+    2300126: Adjusting spindle:1
+    2300128: Ball:1
+    2300130: Ball:2
+    2300132: Body:1
+    2300134: Bonnet:1
+    2300136: Boss-Extrude26
+    2300138: Boss-Extrude3
+    2300140: Box001
+    2300142: Box002
+    2300144: Box003
+    2300146: Box004
+    2300148: Box005
+    2300150: Box006
+    2300152: Box007
+    2300154: Box008
+    2300156: Box009
+    2300158: Box009 1
+    2300160: Box010
+    2300162: Box011
+    2300164: Box012
+    2300166: Box013
+    2300168: Box014
+    2300170: Chamfer5
+    2300172: Chamfer6
+    2300174: CirPattern1
+    2300176: Coupling_nut:1
+    2300178: Cut-Extrude19_MeshPart0
+    2300180: Cut-Extrude19_MeshPart1
+    2300182: Cut-Extrude19_MeshPart2
+    2300184: Cut-Extrude20
+    2300186: dlawiiik
+    2300188: Extrude2
+    2300190: Feder 300x35x15_MeshPart0
+    2300192: Feder 300x35x15_MeshPart1
+    2300194: Fillet1
+    2300196: Fillet38
+    2300198: Fillet44
+    2300200: Fillet56
+    2300202: Fillet58
+    2300204: Fillet59
+    2300206: Fillet60
+    2300208: Fillet64
+    2300210: Fillet73_MeshPart0
+    2300212: Fillet73_MeshPart1
+    2300214: Fillet73_MeshPart2
+    2300216: Flachdichtung 170x140x1
+    2300218: Flange:1
+    2300220: Flange:2
+    2300222: Flywheel:1
+    2300224: GarterSpring:1
+    2300226: Gasket:1
+    2300228: Gasket:2
+    2300230: Gasket:3
+    2300232: Gasket:4
+    2300234: Gasket:5
+    2300236: Gasket:6
+    2300238: grzyb
+    2300240: Handwheel:1
+    2300242: hex nut gradec_iso-23-solid1
+    2300244: hex nut gradec_iso-24-solid1
+    2300246: hex nut gradec_iso-44-solid1
+    2300248: hex nut gradec_iso-54-solid1
+    2300250: hex nut gradec_iso-68-solid1
+    2300252: hex nut gradec_iso-74-solid1
+    2300254: hex nut gradec_iso-75-solid1
+    2300256: hex nut gradec_iso-76-solid1
+    2300258: hex nut gradec_iso-77-solid1
+    2300260: hex nut gradec_iso-78-solid1
+    2300262: hex nut gradec_iso-79-solid1
+    2300264: hex nut gradec_iso-80-solid1
+    2300266: hex nut gradec_iso-81-solid1
+    2300268: Imported1
+    2300270: Imported1 1
+    2300272: Imported1 10
+    2300274: Imported1 11
+    2300276: Imported1 12
+    2300278: Imported1 13
+    2300280: Imported1 14
+    2300282: Imported1 2
+    2300284: Imported1 3
+    2300286: Imported1 4
+    2300288: Imported1 5
+    2300290: Imported1 6
+    2300292: Imported1 7
+    2300294: Imported1 8
+    2300296: Imported1 9
+    2300298: Indicator:1
+    2300300: JunkRing:1
+    2300302: korp1_MeshPart0
+    2300304: korp1_MeshPart1
+    2300306: korp2
+    2300308: korpus2.Renamed
+    2300310: korpus_MeshPart0
+    2300312: korpus_MeshPart1
+    2300314: kulka.Renamed
+    2300316: LockBolt:1
+    2300318: m8
+    2300320: m8 1
+    2300322: m8 2
+    2300324: m8 3
+    2300326: Mirror2[1]
+    2300328: Mirror2[2]
+    2300330: Mirror3[1]
+    2300332: Mirror3[2]
+    2300334: Mirror3[3]
+    2300336: Mirror3[4]
+    2300338: Mirror4[1]
+    2300340: Mirror4[2]
+    2300342: Mirror4[3]
+    2300344: Mirror4[4]
+    2300346: Mutter_M16
+    2300348: Mutter_M16 1
+    2300350: nakretka_1
+    2300352: Nut 1:1
+    2300354: Nut:1
+    2300356: O-Ring 30x3
+    2300358: Packing:1
+    2300360: part1-1-solid1
+    2300362: part10-1-solid1
+    2300364: part12-1-solid1
+    2300366: part13-1-solid1
+    2300368: part13-2-solid1
+    2300370: part13-3-solid1
+    2300372: part22-2-solid1
+    2300374: Part3-1-solid1
+    2300376: Part4-1-solid1
+    2300378: Part4-2-solid1
+    2300380: part5-1-solid1
+    2300382: part5-2-solid1
+    2300384: part6-1-solid1
+    2300386: part6-1-solid2
+    2300388: part7-4-solid1
+    2300390: part7-5-solid1
+    2300392: part7-6-solid1
+    2300394: part7-7-solid1
+    2300396: part9-1-solid1
+    2300398: PartBody
+    2300400: PartBody 1
+    2300402: PartBody 2
+    2300404: PartBody 3
+    2300406: PartBody 4
+    2300408: PartBody 5
+    2300410: PartBody 6
+    2300412: PartBody001
+    2300414: PartBody002
+    2300416: PartBody005
+    2300418: PartBody006
+    2300420: plain washer 10673 type snl_iso-1-solid1
+    2300422: podk
+    2300424: Revolve14
+    2300426: Revolve3
+    2300428: Revolve4_MeshPart0
+    2300430: Revolve4_MeshPart1
+    2300432: Revolve8[1]
+    2300434: Revolve8[2]
+    2300436: Revolve8[3]
+    2300438: Revolve8[4]
+    2300440: Sealing PTFE bottom:1
+    2300442: Sealing PTFE top:1
+    2300444: Sealing PTFE:1
+    2300446: Sealing PTFE:2
+    2300448: Sealing PTFE:3
+    2300450: Sealing PTFE:4
+    2300452: Sealing PTFE:5
+    2300454: Sealing PTFE:6
+    2300456: Sealing washer 2:1
+    2300458: Sealing washer:1
+    2300460: SealRing:1
+    2300462: Seat:002
+    2300464: Seat:1
+    2300466: SechskantmutterDIN8675_M42x2
+    2300468: Segment:1
+    2300470: Segment:2
+    2300472: Segment:3
+    2300474: Shaft body:1
+    2300476: shaft lock:1
+    2300478: shaft lock:2
+    2300480: Solid1
+    2300482: Solid1 1
+    2300484: Solid1 10
+    2300486: Solid1 11
+    2300488: Solid1 12
+    2300490: Solid1 13
+    2300492: Solid1 14
+    2300494: Solid1 15
+    2300496: Solid1 16
+    2300498: Solid1 17
+    2300500: Solid1 18
+    2300502: Solid1 19
+    2300504: Solid1 2
+    2300506: Solid1 20
+    2300508: Solid1 21
+    2300510: Solid1 22
+    2300512: Solid1 23
+    2300514: Solid1 24
+    2300516: Solid1 25
+    2300518: Solid1 26
+    2300520: Solid1 27
+    2300522: Solid1 28
+    2300524: Solid1 29
+    2300526: Solid1 3
+    2300528: Solid1 30
+    2300530: Solid1 31
+    2300532: Solid1 32
+    2300534: Solid1 33
+    2300536: Solid1 34
+    2300538: Solid1 35
+    2300540: Solid1 36
+    2300542: Solid1 37
+    2300544: Solid1 38
+    2300546: Solid1 39
+    2300548: Solid1 4
+    2300550: Solid1 40
+    2300552: Solid1 41
+    2300554: Solid1 42
+    2300556: Solid1 43
+    2300558: Solid1 44
+    2300560: Solid1 45
+    2300562: Solid1 46_MeshPart0
+    2300564: Solid1 46_MeshPart1
+    2300566: Solid1 47
+    2300568: Solid1 48_MeshPart0
+    2300570: Solid1 48_MeshPart1
+    2300572: Solid1 48_MeshPart2
+    2300574: Solid1 49
+    2300576: Solid1 5
+    2300578: Solid1 50
+    2300580: Solid1 51
+    2300582: Solid1 52
+    2300584: Solid1 53
+    2300586: Solid1 54
+    2300588: Solid1 55
+    2300590: Solid1 56
+    2300592: Solid1 57
+    2300594: Solid1 58
+    2300596: Solid1 59
+    2300598: Solid1 6
+    2300600: Solid1 60
+    2300602: Solid1 61
+    2300604: Solid1 62
+    2300606: Solid1 63
+    2300608: Solid1 64
+    2300610: Solid1 65
+    2300612: Solid1 66
+    2300614: Solid1 67
+    2300616: Solid1 68
+    2300618: Solid1 69
+    2300620: Solid1 7
+    2300622: Solid1 70
+    2300624: Solid1 71
+    2300626: Solid1 72
+    2300628: Solid1 73
+    2300630: Solid1 74
+    2300632: Solid1 75
+    2300634: Solid1 76
+    2300636: Solid1 77
+    2300638: Solid1 78
+    2300640: Solid1 79
+    2300642: Solid1 8
+    2300644: Solid1 80
+    2300646: Solid1 81
+    2300648: Solid1 82
+    2300650: Solid1 83
+    2300652: Solid1 84
+    2300654: Solid1 85
+    2300656: Solid1 86
+    2300658: Solid1 87
+    2300660: Solid1 88
+    2300662: Solid1 89
+    2300664: Solid1 9
+    2300666: Solid1 90
+    2300668: Solid1 91
+    2300670: Solid1 92
+    2300672: Solid1 93
+    2300674: Solid1 94
+    2300676: Solid1 95
+    2300678: Solid1 96
+    2300680: Solid1 97
+    2300682: "Spannh\xFClse geschlitzt DIN EN ISO 13337-6x40"
+    2300684: Spindle cup:1
+    2300686: Spindle:1
+    2300688: Stehbolzen M16x60
+    2300690: Stehbolzen M16x60 1
+    2300692: Stem_:1
+    2300694: stitch_result_stitch all
+    2300696: stitch_result_stitch all 1
+    2300698: stitch_result_stitch all 10
+    2300700: stitch_result_stitch all 100
+    2300702: stitch_result_stitch all 101
+    2300704: stitch_result_stitch all 102
+    2300706: stitch_result_stitch all 103
+    2300708: stitch_result_stitch all 104
+    2300710: stitch_result_stitch all 105
+    2300712: stitch_result_stitch all 106
+    2300714: stitch_result_stitch all 107
+    2300716: stitch_result_stitch all 108
+    2300718: stitch_result_stitch all 109
+    2300720: stitch_result_stitch all 11
+    2300722: stitch_result_stitch all 110
+    2300724: stitch_result_stitch all 111
+    2300726: stitch_result_stitch all 112
+    2300728: stitch_result_stitch all 113
+    2300730: stitch_result_stitch all 114
+    2300732: stitch_result_stitch all 115
+    2300734: stitch_result_stitch all 116
+    2300736: stitch_result_stitch all 117
+    2300738: stitch_result_stitch all 118
+    2300740: stitch_result_stitch all 119
+    2300742: stitch_result_stitch all 12
+    2300744: stitch_result_stitch all 120
+    2300746: stitch_result_stitch all 121
+    2300748: stitch_result_stitch all 122
+    2300750: stitch_result_stitch all 123
+    2300752: stitch_result_stitch all 124
+    2300754: stitch_result_stitch all 125
+    2300756: stitch_result_stitch all 126
+    2300758: stitch_result_stitch all 127
+    2300760: stitch_result_stitch all 128
+    2300762: stitch_result_stitch all 129
+    2300764: stitch_result_stitch all 13
+    2300766: stitch_result_stitch all 130
+    2300768: stitch_result_stitch all 131
+    2300770: stitch_result_stitch all 132
+    2300772: stitch_result_stitch all 133
+    2300774: stitch_result_stitch all 134
+    2300776: stitch_result_stitch all 135
+    2300778: stitch_result_stitch all 136
+    2300780: stitch_result_stitch all 137
+    2300782: stitch_result_stitch all 138
+    2300784: stitch_result_stitch all 139
+    2300786: stitch_result_stitch all 14
+    2300788: stitch_result_stitch all 140
+    2300790: stitch_result_stitch all 141
+    2300792: stitch_result_stitch all 142
+    2300794: stitch_result_stitch all 143
+    2300796: stitch_result_stitch all 144
+    2300798: stitch_result_stitch all 145
+    2300800: stitch_result_stitch all 146
+    2300802: stitch_result_stitch all 147
+    2300804: stitch_result_stitch all 148
+    2300806: stitch_result_stitch all 149
+    2300808: stitch_result_stitch all 15
+    2300810: stitch_result_stitch all 150
+    2300812: stitch_result_stitch all 151
+    2300814: stitch_result_stitch all 152
+    2300816: stitch_result_stitch all 153
+    2300818: stitch_result_stitch all 154
+    2300820: stitch_result_stitch all 155
+    2300822: stitch_result_stitch all 156
+    2300824: stitch_result_stitch all 157
+    2300826: stitch_result_stitch all 158
+    2300828: stitch_result_stitch all 159
+    2300830: stitch_result_stitch all 16
+    2300832: stitch_result_stitch all 160
+    2300834: stitch_result_stitch all 161
+    2300836: stitch_result_stitch all 162
+    2300838: stitch_result_stitch all 163
+    2300840: stitch_result_stitch all 164
+    2300842: stitch_result_stitch all 165
+    2300844: stitch_result_stitch all 166
+    2300846: stitch_result_stitch all 167
+    2300848: stitch_result_stitch all 168
+    2300850: stitch_result_stitch all 169
+    2300852: stitch_result_stitch all 17
+    2300854: stitch_result_stitch all 170
+    2300856: stitch_result_stitch all 171
+    2300858: stitch_result_stitch all 172
+    2300860: stitch_result_stitch all 173
+    2300862: stitch_result_stitch all 174
+    2300864: stitch_result_stitch all 175
+    2300866: stitch_result_stitch all 176
+    2300868: stitch_result_stitch all 177
+    2300870: stitch_result_stitch all 178
+    2300872: stitch_result_stitch all 179
+    2300874: stitch_result_stitch all 18
+    2300876: stitch_result_stitch all 180
+    2300878: stitch_result_stitch all 181
+    2300880: stitch_result_stitch all 182
+    2300882: stitch_result_stitch all 183
+    2300884: stitch_result_stitch all 184
+    2300886: stitch_result_stitch all 185
+    2300888: stitch_result_stitch all 186
+    2300890: stitch_result_stitch all 187
+    2300892: stitch_result_stitch all 188
+    2300894: stitch_result_stitch all 189
+    2300896: stitch_result_stitch all 19
+    2300898: stitch_result_stitch all 190
+    2300900: stitch_result_stitch all 191
+    2300902: stitch_result_stitch all 192
+    2300904: stitch_result_stitch all 193
+    2300906: stitch_result_stitch all 194
+    2300908: stitch_result_stitch all 195
+    2300910: stitch_result_stitch all 196
+    2300912: stitch_result_stitch all 197
+    2300914: stitch_result_stitch all 198
+    2300916: stitch_result_stitch all 199
+    2300918: stitch_result_stitch all 2
+    2300920: stitch_result_stitch all 20
+    2300922: stitch_result_stitch all 200
+    2300924: stitch_result_stitch all 201
+    2300926: stitch_result_stitch all 202
+    2300928: stitch_result_stitch all 203
+    2300930: stitch_result_stitch all 204
+    2300932: stitch_result_stitch all 205
+    2300934: stitch_result_stitch all 206
+    2300936: stitch_result_stitch all 207
+    2300938: stitch_result_stitch all 208
+    2300940: stitch_result_stitch all 209
+    2300942: stitch_result_stitch all 21
+    2300944: stitch_result_stitch all 210
+    2300946: stitch_result_stitch all 211
+    2300948: stitch_result_stitch all 212
+    2300950: stitch_result_stitch all 213
+    2300952: stitch_result_stitch all 214
+    2300954: stitch_result_stitch all 215
+    2300956: stitch_result_stitch all 216
+    2300958: stitch_result_stitch all 217
+    2300960: stitch_result_stitch all 218
+    2300962: stitch_result_stitch all 219
+    2300964: stitch_result_stitch all 22
+    2300966: stitch_result_stitch all 220
+    2300968: stitch_result_stitch all 221
+    2300970: stitch_result_stitch all 222
+    2300972: stitch_result_stitch all 223
+    2300974: stitch_result_stitch all 224
+    2300976: stitch_result_stitch all 225
+    2300978: stitch_result_stitch all 226
+    2300980: stitch_result_stitch all 227
+    2300982: stitch_result_stitch all 228
+    2300984: stitch_result_stitch all 229
+    2300986: stitch_result_stitch all 23
+    2300988: stitch_result_stitch all 230
+    2300990: stitch_result_stitch all 231
+    2300992: stitch_result_stitch all 232
+    2300994: stitch_result_stitch all 233
+    2300996: stitch_result_stitch all 234
+    2300998: stitch_result_stitch all 235
+    2301000: stitch_result_stitch all 236
+    2301002: stitch_result_stitch all 237
+    2301004: stitch_result_stitch all 238
+    2301006: stitch_result_stitch all 239
+    2301008: stitch_result_stitch all 24
+    2301010: stitch_result_stitch all 240
+    2301012: stitch_result_stitch all 241
+    2301014: stitch_result_stitch all 242
+    2301016: stitch_result_stitch all 243
+    2301018: stitch_result_stitch all 244
+    2301020: stitch_result_stitch all 245
+    2301022: stitch_result_stitch all 246
+    2301024: stitch_result_stitch all 247
+    2301026: stitch_result_stitch all 248
+    2301028: stitch_result_stitch all 249
+    2301030: stitch_result_stitch all 25
+    2301032: stitch_result_stitch all 250
+    2301034: stitch_result_stitch all 251
+    2301036: stitch_result_stitch all 252
+    2301038: stitch_result_stitch all 253
+    2301040: stitch_result_stitch all 254
+    2301042: stitch_result_stitch all 255
+    2301044: stitch_result_stitch all 256
+    2301046: stitch_result_stitch all 257
+    2301048: stitch_result_stitch all 258
+    2301050: stitch_result_stitch all 259
+    2301052: stitch_result_stitch all 26
+    2301054: stitch_result_stitch all 260
+    2301056: stitch_result_stitch all 261
+    2301058: stitch_result_stitch all 262
+    2301060: stitch_result_stitch all 263
+    2301062: stitch_result_stitch all 264
+    2301064: stitch_result_stitch all 265
+    2301066: stitch_result_stitch all 266
+    2301068: stitch_result_stitch all 267
+    2301070: stitch_result_stitch all 268
+    2301072: stitch_result_stitch all 269
+    2301074: stitch_result_stitch all 27
+    2301076: stitch_result_stitch all 270
+    2301078: stitch_result_stitch all 271
+    2301080: stitch_result_stitch all 272
+    2301082: stitch_result_stitch all 273
+    2301084: stitch_result_stitch all 274
+    2301086: stitch_result_stitch all 275
+    2301088: stitch_result_stitch all 276
+    2301090: stitch_result_stitch all 277
+    2301092: stitch_result_stitch all 278
+    2301094: stitch_result_stitch all 279
+    2301096: stitch_result_stitch all 28
+    2301098: stitch_result_stitch all 280
+    2301100: stitch_result_stitch all 281
+    2301102: stitch_result_stitch all 282
+    2301104: stitch_result_stitch all 283
+    2301106: stitch_result_stitch all 284
+    2301108: stitch_result_stitch all 285
+    2301110: stitch_result_stitch all 286
+    2301112: stitch_result_stitch all 287
+    2301114: stitch_result_stitch all 288
+    2301116: stitch_result_stitch all 289
+    2301118: stitch_result_stitch all 29
+    2301120: stitch_result_stitch all 290
+    2301122: stitch_result_stitch all 291
+    2301124: stitch_result_stitch all 292
+    2301126: stitch_result_stitch all 293
+    2301128: stitch_result_stitch all 294
+    2301130: stitch_result_stitch all 295
+    2301132: stitch_result_stitch all 296
+    2301134: stitch_result_stitch all 297
+    2301136: stitch_result_stitch all 298
+    2301138: stitch_result_stitch all 299
+    2301140: stitch_result_stitch all 3
+    2301142: stitch_result_stitch all 30
+    2301144: stitch_result_stitch all 300
+    2301146: stitch_result_stitch all 301
+    2301148: stitch_result_stitch all 31
+    2301150: stitch_result_stitch all 32
+    2301152: stitch_result_stitch all 33
+    2301154: stitch_result_stitch all 34
+    2301156: stitch_result_stitch all 35
+    2301158: stitch_result_stitch all 36
+    2301160: stitch_result_stitch all 37
+    2301162: stitch_result_stitch all 38
+    2301164: stitch_result_stitch all 39
+    2301166: stitch_result_stitch all 4
+    2301168: stitch_result_stitch all 40
+    2301170: stitch_result_stitch all 41
+    2301172: stitch_result_stitch all 42
+    2301174: stitch_result_stitch all 43
+    2301176: stitch_result_stitch all 44
+    2301178: stitch_result_stitch all 45
+    2301180: stitch_result_stitch all 46
+    2301182: stitch_result_stitch all 47
+    2301184: stitch_result_stitch all 48
+    2301186: stitch_result_stitch all 49
+    2301188: stitch_result_stitch all 5
+    2301190: stitch_result_stitch all 50
+    2301192: stitch_result_stitch all 51
+    2301194: stitch_result_stitch all 52
+    2301196: stitch_result_stitch all 53
+    2301198: stitch_result_stitch all 54
+    2301200: stitch_result_stitch all 55
+    2301202: stitch_result_stitch all 56
+    2301204: stitch_result_stitch all 57
+    2301206: stitch_result_stitch all 58
+    2301208: stitch_result_stitch all 59
+    2301210: stitch_result_stitch all 6
+    2301212: stitch_result_stitch all 60
+    2301214: stitch_result_stitch all 61
+    2301216: stitch_result_stitch all 62
+    2301218: stitch_result_stitch all 63
+    2301220: stitch_result_stitch all 64
+    2301222: stitch_result_stitch all 65
+    2301224: stitch_result_stitch all 66
+    2301226: stitch_result_stitch all 67
+    2301228: stitch_result_stitch all 68
+    2301230: stitch_result_stitch all 69
+    2301232: stitch_result_stitch all 7
+    2301234: stitch_result_stitch all 70
+    2301236: stitch_result_stitch all 71
+    2301238: stitch_result_stitch all 72
+    2301240: stitch_result_stitch all 73
+    2301242: stitch_result_stitch all 74
+    2301244: stitch_result_stitch all 75
+    2301246: stitch_result_stitch all 76
+    2301248: stitch_result_stitch all 77
+    2301250: stitch_result_stitch all 78
+    2301252: stitch_result_stitch all 79
+    2301254: stitch_result_stitch all 8
+    2301256: stitch_result_stitch all 80
+    2301258: stitch_result_stitch all 81
+    2301260: stitch_result_stitch all 82
+    2301262: stitch_result_stitch all 83
+    2301264: stitch_result_stitch all 84
+    2301266: stitch_result_stitch all 85
+    2301268: stitch_result_stitch all 86
+    2301270: stitch_result_stitch all 87
+    2301272: stitch_result_stitch all 88
+    2301274: stitch_result_stitch all 89
+    2301276: stitch_result_stitch all 9
+    2301278: stitch_result_stitch all 90_MeshPart0
+    2301280: stitch_result_stitch all 90_MeshPart1
+    2301282: stitch_result_stitch all 91
+    2301284: stitch_result_stitch all 92_MeshPart0
+    2301286: stitch_result_stitch all 92_MeshPart1
+    2301288: stitch_result_stitch all 93
+    2301290: stitch_result_stitch all 94
+    2301292: stitch_result_stitch all 95
+    2301294: stitch_result_stitch all 96
+    2301296: stitch_result_stitch all 97
+    2301298: stitch_result_stitch all 98
+    2301300: stitch_result_stitch all 99
+    2301302: Stopfen mit Rand_R3_8_Zoll
+    2301304: SV911-80_125-Body
+    2301306: SV911-80_125-Ring
+    2301308: SV911-80_125_Druckplatte
+    2301310: SV911-80_125_Druckplatte 1
+    2301312: SV911-80_125_Federschraube
+    2301314: "SV911-80_125_F\xFChrungsscheibe"
+    2301316: SV911-80_125_Kappe
+    2301318: SV911-80_125_Kugel
+    2301320: SV911-80_125_Seat
+    2301322: SV911-80_125_Spindel
+    2301324: SV911-80_125_Springcover
+    2301326: SV911-80_125_Teller
+    2301328: SV911-80_Lead Seal
+    2301330: ucwyyt
+    2301332: UnionNut:1
+    2301334: uszcz
+    2301336: uszcz2
+    2301338: uszcz3
+    2301340: uszcz4
+    2301342: Valve body:1
+    2301344: VitonORing:1
+    2301346: walek_MeshPart0
+    2301348: walek_MeshPart1
+    2301350: Washer:1
+    2301352: Wire 1mm
+    2301354: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    2301356: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 1"
+    2301358: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 10"
+    2301360: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 11"
+    2301362: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 12"
+    2301364: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 2"
+    2301366: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 3"
+    2301368: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 4"
+    2301370: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 5"
+    2301372: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 6"
+    2301374: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 7"
+    2301376: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 8"
+    2301378: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 9"
+    2301380: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1"
+    2301382: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1 1"
+    2301384: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1 2"
+    2301386: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1 3"
+    2301388: "\xC2\xFB\xF0\xE5\xE72"
+    2301390: "\xC2\xFB\xF0\xE5\xE72 1"
+    2301392: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    2301394: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 1"
+    2301396: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 2"
+    2301398: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 3"
+    2301400: "\xC4\xE8\xE0\xEC\xE5\xF2\xF0 \xEE\xF2\xE2\xE5\xF0\xF1\xF2\xE8\xFF O24.0
+      (24)1"
+    2301402: "\xC7\xE5\xF0\xEA\xE0\xEB\xFC\xED\xEE\xE5 \xEE\xF2\xF0\xE0\xE6\xE5\xED\xE8\xE51"
+    2301404: "\xCA\xF0\xF3\xE3\xEE\xE2\xEE\xE9 \xEC\xE0\xF1\xF1\xE8\xE22"
+    2301406: "\xCE\xF2\xE2\xE5\xF0\xF1\xF2\xE8\xE5 \xEE\xE1\xF0\xE0\xE1\xEE\xF2\xE0\xED\xED\xEE\xE5
+      \xEC\xE5\xF2\xF7\xE8\xEA\xEE\xEC M10x11"
+    2301408: "\xD0\xE5\xE7\xFC\xE1\xE01"
+    2301410: "\xD0\xE5\xE7\xFC\xE1\xE01 1_MeshPart0"
+    2301412: "\xD0\xE5\xE7\xFC\xE1\xE01 1_MeshPart1"
+    2301414: "\xD0\xE5\xE7\xFC\xE1\xE01 1_MeshPart2"
+    2301416: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51"
+    2301418: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51 1"
+    2301420: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51 2"
+    2301422: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE52"
+    2301424: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart0"
+    2301426: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart1"
+    2301428: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart2"
+    2301430: "\xD4\xE0\xF1\xEA\xE01"
+    2301432: "\xD4\xE0\xF1\xEA\xE01 1"
+    2301434: "\xD4\xE0\xF1\xEA\xE01 2"
+    2301436: "\xD4\xE0\xF1\xEA\xE01 3"
+    2301438: "\u0414\u0435\u0442\u0430\u043B\u044C7:1"
+    3300000: 3835
+    3300002: 3836
+    3300004: 3837
+    3300006: 3838
+    3300008: 3839
+    3300010: 3840
+    3300012: 3841
+    3300014: 3842
+    3300016: 3843
+    3300018: 3844
+    3300020: 3845
+    3300022: 3846
+    3300024: 3847
+    3300026: 3848
+    3300028: 3849
+    3300030: 3850
+    3300032: 3852
+    3300034: 3853
+    3300036: 3854
+    3300038: 3855
+    3300040: 3857
+    3300042: 3858
+    3300044: 3859
+    3300046: 3861
+    3300048: 3862
+    3300050: 3863
+    3300052: 3864
+    3300054: 3865
+    3300056: 3867
+    3300058: 3868
+    3300060: 3869
+    3300062: 3870
+    3300064: 3871
+    3300066: 3872
+    3300068: 3903
+    3300070: 3904
+    3300072: 3905
+    3300074: 3906
+    3300076: 3907
+    3300078: 3908
+    3300080: 3911
+    3300082: 3914
+    3300084: 3915
+    3300086: 3916
+    3300088: 3917
+    3300090: 3918
+    3300092: 3919
+    3300094: 3920
+    3300096: 3921
+    3300098: 3923
+    3300100: 3924
+    3300102: 3927
+    3300104: 3928
+    3300106: 3929
+    3300108: 3930
+    3300110: 3931
+    3300112: 3932
+    3300114: 3933
+    3300116: 3934
+    3300118: 3935
+    3300120: 3936
+    3300122: 3937
+    3300124: 3938
+    3300126: Adjusting spindle:1
+    3300128: Ball:1
+    3300130: Ball:2
+    3300132: Body:1
+    3300134: Bonnet:1
+    3300136: Boss-Extrude26
+    3300138: Boss-Extrude3
+    3300140: Box001
+    3300142: Box002
+    3300144: Box003
+    3300146: Box004
+    3300148: Box005
+    3300150: Box006
+    3300152: Box007
+    3300154: Box008
+    3300156: Box009
+    3300158: Box009 1
+    3300160: Box010
+    3300162: Box011
+    3300164: Box012
+    3300166: Box013
+    3300168: Box014
+    3300170: Chamfer5
+    3300172: Chamfer6
+    3300174: CirPattern1
+    3300176: Coupling_nut:1
+    3300178: Cut-Extrude19_MeshPart0
+    3300180: Cut-Extrude19_MeshPart1
+    3300182: Cut-Extrude19_MeshPart2
+    3300184: Cut-Extrude20
+    3300186: dlawiiik
+    3300188: Extrude2
+    3300190: Feder 300x35x15_MeshPart0
+    3300192: Feder 300x35x15_MeshPart1
+    3300194: Fillet1
+    3300196: Fillet38
+    3300198: Fillet44
+    3300200: Fillet56
+    3300202: Fillet58
+    3300204: Fillet59
+    3300206: Fillet60
+    3300208: Fillet64
+    3300210: Fillet73_MeshPart0
+    3300212: Fillet73_MeshPart1
+    3300214: Fillet73_MeshPart2
+    3300216: Flachdichtung 170x140x1
+    3300218: Flange:1
+    3300220: Flange:2
+    3300222: Flywheel:1
+    3300224: GarterSpring:1
+    3300226: Gasket:1
+    3300228: Gasket:2
+    3300230: Gasket:3
+    3300232: Gasket:4
+    3300234: Gasket:5
+    3300236: Gasket:6
+    3300238: grzyb
+    3300240: Handwheel:1
+    3300242: hex nut gradec_iso-23-solid1
+    3300244: hex nut gradec_iso-24-solid1
+    3300246: hex nut gradec_iso-44-solid1
+    3300248: hex nut gradec_iso-54-solid1
+    3300250: hex nut gradec_iso-68-solid1
+    3300252: hex nut gradec_iso-74-solid1
+    3300254: hex nut gradec_iso-75-solid1
+    3300256: hex nut gradec_iso-76-solid1
+    3300258: hex nut gradec_iso-77-solid1
+    3300260: hex nut gradec_iso-78-solid1
+    3300262: hex nut gradec_iso-79-solid1
+    3300264: hex nut gradec_iso-80-solid1
+    3300266: hex nut gradec_iso-81-solid1
+    3300268: Imported1
+    3300270: Imported1 1
+    3300272: Imported1 10
+    3300274: Imported1 11
+    3300276: Imported1 12
+    3300278: Imported1 13
+    3300280: Imported1 14
+    3300282: Imported1 2
+    3300284: Imported1 3
+    3300286: Imported1 4
+    3300288: Imported1 5
+    3300290: Imported1 6
+    3300292: Imported1 7
+    3300294: Imported1 8
+    3300296: Imported1 9
+    3300298: Indicator:1
+    3300300: JunkRing:1
+    3300302: korp1_MeshPart0
+    3300304: korp1_MeshPart1
+    3300306: korp2
+    3300308: korpus2.Renamed
+    3300310: korpus_MeshPart0
+    3300312: korpus_MeshPart1
+    3300314: kulka.Renamed
+    3300316: LockBolt:1
+    3300318: m8
+    3300320: m8 1
+    3300322: m8 2
+    3300324: m8 3
+    3300326: Mirror2[1]
+    3300328: Mirror2[2]
+    3300330: Mirror3[1]
+    3300332: Mirror3[2]
+    3300334: Mirror3[3]
+    3300336: Mirror3[4]
+    3300338: Mirror4[1]
+    3300340: Mirror4[2]
+    3300342: Mirror4[3]
+    3300344: Mirror4[4]
+    3300346: Mutter_M16
+    3300348: Mutter_M16 1
+    3300350: nakretka_1
+    3300352: Nut 1:1
+    3300354: Nut:1
+    3300356: O-Ring 30x3
+    3300358: Packing:1
+    3300360: part1-1-solid1
+    3300362: part10-1-solid1
+    3300364: part12-1-solid1
+    3300366: part13-1-solid1
+    3300368: part13-2-solid1
+    3300370: part13-3-solid1
+    3300372: part22-2-solid1
+    3300374: Part3-1-solid1
+    3300376: Part4-1-solid1
+    3300378: Part4-2-solid1
+    3300380: part5-1-solid1
+    3300382: part5-2-solid1
+    3300384: part6-1-solid1
+    3300386: part6-1-solid2
+    3300388: part7-4-solid1
+    3300390: part7-5-solid1
+    3300392: part7-6-solid1
+    3300394: part7-7-solid1
+    3300396: part9-1-solid1
+    3300398: PartBody
+    3300400: PartBody 1
+    3300402: PartBody 2
+    3300404: PartBody 3
+    3300406: PartBody 4
+    3300408: PartBody 5
+    3300410: PartBody 6
+    3300412: PartBody001
+    3300414: PartBody002
+    3300416: PartBody005
+    3300418: PartBody006
+    3300420: plain washer 10673 type snl_iso-1-solid1
+    3300422: podk
+    3300424: Revolve14
+    3300426: Revolve3
+    3300428: Revolve4_MeshPart0
+    3300430: Revolve4_MeshPart1
+    3300432: Revolve8[1]
+    3300434: Revolve8[2]
+    3300436: Revolve8[3]
+    3300438: Revolve8[4]
+    3300440: Sealing PTFE bottom:1
+    3300442: Sealing PTFE top:1
+    3300444: Sealing PTFE:1
+    3300446: Sealing PTFE:2
+    3300448: Sealing PTFE:3
+    3300450: Sealing PTFE:4
+    3300452: Sealing PTFE:5
+    3300454: Sealing PTFE:6
+    3300456: Sealing washer 2:1
+    3300458: Sealing washer:1
+    3300460: SealRing:1
+    3300462: Seat:002
+    3300464: Seat:1
+    3300466: SechskantmutterDIN8675_M42x2
+    3300468: Segment:1
+    3300470: Segment:2
+    3300472: Segment:3
+    3300474: Shaft body:1
+    3300476: shaft lock:1
+    3300478: shaft lock:2
+    3300480: Solid1
+    3300482: Solid1 1
+    3300484: Solid1 10
+    3300486: Solid1 11
+    3300488: Solid1 12
+    3300490: Solid1 13
+    3300492: Solid1 14
+    3300494: Solid1 15
+    3300496: Solid1 16
+    3300498: Solid1 17
+    3300500: Solid1 18
+    3300502: Solid1 19
+    3300504: Solid1 2
+    3300506: Solid1 20
+    3300508: Solid1 21
+    3300510: Solid1 22
+    3300512: Solid1 23
+    3300514: Solid1 24
+    3300516: Solid1 25
+    3300518: Solid1 26
+    3300520: Solid1 27
+    3300522: Solid1 28
+    3300524: Solid1 29
+    3300526: Solid1 3
+    3300528: Solid1 30
+    3300530: Solid1 31
+    3300532: Solid1 32
+    3300534: Solid1 33
+    3300536: Solid1 34
+    3300538: Solid1 35
+    3300540: Solid1 36
+    3300542: Solid1 37
+    3300544: Solid1 38
+    3300546: Solid1 39
+    3300548: Solid1 4
+    3300550: Solid1 40
+    3300552: Solid1 41
+    3300554: Solid1 42
+    3300556: Solid1 43
+    3300558: Solid1 44
+    3300560: Solid1 45
+    3300562: Solid1 46_MeshPart0
+    3300564: Solid1 46_MeshPart1
+    3300566: Solid1 47
+    3300568: Solid1 48_MeshPart0
+    3300570: Solid1 48_MeshPart1
+    3300572: Solid1 48_MeshPart2
+    3300574: Solid1 49
+    3300576: Solid1 5
+    3300578: Solid1 50
+    3300580: Solid1 51
+    3300582: Solid1 52
+    3300584: Solid1 53
+    3300586: Solid1 54
+    3300588: Solid1 55
+    3300590: Solid1 56
+    3300592: Solid1 57
+    3300594: Solid1 58
+    3300596: Solid1 59
+    3300598: Solid1 6
+    3300600: Solid1 60
+    3300602: Solid1 61
+    3300604: Solid1 62
+    3300606: Solid1 63
+    3300608: Solid1 64
+    3300610: Solid1 65
+    3300612: Solid1 66
+    3300614: Solid1 67
+    3300616: Solid1 68
+    3300618: Solid1 69
+    3300620: Solid1 7
+    3300622: Solid1 70
+    3300624: Solid1 71
+    3300626: Solid1 72
+    3300628: Solid1 73
+    3300630: Solid1 74
+    3300632: Solid1 75
+    3300634: Solid1 76
+    3300636: Solid1 77
+    3300638: Solid1 78
+    3300640: Solid1 79
+    3300642: Solid1 8
+    3300644: Solid1 80
+    3300646: Solid1 81
+    3300648: Solid1 82
+    3300650: Solid1 83
+    3300652: Solid1 84
+    3300654: Solid1 85
+    3300656: Solid1 86
+    3300658: Solid1 87
+    3300660: Solid1 88
+    3300662: Solid1 89
+    3300664: Solid1 9
+    3300666: Solid1 90
+    3300668: Solid1 91
+    3300670: Solid1 92
+    3300672: Solid1 93
+    3300674: Solid1 94
+    3300676: Solid1 95
+    3300678: Solid1 96
+    3300680: Solid1 97
+    3300682: "Spannh\xFClse geschlitzt DIN EN ISO 13337-6x40"
+    3300684: Spindle cup:1
+    3300686: Spindle:1
+    3300688: Stehbolzen M16x60
+    3300690: Stehbolzen M16x60 1
+    3300692: Stem_:1
+    3300694: stitch_result_stitch all
+    3300696: stitch_result_stitch all 1
+    3300698: stitch_result_stitch all 10
+    3300700: stitch_result_stitch all 100
+    3300702: stitch_result_stitch all 101
+    3300704: stitch_result_stitch all 102
+    3300706: stitch_result_stitch all 103
+    3300708: stitch_result_stitch all 104
+    3300710: stitch_result_stitch all 105
+    3300712: stitch_result_stitch all 106
+    3300714: stitch_result_stitch all 107
+    3300716: stitch_result_stitch all 108
+    3300718: stitch_result_stitch all 109
+    3300720: stitch_result_stitch all 11
+    3300722: stitch_result_stitch all 110
+    3300724: stitch_result_stitch all 111
+    3300726: stitch_result_stitch all 112
+    3300728: stitch_result_stitch all 113
+    3300730: stitch_result_stitch all 114
+    3300732: stitch_result_stitch all 115
+    3300734: stitch_result_stitch all 116
+    3300736: stitch_result_stitch all 117
+    3300738: stitch_result_stitch all 118
+    3300740: stitch_result_stitch all 119
+    3300742: stitch_result_stitch all 12
+    3300744: stitch_result_stitch all 120
+    3300746: stitch_result_stitch all 121
+    3300748: stitch_result_stitch all 122
+    3300750: stitch_result_stitch all 123
+    3300752: stitch_result_stitch all 124
+    3300754: stitch_result_stitch all 125
+    3300756: stitch_result_stitch all 126
+    3300758: stitch_result_stitch all 127
+    3300760: stitch_result_stitch all 128
+    3300762: stitch_result_stitch all 129
+    3300764: stitch_result_stitch all 13
+    3300766: stitch_result_stitch all 130
+    3300768: stitch_result_stitch all 131
+    3300770: stitch_result_stitch all 132
+    3300772: stitch_result_stitch all 133
+    3300774: stitch_result_stitch all 134
+    3300776: stitch_result_stitch all 135
+    3300778: stitch_result_stitch all 136
+    3300780: stitch_result_stitch all 137
+    3300782: stitch_result_stitch all 138
+    3300784: stitch_result_stitch all 139
+    3300786: stitch_result_stitch all 14
+    3300788: stitch_result_stitch all 140
+    3300790: stitch_result_stitch all 141
+    3300792: stitch_result_stitch all 142
+    3300794: stitch_result_stitch all 143
+    3300796: stitch_result_stitch all 144
+    3300798: stitch_result_stitch all 145
+    3300800: stitch_result_stitch all 146
+    3300802: stitch_result_stitch all 147
+    3300804: stitch_result_stitch all 148
+    3300806: stitch_result_stitch all 149
+    3300808: stitch_result_stitch all 15
+    3300810: stitch_result_stitch all 150
+    3300812: stitch_result_stitch all 151
+    3300814: stitch_result_stitch all 152
+    3300816: stitch_result_stitch all 153
+    3300818: stitch_result_stitch all 154
+    3300820: stitch_result_stitch all 155
+    3300822: stitch_result_stitch all 156
+    3300824: stitch_result_stitch all 157
+    3300826: stitch_result_stitch all 158
+    3300828: stitch_result_stitch all 159
+    3300830: stitch_result_stitch all 16
+    3300832: stitch_result_stitch all 160
+    3300834: stitch_result_stitch all 161
+    3300836: stitch_result_stitch all 162
+    3300838: stitch_result_stitch all 163
+    3300840: stitch_result_stitch all 164
+    3300842: stitch_result_stitch all 165
+    3300844: stitch_result_stitch all 166
+    3300846: stitch_result_stitch all 167
+    3300848: stitch_result_stitch all 168
+    3300850: stitch_result_stitch all 169
+    3300852: stitch_result_stitch all 17
+    3300854: stitch_result_stitch all 170
+    3300856: stitch_result_stitch all 171
+    3300858: stitch_result_stitch all 172
+    3300860: stitch_result_stitch all 173
+    3300862: stitch_result_stitch all 174
+    3300864: stitch_result_stitch all 175
+    3300866: stitch_result_stitch all 176
+    3300868: stitch_result_stitch all 177
+    3300870: stitch_result_stitch all 178
+    3300872: stitch_result_stitch all 179
+    3300874: stitch_result_stitch all 18
+    3300876: stitch_result_stitch all 180
+    3300878: stitch_result_stitch all 181
+    3300880: stitch_result_stitch all 182
+    3300882: stitch_result_stitch all 183
+    3300884: stitch_result_stitch all 184
+    3300886: stitch_result_stitch all 185
+    3300888: stitch_result_stitch all 186
+    3300890: stitch_result_stitch all 187
+    3300892: stitch_result_stitch all 188
+    3300894: stitch_result_stitch all 189
+    3300896: stitch_result_stitch all 19
+    3300898: stitch_result_stitch all 190
+    3300900: stitch_result_stitch all 191
+    3300902: stitch_result_stitch all 192
+    3300904: stitch_result_stitch all 193
+    3300906: stitch_result_stitch all 194
+    3300908: stitch_result_stitch all 195
+    3300910: stitch_result_stitch all 196
+    3300912: stitch_result_stitch all 197
+    3300914: stitch_result_stitch all 198
+    3300916: stitch_result_stitch all 199
+    3300918: stitch_result_stitch all 2
+    3300920: stitch_result_stitch all 20
+    3300922: stitch_result_stitch all 200
+    3300924: stitch_result_stitch all 201
+    3300926: stitch_result_stitch all 202
+    3300928: stitch_result_stitch all 203
+    3300930: stitch_result_stitch all 204
+    3300932: stitch_result_stitch all 205
+    3300934: stitch_result_stitch all 206
+    3300936: stitch_result_stitch all 207
+    3300938: stitch_result_stitch all 208
+    3300940: stitch_result_stitch all 209
+    3300942: stitch_result_stitch all 21
+    3300944: stitch_result_stitch all 210
+    3300946: stitch_result_stitch all 211
+    3300948: stitch_result_stitch all 212
+    3300950: stitch_result_stitch all 213
+    3300952: stitch_result_stitch all 214
+    3300954: stitch_result_stitch all 215
+    3300956: stitch_result_stitch all 216
+    3300958: stitch_result_stitch all 217
+    3300960: stitch_result_stitch all 218
+    3300962: stitch_result_stitch all 219
+    3300964: stitch_result_stitch all 22
+    3300966: stitch_result_stitch all 220
+    3300968: stitch_result_stitch all 221
+    3300970: stitch_result_stitch all 222
+    3300972: stitch_result_stitch all 223
+    3300974: stitch_result_stitch all 224
+    3300976: stitch_result_stitch all 225
+    3300978: stitch_result_stitch all 226
+    3300980: stitch_result_stitch all 227
+    3300982: stitch_result_stitch all 228
+    3300984: stitch_result_stitch all 229
+    3300986: stitch_result_stitch all 23
+    3300988: stitch_result_stitch all 230
+    3300990: stitch_result_stitch all 231
+    3300992: stitch_result_stitch all 232
+    3300994: stitch_result_stitch all 233
+    3300996: stitch_result_stitch all 234
+    3300998: stitch_result_stitch all 235
+    3301000: stitch_result_stitch all 236
+    3301002: stitch_result_stitch all 237
+    3301004: stitch_result_stitch all 238
+    3301006: stitch_result_stitch all 239
+    3301008: stitch_result_stitch all 24
+    3301010: stitch_result_stitch all 240
+    3301012: stitch_result_stitch all 241
+    3301014: stitch_result_stitch all 242
+    3301016: stitch_result_stitch all 243
+    3301018: stitch_result_stitch all 244
+    3301020: stitch_result_stitch all 245
+    3301022: stitch_result_stitch all 246
+    3301024: stitch_result_stitch all 247
+    3301026: stitch_result_stitch all 248
+    3301028: stitch_result_stitch all 249
+    3301030: stitch_result_stitch all 25
+    3301032: stitch_result_stitch all 250
+    3301034: stitch_result_stitch all 251
+    3301036: stitch_result_stitch all 252
+    3301038: stitch_result_stitch all 253
+    3301040: stitch_result_stitch all 254
+    3301042: stitch_result_stitch all 255
+    3301044: stitch_result_stitch all 256
+    3301046: stitch_result_stitch all 257
+    3301048: stitch_result_stitch all 258
+    3301050: stitch_result_stitch all 259
+    3301052: stitch_result_stitch all 26
+    3301054: stitch_result_stitch all 260
+    3301056: stitch_result_stitch all 261
+    3301058: stitch_result_stitch all 262
+    3301060: stitch_result_stitch all 263
+    3301062: stitch_result_stitch all 264
+    3301064: stitch_result_stitch all 265
+    3301066: stitch_result_stitch all 266
+    3301068: stitch_result_stitch all 267
+    3301070: stitch_result_stitch all 268
+    3301072: stitch_result_stitch all 269
+    3301074: stitch_result_stitch all 27
+    3301076: stitch_result_stitch all 270
+    3301078: stitch_result_stitch all 271
+    3301080: stitch_result_stitch all 272
+    3301082: stitch_result_stitch all 273
+    3301084: stitch_result_stitch all 274
+    3301086: stitch_result_stitch all 275
+    3301088: stitch_result_stitch all 276
+    3301090: stitch_result_stitch all 277
+    3301092: stitch_result_stitch all 278
+    3301094: stitch_result_stitch all 279
+    3301096: stitch_result_stitch all 28
+    3301098: stitch_result_stitch all 280
+    3301100: stitch_result_stitch all 281
+    3301102: stitch_result_stitch all 282
+    3301104: stitch_result_stitch all 283
+    3301106: stitch_result_stitch all 284
+    3301108: stitch_result_stitch all 285
+    3301110: stitch_result_stitch all 286
+    3301112: stitch_result_stitch all 287
+    3301114: stitch_result_stitch all 288
+    3301116: stitch_result_stitch all 289
+    3301118: stitch_result_stitch all 29
+    3301120: stitch_result_stitch all 290
+    3301122: stitch_result_stitch all 291
+    3301124: stitch_result_stitch all 292
+    3301126: stitch_result_stitch all 293
+    3301128: stitch_result_stitch all 294
+    3301130: stitch_result_stitch all 295
+    3301132: stitch_result_stitch all 296
+    3301134: stitch_result_stitch all 297
+    3301136: stitch_result_stitch all 298
+    3301138: stitch_result_stitch all 299
+    3301140: stitch_result_stitch all 3
+    3301142: stitch_result_stitch all 30
+    3301144: stitch_result_stitch all 300
+    3301146: stitch_result_stitch all 301
+    3301148: stitch_result_stitch all 31
+    3301150: stitch_result_stitch all 32
+    3301152: stitch_result_stitch all 33
+    3301154: stitch_result_stitch all 34
+    3301156: stitch_result_stitch all 35
+    3301158: stitch_result_stitch all 36
+    3301160: stitch_result_stitch all 37
+    3301162: stitch_result_stitch all 38
+    3301164: stitch_result_stitch all 39
+    3301166: stitch_result_stitch all 4
+    3301168: stitch_result_stitch all 40
+    3301170: stitch_result_stitch all 41
+    3301172: stitch_result_stitch all 42
+    3301174: stitch_result_stitch all 43
+    3301176: stitch_result_stitch all 44
+    3301178: stitch_result_stitch all 45
+    3301180: stitch_result_stitch all 46
+    3301182: stitch_result_stitch all 47
+    3301184: stitch_result_stitch all 48
+    3301186: stitch_result_stitch all 49
+    3301188: stitch_result_stitch all 5
+    3301190: stitch_result_stitch all 50
+    3301192: stitch_result_stitch all 51
+    3301194: stitch_result_stitch all 52
+    3301196: stitch_result_stitch all 53
+    3301198: stitch_result_stitch all 54
+    3301200: stitch_result_stitch all 55
+    3301202: stitch_result_stitch all 56
+    3301204: stitch_result_stitch all 57
+    3301206: stitch_result_stitch all 58
+    3301208: stitch_result_stitch all 59
+    3301210: stitch_result_stitch all 6
+    3301212: stitch_result_stitch all 60
+    3301214: stitch_result_stitch all 61
+    3301216: stitch_result_stitch all 62
+    3301218: stitch_result_stitch all 63
+    3301220: stitch_result_stitch all 64
+    3301222: stitch_result_stitch all 65
+    3301224: stitch_result_stitch all 66
+    3301226: stitch_result_stitch all 67
+    3301228: stitch_result_stitch all 68
+    3301230: stitch_result_stitch all 69
+    3301232: stitch_result_stitch all 7
+    3301234: stitch_result_stitch all 70
+    3301236: stitch_result_stitch all 71
+    3301238: stitch_result_stitch all 72
+    3301240: stitch_result_stitch all 73
+    3301242: stitch_result_stitch all 74
+    3301244: stitch_result_stitch all 75
+    3301246: stitch_result_stitch all 76
+    3301248: stitch_result_stitch all 77
+    3301250: stitch_result_stitch all 78
+    3301252: stitch_result_stitch all 79
+    3301254: stitch_result_stitch all 8
+    3301256: stitch_result_stitch all 80
+    3301258: stitch_result_stitch all 81
+    3301260: stitch_result_stitch all 82
+    3301262: stitch_result_stitch all 83
+    3301264: stitch_result_stitch all 84
+    3301266: stitch_result_stitch all 85
+    3301268: stitch_result_stitch all 86
+    3301270: stitch_result_stitch all 87
+    3301272: stitch_result_stitch all 88
+    3301274: stitch_result_stitch all 89
+    3301276: stitch_result_stitch all 9
+    3301278: stitch_result_stitch all 90_MeshPart0
+    3301280: stitch_result_stitch all 90_MeshPart1
+    3301282: stitch_result_stitch all 91
+    3301284: stitch_result_stitch all 92_MeshPart0
+    3301286: stitch_result_stitch all 92_MeshPart1
+    3301288: stitch_result_stitch all 93
+    3301290: stitch_result_stitch all 94
+    3301292: stitch_result_stitch all 95
+    3301294: stitch_result_stitch all 96
+    3301296: stitch_result_stitch all 97
+    3301298: stitch_result_stitch all 98
+    3301300: stitch_result_stitch all 99
+    3301302: Stopfen mit Rand_R3_8_Zoll
+    3301304: SV911-80_125-Body
+    3301306: SV911-80_125-Ring
+    3301308: SV911-80_125_Druckplatte
+    3301310: SV911-80_125_Druckplatte 1
+    3301312: SV911-80_125_Federschraube
+    3301314: "SV911-80_125_F\xFChrungsscheibe"
+    3301316: SV911-80_125_Kappe
+    3301318: SV911-80_125_Kugel
+    3301320: SV911-80_125_Seat
+    3301322: SV911-80_125_Spindel
+    3301324: SV911-80_125_Springcover
+    3301326: SV911-80_125_Teller
+    3301328: SV911-80_Lead Seal
+    3301330: ucwyyt
+    3301332: UnionNut:1
+    3301334: uszcz
+    3301336: uszcz2
+    3301338: uszcz3
+    3301340: uszcz4
+    3301342: Valve body:1
+    3301344: VitonORing:1
+    3301346: walek_MeshPart0
+    3301348: walek_MeshPart1
+    3301350: Washer:1
+    3301352: Wire 1mm
+    3301354: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    3301356: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 1"
+    3301358: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 10"
+    3301360: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 11"
+    3301362: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 12"
+    3301364: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 2"
+    3301366: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 3"
+    3301368: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 4"
+    3301370: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 5"
+    3301372: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 6"
+    3301374: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 7"
+    3301376: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 8"
+    3301378: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 9"
+    3301380: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1"
+    3301382: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1 1"
+    3301384: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1 2"
+    3301386: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1 3"
+    3301388: "\xC2\xFB\xF0\xE5\xE72"
+    3301390: "\xC2\xFB\xF0\xE5\xE72 1"
+    3301392: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    3301394: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 1"
+    3301396: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 2"
+    3301398: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1 3"
+    3301400: "\xC4\xE8\xE0\xEC\xE5\xF2\xF0 \xEE\xF2\xE2\xE5\xF0\xF1\xF2\xE8\xFF O24.0
+      (24)1"
+    3301402: "\xC7\xE5\xF0\xEA\xE0\xEB\xFC\xED\xEE\xE5 \xEE\xF2\xF0\xE0\xE6\xE5\xED\xE8\xE51"
+    3301404: "\xCA\xF0\xF3\xE3\xEE\xE2\xEE\xE9 \xEC\xE0\xF1\xF1\xE8\xE22"
+    3301406: "\xCE\xF2\xE2\xE5\xF0\xF1\xF2\xE8\xE5 \xEE\xE1\xF0\xE0\xE1\xEE\xF2\xE0\xED\xED\xEE\xE5
+      \xEC\xE5\xF2\xF7\xE8\xEA\xEE\xEC M10x11"
+    3301408: "\xD0\xE5\xE7\xFC\xE1\xE01"
+    3301410: "\xD0\xE5\xE7\xFC\xE1\xE01 1_MeshPart0"
+    3301412: "\xD0\xE5\xE7\xFC\xE1\xE01 1_MeshPart1"
+    3301414: "\xD0\xE5\xE7\xFC\xE1\xE01 1_MeshPart2"
+    3301416: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51"
+    3301418: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51 1"
+    3301420: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51 2"
+    3301422: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE52"
+    3301424: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart0"
+    3301426: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart1"
+    3301428: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart2"
+    3301430: "\xD4\xE0\xF1\xEA\xE01"
+    3301432: "\xD4\xE0\xF1\xEA\xE01 1"
+    3301434: "\xD4\xE0\xF1\xEA\xE01 2"
+    3301436: "\xD4\xE0\xF1\xEA\xE01 3"
+    3301438: "\u0414\u0435\u0442\u0430\u043B\u044C7:1"
+    4300000: Box001
+    4300002: Imported1
+    4300004: Imported1
+    4300006: Imported1
+    4300008: Imported1
+    4300010: Imported1
+    4300012: Imported1
+    4300014: Imported1
+    4300016: Imported1
+    4300018: Imported1
+    4300020: Imported1
+    4300022: Imported1
+    4300024: Imported1
+    4300026: Imported1
+    4300028: Imported1
+    4300030: Imported1
+    4300032: Box002
+    4300034: kulka.Renamed
+    4300036: korpus2.Renamed
+    4300038: PartBody
+    4300040: PartBody
+    4300042: PartBody
+    4300044: PartBody
+    4300046: PartBody
+    4300048: PartBody
+    4300050: PartBody
+    4300052: korpus_MeshPart0
+    4300054: korpus_MeshPart1
+    4300056: Box003
+    4300058: Revolve4_MeshPart0
+    4300060: Revolve4_MeshPart1
+    4300062: Fillet1
+    4300064: Boss-Extrude3
+    4300066: Box004
+    4300068: Box005
+    4300070: Seat:1
+    4300072: Body:1
+    4300074: Coupling_nut:1
+    4300076: Bonnet:1
+    4300078: SealRing:1
+    4300080: UnionNut:1
+    4300082: Segment:1
+    4300084: Segment:2
+    4300086: Segment:3
+    4300088: GarterSpring:1
+    4300090: VitonORing:1
+    4300092: JunkRing:1
+    4300094: Packing:1
+    4300096: Ball:1
+    4300098: Ball:2
+    4300100: LockBolt:1
+    4300102: Stem_:1
+    4300104: Handwheel:1
+    4300106: Indicator:1
+    4300108: Box006
+    4300110: Box007
+    4300112: Box008
+    4300114: Box009
+    4300116: 3835
+    4300118: 3836
+    4300120: 3837
+    4300122: 3838
+    4300124: 3839
+    4300126: 3840
+    4300128: 3841
+    4300130: 3842
+    4300132: 3843
+    4300134: 3844
+    4300136: 3845
+    4300138: 3846
+    4300140: 3847
+    4300142: 3848
+    4300144: 3849
+    4300146: 3850
+    4300148: Solid1
+    4300150: Solid1
+    4300152: Solid1
+    4300154: 3852
+    4300156: 3853
+    4300158: 3854
+    4300160: 3855
+    4300162: Solid1
+    4300164: 3857
+    4300166: 3858
+    4300168: 3859
+    4300170: Solid1
+    4300172: 3861
+    4300174: 3862
+    4300176: 3863
+    4300178: 3864
+    4300180: 3865
+    4300182: Solid1
+    4300184: Solid1
+    4300186: Solid1
+    4300188: 3867
+    4300190: 3868
+    4300192: 3869
+    4300194: 3870
+    4300196: 3871
+    4300198: 3872
+    4300200: 3903
+    4300202: 3904
+    4300204: 3905
+    4300206: 3906
+    4300208: 3907
+    4300210: 3908
+    4300212: Solid1
+    4300214: Solid1
+    4300216: Solid1
+    4300218: Solid1
+    4300220: Solid1
+    4300222: Solid1
+    4300224: Solid1
+    4300226: Solid1
+    4300228: Solid1
+    4300230: Solid1
+    4300232: Solid1
+    4300234: Solid1
+    4300236: Solid1
+    4300238: Solid1
+    4300240: Solid1
+    4300242: Solid1
+    4300244: Solid1
+    4300246: Solid1
+    4300248: Solid1
+    4300250: Solid1
+    4300252: Solid1
+    4300254: Solid1
+    4300256: Solid1
+    4300258: Solid1
+    4300260: Solid1
+    4300262: Solid1
+    4300264: Solid1
+    4300266: Solid1
+    4300268: Solid1
+    4300270: Solid1
+    4300272: 3911
+    4300274: Solid1_MeshPart0
+    4300276: Solid1_MeshPart1
+    4300278: Solid1
+    4300280: 3914
+    4300282: Solid1
+    4300284: 3916
+    4300286: 3918
+    4300288: 3920
+    4300290: 3921
+    4300292: Solid1
+    4300294: 3923
+    4300296: 3924
+    4300298: Solid1
+    4300300: Solid1
+    4300302: Solid1
+    4300304: Solid1
+    4300306: Solid1
+    4300308: Solid1
+    4300310: Solid1
+    4300312: Solid1
+    4300314: Solid1
+    4300316: Solid1
+    4300318: Solid1
+    4300320: Solid1
+    4300322: 3927
+    4300324: 3928
+    4300326: 3929
+    4300328: 3930
+    4300330: 3931
+    4300332: 3932
+    4300334: 3933
+    4300336: 3934
+    4300338: 3935
+    4300340: 3936
+    4300342: 3937
+    4300344: 3938
+    4300346: Solid1_MeshPart0
+    4300348: Solid1_MeshPart1
+    4300350: Solid1_MeshPart2
+    4300352: Solid1
+    4300354: Solid1
+    4300356: Solid1
+    4300358: Solid1
+    4300360: Solid1
+    4300362: Solid1
+    4300364: Solid1
+    4300366: Solid1
+    4300368: Solid1
+    4300370: Solid1
+    4300372: Solid1
+    4300374: Solid1
+    4300376: Solid1
+    4300378: Solid1
+    4300380: Solid1
+    4300382: Solid1
+    4300384: Solid1
+    4300386: Solid1
+    4300388: Solid1
+    4300390: Solid1
+    4300392: Solid1
+    4300394: Solid1
+    4300396: Solid1
+    4300398: Solid1
+    4300400: Solid1
+    4300402: Solid1
+    4300404: Solid1
+    4300406: Solid1
+    4300408: Solid1
+    4300410: Solid1
+    4300412: Solid1
+    4300414: Solid1
+    4300416: Solid1
+    4300418: Solid1
+    4300420: Solid1
+    4300422: Solid1
+    4300424: Solid1
+    4300426: Solid1
+    4300428: Solid1
+    4300430: Solid1
+    4300432: Solid1
+    4300434: Solid1
+    4300436: Solid1
+    4300438: 3919
+    4300440: 3915
+    4300442: 3917
+    4300444: stitch_result_stitch all
+    4300446: stitch_result_stitch all
+    4300448: stitch_result_stitch all
+    4300450: stitch_result_stitch all
+    4300452: stitch_result_stitch all
+    4300454: stitch_result_stitch all
+    4300456: stitch_result_stitch all
+    4300458: stitch_result_stitch all
+    4300460: stitch_result_stitch all
+    4300462: stitch_result_stitch all
+    4300464: stitch_result_stitch all
+    4300466: stitch_result_stitch all
+    4300468: stitch_result_stitch all
+    4300470: stitch_result_stitch all
+    4300472: stitch_result_stitch all
+    4300474: stitch_result_stitch all
+    4300476: stitch_result_stitch all
+    4300478: stitch_result_stitch all
+    4300480: stitch_result_stitch all
+    4300482: stitch_result_stitch all
+    4300484: stitch_result_stitch all
+    4300486: stitch_result_stitch all
+    4300488: stitch_result_stitch all
+    4300490: stitch_result_stitch all
+    4300492: stitch_result_stitch all
+    4300494: stitch_result_stitch all
+    4300496: stitch_result_stitch all
+    4300498: stitch_result_stitch all
+    4300500: stitch_result_stitch all
+    4300502: stitch_result_stitch all
+    4300504: stitch_result_stitch all
+    4300506: stitch_result_stitch all
+    4300508: stitch_result_stitch all
+    4300510: stitch_result_stitch all
+    4300512: stitch_result_stitch all
+    4300514: stitch_result_stitch all
+    4300516: stitch_result_stitch all
+    4300518: stitch_result_stitch all
+    4300520: stitch_result_stitch all
+    4300522: stitch_result_stitch all
+    4300524: stitch_result_stitch all
+    4300526: stitch_result_stitch all
+    4300528: stitch_result_stitch all
+    4300530: stitch_result_stitch all
+    4300532: stitch_result_stitch all
+    4300534: stitch_result_stitch all
+    4300536: stitch_result_stitch all
+    4300538: stitch_result_stitch all
+    4300540: stitch_result_stitch all
+    4300542: stitch_result_stitch all
+    4300544: stitch_result_stitch all
+    4300546: stitch_result_stitch all
+    4300548: stitch_result_stitch all
+    4300550: stitch_result_stitch all
+    4300552: stitch_result_stitch all
+    4300554: stitch_result_stitch all
+    4300556: stitch_result_stitch all
+    4300558: stitch_result_stitch all
+    4300560: stitch_result_stitch all
+    4300562: stitch_result_stitch all
+    4300564: stitch_result_stitch all
+    4300566: stitch_result_stitch all
+    4300568: stitch_result_stitch all
+    4300570: stitch_result_stitch all
+    4300572: stitch_result_stitch all
+    4300574: stitch_result_stitch all
+    4300576: stitch_result_stitch all
+    4300578: stitch_result_stitch all
+    4300580: stitch_result_stitch all
+    4300582: stitch_result_stitch all
+    4300584: stitch_result_stitch all
+    4300586: stitch_result_stitch all
+    4300588: stitch_result_stitch all
+    4300590: stitch_result_stitch all
+    4300592: stitch_result_stitch all
+    4300594: stitch_result_stitch all
+    4300596: stitch_result_stitch all
+    4300598: stitch_result_stitch all
+    4300600: stitch_result_stitch all
+    4300602: stitch_result_stitch all
+    4300604: stitch_result_stitch all
+    4300606: stitch_result_stitch all
+    4300608: stitch_result_stitch all
+    4300610: stitch_result_stitch all
+    4300612: stitch_result_stitch all
+    4300614: stitch_result_stitch all
+    4300616: stitch_result_stitch all
+    4300618: stitch_result_stitch all
+    4300620: stitch_result_stitch all
+    4300622: stitch_result_stitch all
+    4300624: stitch_result_stitch all
+    4300626: stitch_result_stitch all
+    4300628: stitch_result_stitch all
+    4300630: stitch_result_stitch all
+    4300632: stitch_result_stitch all
+    4300634: stitch_result_stitch all
+    4300636: stitch_result_stitch all
+    4300638: stitch_result_stitch all
+    4300640: stitch_result_stitch all
+    4300642: stitch_result_stitch all
+    4300644: stitch_result_stitch all
+    4300646: stitch_result_stitch all
+    4300648: stitch_result_stitch all
+    4300650: stitch_result_stitch all
+    4300652: stitch_result_stitch all
+    4300654: stitch_result_stitch all
+    4300656: stitch_result_stitch all
+    4300658: stitch_result_stitch all
+    4300660: stitch_result_stitch all
+    4300662: stitch_result_stitch all
+    4300664: stitch_result_stitch all
+    4300666: stitch_result_stitch all
+    4300668: stitch_result_stitch all
+    4300670: stitch_result_stitch all
+    4300672: stitch_result_stitch all
+    4300674: stitch_result_stitch all
+    4300676: stitch_result_stitch all
+    4300678: stitch_result_stitch all
+    4300680: stitch_result_stitch all
+    4300682: stitch_result_stitch all
+    4300684: stitch_result_stitch all
+    4300686: stitch_result_stitch all
+    4300688: stitch_result_stitch all
+    4300690: stitch_result_stitch all
+    4300692: stitch_result_stitch all
+    4300694: stitch_result_stitch all
+    4300696: stitch_result_stitch all
+    4300698: stitch_result_stitch all
+    4300700: stitch_result_stitch all
+    4300702: stitch_result_stitch all
+    4300704: stitch_result_stitch all
+    4300706: stitch_result_stitch all
+    4300708: stitch_result_stitch all
+    4300710: stitch_result_stitch all
+    4300712: stitch_result_stitch all
+    4300714: stitch_result_stitch all
+    4300716: stitch_result_stitch all
+    4300718: stitch_result_stitch all
+    4300720: stitch_result_stitch all
+    4300722: stitch_result_stitch all
+    4300724: stitch_result_stitch all
+    4300726: stitch_result_stitch all
+    4300728: stitch_result_stitch all
+    4300730: stitch_result_stitch all
+    4300732: stitch_result_stitch all
+    4300734: stitch_result_stitch all
+    4300736: stitch_result_stitch all
+    4300738: stitch_result_stitch all
+    4300740: stitch_result_stitch all
+    4300742: stitch_result_stitch all
+    4300744: stitch_result_stitch all
+    4300746: stitch_result_stitch all
+    4300748: stitch_result_stitch all
+    4300750: stitch_result_stitch all
+    4300752: stitch_result_stitch all
+    4300754: stitch_result_stitch all
+    4300756: stitch_result_stitch all
+    4300758: stitch_result_stitch all
+    4300760: stitch_result_stitch all
+    4300762: stitch_result_stitch all
+    4300764: stitch_result_stitch all
+    4300766: stitch_result_stitch all
+    4300768: stitch_result_stitch all
+    4300770: stitch_result_stitch all
+    4300772: stitch_result_stitch all
+    4300774: stitch_result_stitch all
+    4300776: stitch_result_stitch all
+    4300778: stitch_result_stitch all
+    4300780: stitch_result_stitch all
+    4300782: stitch_result_stitch all
+    4300784: stitch_result_stitch all
+    4300786: stitch_result_stitch all
+    4300788: stitch_result_stitch all
+    4300790: stitch_result_stitch all
+    4300792: stitch_result_stitch all
+    4300794: stitch_result_stitch all
+    4300796: stitch_result_stitch all
+    4300798: stitch_result_stitch all
+    4300800: stitch_result_stitch all
+    4300802: stitch_result_stitch all
+    4300804: stitch_result_stitch all
+    4300806: stitch_result_stitch all
+    4300808: stitch_result_stitch all
+    4300810: stitch_result_stitch all
+    4300812: stitch_result_stitch all
+    4300814: stitch_result_stitch all
+    4300816: stitch_result_stitch all
+    4300818: stitch_result_stitch all
+    4300820: stitch_result_stitch all
+    4300822: stitch_result_stitch all
+    4300824: stitch_result_stitch all
+    4300826: stitch_result_stitch all
+    4300828: stitch_result_stitch all
+    4300830: stitch_result_stitch all
+    4300832: stitch_result_stitch all
+    4300834: stitch_result_stitch all
+    4300836: stitch_result_stitch all
+    4300838: stitch_result_stitch all
+    4300840: stitch_result_stitch all
+    4300842: stitch_result_stitch all
+    4300844: stitch_result_stitch all
+    4300846: stitch_result_stitch all
+    4300848: stitch_result_stitch all
+    4300850: stitch_result_stitch all
+    4300852: stitch_result_stitch all
+    4300854: stitch_result_stitch all
+    4300856: stitch_result_stitch all
+    4300858: stitch_result_stitch all
+    4300860: stitch_result_stitch all
+    4300862: stitch_result_stitch all
+    4300864: stitch_result_stitch all
+    4300866: stitch_result_stitch all
+    4300868: stitch_result_stitch all
+    4300870: stitch_result_stitch all
+    4300872: stitch_result_stitch all
+    4300874: stitch_result_stitch all
+    4300876: stitch_result_stitch all
+    4300878: stitch_result_stitch all
+    4300880: stitch_result_stitch all
+    4300882: stitch_result_stitch all
+    4300884: stitch_result_stitch all
+    4300886: stitch_result_stitch all
+    4300888: stitch_result_stitch all
+    4300890: stitch_result_stitch all
+    4300892: stitch_result_stitch all
+    4300894: stitch_result_stitch all
+    4300896: stitch_result_stitch all
+    4300898: stitch_result_stitch all
+    4300900: stitch_result_stitch all
+    4300902: stitch_result_stitch all
+    4300904: stitch_result_stitch all
+    4300906: stitch_result_stitch all
+    4300908: stitch_result_stitch all
+    4300910: stitch_result_stitch all
+    4300912: stitch_result_stitch all
+    4300914: stitch_result_stitch all
+    4300916: stitch_result_stitch all
+    4300918: stitch_result_stitch all
+    4300920: stitch_result_stitch all
+    4300922: stitch_result_stitch all
+    4300924: stitch_result_stitch all
+    4300926: stitch_result_stitch all
+    4300928: stitch_result_stitch all
+    4300930: stitch_result_stitch all
+    4300932: stitch_result_stitch all
+    4300934: stitch_result_stitch all
+    4300936: stitch_result_stitch all
+    4300938: stitch_result_stitch all
+    4300940: stitch_result_stitch all
+    4300942: stitch_result_stitch all
+    4300944: stitch_result_stitch all
+    4300946: stitch_result_stitch all
+    4300948: stitch_result_stitch all
+    4300950: stitch_result_stitch all
+    4300952: stitch_result_stitch all
+    4300954: stitch_result_stitch all
+    4300956: stitch_result_stitch all
+    4300958: stitch_result_stitch all
+    4300960: stitch_result_stitch all_MeshPart0
+    4300962: stitch_result_stitch all_MeshPart1
+    4300964: stitch_result_stitch all
+    4300966: stitch_result_stitch all_MeshPart0
+    4300968: stitch_result_stitch all_MeshPart1
+    4300970: stitch_result_stitch all
+    4300972: stitch_result_stitch all
+    4300974: stitch_result_stitch all
+    4300976: stitch_result_stitch all
+    4300978: stitch_result_stitch all
+    4300980: stitch_result_stitch all
+    4300982: stitch_result_stitch all
+    4300984: stitch_result_stitch all
+    4300986: stitch_result_stitch all
+    4300988: stitch_result_stitch all
+    4300990: stitch_result_stitch all
+    4300992: stitch_result_stitch all
+    4300994: stitch_result_stitch all
+    4300996: stitch_result_stitch all
+    4300998: stitch_result_stitch all
+    4301000: stitch_result_stitch all
+    4301002: stitch_result_stitch all
+    4301004: stitch_result_stitch all
+    4301006: stitch_result_stitch all
+    4301008: stitch_result_stitch all
+    4301010: stitch_result_stitch all
+    4301012: stitch_result_stitch all
+    4301014: stitch_result_stitch all
+    4301016: stitch_result_stitch all
+    4301018: stitch_result_stitch all
+    4301020: stitch_result_stitch all
+    4301022: stitch_result_stitch all
+    4301024: stitch_result_stitch all
+    4301026: stitch_result_stitch all
+    4301028: stitch_result_stitch all
+    4301030: stitch_result_stitch all
+    4301032: stitch_result_stitch all
+    4301034: stitch_result_stitch all
+    4301036: stitch_result_stitch all
+    4301038: stitch_result_stitch all
+    4301040: stitch_result_stitch all
+    4301042: stitch_result_stitch all
+    4301044: stitch_result_stitch all
+    4301046: stitch_result_stitch all
+    4301048: stitch_result_stitch all
+    4301050: stitch_result_stitch all
+    4301052: Box009
+    4301054: plain washer 10673 type snl_iso-1-solid1
+    4301056: part22-2-solid1
+    4301058: hex nut gradec_iso-54-solid1
+    4301060: hex nut gradec_iso-68-solid1
+    4301062: hex nut gradec_iso-74-solid1
+    4301064: part7-4-solid1
+    4301066: hex nut gradec_iso-75-solid1
+    4301068: hex nut gradec_iso-76-solid1
+    4301070: part7-5-solid1
+    4301072: hex nut gradec_iso-77-solid1
+    4301074: hex nut gradec_iso-78-solid1
+    4301076: part7-6-solid1
+    4301078: hex nut gradec_iso-79-solid1
+    4301080: hex nut gradec_iso-80-solid1
+    4301082: part7-7-solid1
+    4301084: hex nut gradec_iso-81-solid1
+    4301086: part10-1-solid1
+    4301088: hex nut gradec_iso-44-solid1
+    4301090: hex nut gradec_iso-23-solid1
+    4301092: hex nut gradec_iso-24-solid1
+    4301094: Part4-1-solid1
+    4301096: Part4-2-solid1
+    4301098: part5-1-solid1
+    4301100: part5-2-solid1
+    4301102: part13-1-solid1
+    4301104: part13-2-solid1
+    4301106: part13-3-solid1
+    4301108: Part3-1-solid1
+    4301110: part12-1-solid1
+    4301112: part6-1-solid1
+    4301114: part6-1-solid2
+    4301116: part9-1-solid1
+    4301118: part1-1-solid1
+    4301120: Box010
+    4301122: Box011
+    4301124: korp1_MeshPart0
+    4301126: korp1_MeshPart1
+    4301128: korp2
+    4301130: walek_MeshPart0
+    4301132: walek_MeshPart1
+    4301134: dlawiiik
+    4301136: uszcz2
+    4301138: uszcz3
+    4301140: uszcz4
+    4301142: grzyb
+    4301144: uszcz
+    4301146: podk
+    4301148: nakretka_1
+    4301150: PartBody006
+    4301152: ucwyyt
+    4301154: PartBody005
+    4301156: PartBody002
+    4301158: PartBody001
+    4301160: m8
+    4301162: m8
+    4301164: m8
+    4301166: m8
+    4301168: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart0"
+    4301170: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart1"
+    4301172: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE521_MeshPart2"
+    4301174: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301176: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301178: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301180: "\xCE\xF2\xE2\xE5\xF0\xF1\xF2\xE8\xE5 \xEE\xE1\xF0\xE0\xE1\xEE\xF2\xE0\xED\xED\xEE\xE5
+      \xEC\xE5\xF2\xF7\xE8\xEA\xEE\xEC M10x11"
+    4301182: "\xC2\xFB\xF0\xE5\xE72"
+    4301184: "\xD0\xE5\xE7\xFC\xE1\xE01"
+    4301186: "\xC4\xE8\xE0\xEC\xE5\xF2\xF0 \xEE\xF2\xE2\xE5\xF0\xF1\xF2\xE8\xFF O24.0
+      (24)1"
+    4301188: CirPattern1
+    4301190: "\xD0\xE5\xE7\xFC\xE1\xE01_MeshPart0"
+    4301192: "\xD0\xE5\xE7\xFC\xE1\xE01_MeshPart1"
+    4301194: "\xD0\xE5\xE7\xFC\xE1\xE01_MeshPart2"
+    4301196: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE52"
+    4301198: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51"
+    4301200: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51"
+    4301202: "\xD1\xEA\xF0\xF3\xE3\xEB\xE5\xED\xE8\xE51"
+    4301204: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301206: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301208: "\xC7\xE5\xF0\xEA\xE0\xEB\xFC\xED\xEE\xE5 \xEE\xF2\xF0\xE0\xE6\xE5\xED\xE8\xE51"
+    4301210: "\xD4\xE0\xF1\xEA\xE01"
+    4301212: "\xD4\xE0\xF1\xEA\xE01"
+    4301214: "\xD4\xE0\xF1\xEA\xE01"
+    4301216: "\xD4\xE0\xF1\xEA\xE01"
+    4301218: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301220: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301222: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1"
+    4301224: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1"
+    4301226: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1"
+    4301228: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301230: "\xC2\xFB\xF0\xE5\xE7-\xCF\xEE\xE2\xE5\xF0\xED\xF3\xF2\xFC1"
+    4301232: "\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301234: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301236: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301238: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301240: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301242: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301244: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301246: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301248: "\xC2\xFB\xF0\xE5\xE7-\xC2\xFB\xF2\xFF\xED\xF3\xF2\xFC1"
+    4301250: Revolve3
+    4301252: Extrude2
+    4301254: "\xC2\xFB\xF0\xE5\xE72"
+    4301256: "\xCA\xF0\xF3\xE3\xEE\xE2\xEE\xE9 \xEC\xE0\xF1\xF1\xE8\xE22"
+    4301258: Box012
+    4301260: Box013
+    4301262: SV911-80_125_Teller
+    4301264: SV911-80_125_Kugel
+    4301266: SV911-80_125_Spindel
+    4301268: "SV911-80_125_F\xFChrungsscheibe"
+    4301270: SV911-80_125_Federschraube
+    4301272: SV911-80_125_Druckplatte
+    4301274: SV911-80_125_Druckplatte
+    4301276: Feder 300x35x15_MeshPart0
+    4301278: Feder 300x35x15_MeshPart1
+    4301280: Stehbolzen M16x60
+    4301282: Stehbolzen M16x60
+    4301284: Mutter_M16
+    4301286: Mutter_M16
+    4301288: "Spannh\xFClse geschlitzt DIN EN ISO 13337-6x40"
+    4301290: O-Ring 30x3
+    4301292: SechskantmutterDIN8675_M42x2
+    4301294: Stopfen mit Rand_R3_8_Zoll
+    4301296: SV911-80_125_Kappe
+    4301298: Flachdichtung 170x140x1
+    4301300: SV911-80_125_Seat
+    4301302: SV911-80_125-Ring
+    4301304: SV911-80_Lead Seal
+    4301306: Wire 1mm
+    4301308: SV911-80_125-Body
+    4301310: SV911-80_125_Springcover
+    4301312: Revolve8[1]
+    4301314: Revolve8[2]
+    4301316: Revolve8[3]
+    4301318: Revolve8[4]
+    4301320: Fillet38
+    4301322: Revolve14
+    4301324: Fillet44
+    4301326: Fillet56
+    4301328: Boss-Extrude26
+    4301330: Chamfer5
+    4301332: Mirror2[1]
+    4301334: Mirror2[2]
+    4301336: Mirror3[1]
+    4301338: Mirror3[2]
+    4301340: Mirror3[3]
+    4301342: Mirror3[4]
+    4301344: Fillet58
+    4301346: Fillet59
+    4301348: Fillet60
+    4301350: Chamfer6
+    4301352: Mirror4[1]
+    4301354: Mirror4[2]
+    4301356: Mirror4[3]
+    4301358: Mirror4[4]
+    4301360: Cut-Extrude19_MeshPart0
+    4301362: Cut-Extrude19_MeshPart1
+    4301364: Cut-Extrude19_MeshPart2
+    4301366: Fillet64
+    4301368: Cut-Extrude20
+    4301370: Fillet73_MeshPart0
+    4301372: Fillet73_MeshPart1
+    4301374: Fillet73_MeshPart2
+    4301376: Box014
+    4301378: Valve body:1
+    4301380: Adjusting spindle:1
+    4301382: Gasket:1
+    4301384: Gasket:2
+    4301386: Gasket:3
+    4301388: Gasket:4
+    4301390: Gasket:5
+    4301392: Gasket:6
+    4301394: Sealing PTFE:1
+    4301396: Sealing PTFE:2
+    4301398: Sealing PTFE:3
+    4301400: Sealing PTFE:4
+    4301402: Sealing PTFE:5
+    4301404: Sealing PTFE:6
+    4301406: Sealing washer 2:1
+    4301408: Sealing washer:1
+    4301410: Spindle:1
+    4301412: Spindle cup:1
+    4301414: shaft lock:1
+    4301416: shaft lock:2
+    4301418: Sealing PTFE bottom:1
+    4301420: Sealing PTFE top:1
+    4301422: Washer:1
+    4301424: Seat:002
+    4301426: Nut 1:1
+    4301428: Nut:1
+    4301430: Flange:1
+    4301432: Flange:2
+    4301434: Shaft body:1
+    4301436: "\u0414\u0435\u0442\u0430\u043B\u044C7:1"
+    4301438: Flywheel:1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

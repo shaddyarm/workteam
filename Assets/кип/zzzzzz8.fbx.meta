@@ -1,186 +1,9 @@
 fileFormatVersion: 2
 guid: cee592fd0e0c1e341ab0859de294480c
 ModelImporter:
-  serializedVersion: 19301
+  serializedVersion: 28
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Acrylic__clear
-    second: {fileID: 8503932545163509101, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Aluminum
-    second: {fileID: -4654406841726117118, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: BackColor
-    second: {fileID: 2100000, guid: 5975c289df1d3df48b641dd178b938d3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_003
-    second: {fileID: 631127229818824254, guid: cee592fd0e0c1e341ab0859de294480c, type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_009
-    second: {fileID: 2100000, guid: 253257b71f16f8642ae105e7ec50cca4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_D04
-    second: {fileID: 6030522655220714848, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_E05
-    second: {fileID: -3108901727457553530, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_E06
-    second: {fileID: -3531426146267440311, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_F01
-    second: {fileID: 8375853448892963561, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_F05
-    second: {fileID: -8135562696804466240, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_F17
-    second: {fileID: 384089605652846503, guid: cee592fd0e0c1e341ab0859de294480c, type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_F18
-    second: {fileID: 2100000, guid: 6babbb8f3c8255842adf6800ab57771f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_G16
-    second: {fileID: 505647146258146719, guid: cee592fd0e0c1e341ab0859de294480c, type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_M01
-    second: {fileID: -8794944695926590091, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_M05
-    second: {fileID: -1410610340582363956, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Copper
-    second: {fileID: 9219180724257492359, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: FrontColor
-    second: {fileID: 2100000, guid: 8bf81c8497be439499ae7e7efc6e4336, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_0010_Snow
-    second: {fileID: 2100000, guid: aeeab86143f90504fb15755e224a6261, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_0047_Khaki
-    second: {fileID: 3643048317609069602, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_0123_DarkMagenta
-    second: {fileID: 665806079175230828, guid: cee592fd0e0c1e341ab0859de294480c, type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_0130_Gainsboro
-    second: {fileID: 2100000, guid: 5d7bac63e348b4f4c8ef62e3fae77d30, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_0135_DarkGray
-    second: {fileID: 2100000, guid: fa8c1db950efea842817fd00af2a357f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_0136_Charcoal
-    second: {fileID: -3127813077691147558, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal_Aluminum_Anodized
-    second: {fileID: 2100000, guid: 495ee33481ecc0744b01cd4b272b27c7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal_Rough
-    second: {fileID: 8336714168247129254, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Translucent_Glass_Blue
-    second: {fileID: 2100000, guid: 369a28c11c3e93249a2a0d7cc8fff116, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Translucent_Glass_Gray
-    second: {fileID: 4592643069801107800, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _0128_White_1
-    second: {fileID: -5606901762131804243, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _0129_WhiteSmoke_1
-    second: {fileID: 2100000, guid: 0ac2494ca4f1c174dbf144918e7dfc7d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: _0131_Silver_1
-    second: {fileID: 2100000, guid: 7858c6f59432b41448316644ba8dc288, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: untitled
-    second: {fileID: -5178408864183246243, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: untitled2
-    second: {fileID: 1817678253209978784, guid: cee592fd0e0c1e341ab0859de294480c,
-      type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -220,7 +43,6 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -264,7 +86,6 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
   avatarSetup: 0
