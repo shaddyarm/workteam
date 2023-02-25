@@ -9,12 +9,14 @@ public class Helper : MonoBehaviour
 
     public Transform Player;
     public Transform Object;
-
+    private float PlayerView;
     public float show_distanse;
+    public GameObject Editor;
     // Start is called before the first frame update
     void Start()
     {
-       // PlayerforTargeting = GameObject.Find("Player");
+
+
     }
 
 
@@ -22,15 +24,23 @@ public class Helper : MonoBehaviour
 // Update is called once per frame
 void Update()
     {
+
+
         var distanse = Vector3.Distance(Player.transform.position, Object.transform.position);
 
-        if (distanse >= show_distanse)
+        podskaska_whatis_off.transform.LookAt(Player);
+        podskaska_whatis_off.transform.Rotate(0, 180, 0);
+
+        if (!Editor.GetComponent<ScenarioEditor>().exam_mode)
         {
-            podskaska_whatis_off.SetActive(false);
-        }
-        else
-        {
-            podskaska_whatis_off.SetActive(true);
+            if (distanse >= show_distanse)
+            {
+                podskaska_whatis_off.SetActive(false);
+            }
+            else
+            {
+                podskaska_whatis_off.SetActive(true);
+            }
         }
 
 

@@ -21,8 +21,10 @@ public class ScenarioEditor : MonoBehaviour
 	public string ScenarioName = ""; //название сценария
 	public bool exam_mode = false; //режим экзамена
 	public bool ShowCorrectAnswerInEduMode = true;
+	
 	public bool AutoStart = true;
 	public bool isFinished=false;
+	
 	public int ВсегоДействий = 0;
 	public int ВсегоОшибок =0;
 	[Header("Показать отчет по завершении и отправить в LRS")]
@@ -57,6 +59,7 @@ public class ScenarioEditor : MonoBehaviour
 	public Text TopMenuText;
 	public Button TopMenuButton;
 	public AudioSource AudioSourceForMessage;
+	
 	public GameObject DocumentViewer;
 	public DocumentShowClass DocClass;
 	public Button DocumentViewerCloseButton;
@@ -73,10 +76,11 @@ public class ScenarioEditor : MonoBehaviour
 	public AudioClip StandartQuestionClip = null;
 	public AudioClip StandartCorrectQuestionClip = null;
 	public AudioClip StandartIncorrectQuestionClip = null;
-
-	public GameObject PlayerScript;
+	
+	
 	public GameObject Напоминалка;
 	public Text Напоминалка_текст;
+	
 	public GameObject Report;
 	public Text Report_text;
 	
@@ -246,12 +250,13 @@ public class ScenarioEditor : MonoBehaviour
 	public void SetExamMode(bool value)
 	{
 		exam_mode = value;
+		Debug.Log("Получилось");
 	}
 	
 	public void ManualStart(int num_step=0)
 	{
-		TurnOnMovement();
 		timeElapsed = 0;
+
 
 		isFinished =false;
 		int _num_step = num_step;
@@ -625,16 +630,8 @@ public class ScenarioEditor : MonoBehaviour
 
 		Debug.Log ("step width name ='" + ScenarioStepList[CurrentStepIndex].name + "' is wrong!");
 	}
-	
-	public void StopMovement() //выключает движения
-    {
-		PlayerScript.GetComponent<Rigidbody>().mass = 100;
 
-	}
-	public void TurnOnMovement()//включает движение
-    {
-		PlayerScript.GetComponent<Rigidbody>().mass = 0.9f;
-	}
+
 }
 
 

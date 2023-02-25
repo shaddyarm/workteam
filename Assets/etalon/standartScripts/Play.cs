@@ -42,7 +42,7 @@ public class Play : MonoBehaviour
     private bool guimode;
 
 
-	public string style;
+
 	//
 	float UpDown = 0;
 	float LeftRight = 0;
@@ -78,7 +78,7 @@ public class Play : MonoBehaviour
 		zoom = value;
 	}
 
-	
+
 	public void ChangeCameraMode(int _mode)
 	{
 		mode=_mode;
