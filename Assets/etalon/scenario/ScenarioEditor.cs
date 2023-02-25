@@ -628,12 +628,12 @@ public class ScenarioEditor : MonoBehaviour
 	
 	public void StopMovement() //выключает движения
     {
-		PlayerScript.GetComponent<Play>().mode = -1;
+		PlayerScript.GetComponent<Rigidbody>().mass = 100;
 
 	}
 	public void TurnOnMovement()//включает движение
     {
-		PlayerScript.GetComponent<Play>().mode = 0;
+		PlayerScript.GetComponent<Rigidbody>().mass = 0.9f;
 	}
 }
 
