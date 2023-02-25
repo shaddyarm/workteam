@@ -18,7 +18,7 @@ public class Play : MonoBehaviour
 	//-2 - no move
 	//0-standart
 	//1-orbit
-	public int mode = 0;
+	public int mode = -1;
 
 	public bool inCabin = false;
 

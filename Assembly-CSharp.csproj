@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <Compile Include="Assets\0_ANIM_IK_TEST\IkControl.cs" />
     <Compile Include="Assets\0_ANIM_IK_TEST\UnityOutlineFX\UnityOutlineFX.cs" />
     <Compile Include="Assets\0_ANIM_IK_TEST\UnityOutlineFX\UnityOutlineManager.cs" />
@@ -97,6 +98,8 @@
     <Compile Include="Assets\AllMaterials\3D_materials\JCR\Script\RotatePos1A.cs" />
     <Compile Include="Assets\AllMaterials\3D_materials\JCR\Script\RotatePos1C.cs" />
     <Compile Include="Assets\AllMaterials\3D_materials\JCR\Script\RotatePosZ.cs" />
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     <Compile Include="Assets\AllOtherFolders\0 ЛУКОЙЛ ГЛУШЕНИЕ\ArrowClass.cs" />
@@ -286,9 +289,12 @@
     <Compile Include="Assets\VLR\Детали машин\labDM_1.cs" />
     <Compile Include="Assets\VLR\Детали машин\labDM_parametr.cs" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <Compile Include="Assets\_SCENARIO\Assets\Scripts\MovingSphere.cs" />
     <Compile Include="Assets\_SCENARIO\Assets\Scripts\OrbitCamera.cs" />
 =======
+=======
+>>>>>>> Stashed changes
     <Compile Include="Assets\_ALL_SCRIPTS\Add\Clock\Scripts\Clock.cs" />
     <Compile Include="Assets\_ALL_SCRIPTS\Add\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
     <Compile Include="Assets\_ALL_SCRIPTS\Add\EffectExamples\Shared\Scripts\GunAim.cs" />
@@ -324,6 +330,9 @@
     <Compile Include="Assets\_MATERIALS+TEXTURES\AllMaterials\3D_materials\JCR\Script\RotatePos1A.cs" />
     <Compile Include="Assets\_MATERIALS+TEXTURES\AllMaterials\3D_materials\JCR\Script\RotatePos1C.cs" />
     <Compile Include="Assets\_MATERIALS+TEXTURES\AllMaterials\3D_materials\JCR\Script\RotatePosZ.cs" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     <Compile Include="Assets\_Shaddy\OutLineOnDown.cs" />
     <Compile Include="Assets\etalon\Obi\Samples\Common\SampleResources\Scripts\ActorCOMTransform.cs" />
@@ -500,8 +509,14 @@
     <None Include="Assets\etalon\Убраны лишние ТОЛЬКО ДЛЯ ЭТОГО ПРОЕКТА.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <None Include="Assets\etalon\Obi\Resources\ObiMaterials\URP\ObiLightingURP.cginc" />
     <None Include="Assets\0_ANIM_IK_TEST\UnityOutlineFX\Resources\UnityOutline.cginc" />
+=======
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\etalon\Obi\Resources\ObiMaterials\URP\ObiLightingURP.cginc" />
+    <None Include="Assets\_ANY_ANIMATION\0_ANIM_IK_TEST\UnityOutlineFX\Resources\UnityOutline.cginc" />
+>>>>>>> Stashed changes
 =======
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\etalon\Obi\Resources\ObiMaterials\URP\ObiLightingURP.cginc" />
@@ -540,7 +555,11 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\etalon\Obi\Resources\ObiMaterials\ObiUtils.cginc" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <None Include="Assets\0_ANIM_IK_TEST\UnityOutlineFX\Resources\UnityOutline.shader" />
+=======
+    <None Include="Assets\_ANY_ANIMATION\0_ANIM_IK_TEST\UnityOutlineFX\Resources\UnityOutline.shader" />
+>>>>>>> Stashed changes
 =======
     <None Include="Assets\_ANY_ANIMATION\0_ANIM_IK_TEST\UnityOutlineFX\Resources\UnityOutline.shader" />
 >>>>>>> Stashed changes
