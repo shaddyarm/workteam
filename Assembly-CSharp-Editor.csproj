@@ -64,10 +64,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< Updated upstream
-    <Compile Include="Assets\Add\RainMaker\Editor\RainMakerEditor.cs" />
-=======
->>>>>>> Stashed changes
     <Compile Include="Assets\Editor\BoxColliderToChildrenSize.cs" />
     <Compile Include="Assets\Editor\MakeTranslateFile.cs" />
     <Compile Include="Assets\Editor\WappingCollider.cs" />
@@ -134,10 +130,7 @@
     <Compile Include="Assets\UMotionEditor\Scripts\Editor\AnimationCurveUtilityRecent.cs" />
     <Compile Include="Assets\UMotionEditor\Scripts\Editor\EditorVersionCompatibilityUtility.cs" />
     <Compile Include="Assets\UMotionEditor\Scripts\Editor\GUICompatibilityUtility.cs" />
-<<<<<<< Updated upstream
-=======
     <Compile Include="Assets\_ALL_SCRIPTS\Add\RainMaker\Editor\RainMakerEditor.cs" />
->>>>>>> Stashed changes
     <Compile Include="Assets\КАНАТЫ\FiloCables\Editor\CableDiscEditor.cs" />
     <Compile Include="Assets\КАНАТЫ\FiloCables\Editor\CableEditor.cs" />
     <Compile Include="Assets\КАНАТЫ\FiloCables\Editor\CableLinkDrawer.cs" />
