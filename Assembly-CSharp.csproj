@@ -286,8 +286,10 @@
     <Compile Include="Assets\VLR\Детали машин\labDM_1.cs" />
     <Compile Include="Assets\VLR\Детали машин\labDM_parametr.cs" />
 <<<<<<< Updated upstream
+    <Compile Include="Assets\_ALL_SCRIPTS\podskasky\Helper.cs" />
     <Compile Include="Assets\_SCENARIO\Assets\Scripts\MovingSphere.cs" />
     <Compile Include="Assets\_SCENARIO\Assets\Scripts\OrbitCamera.cs" />
+    <Compile Include="Assets\_Shaddy\OutLineOnDown.cs" />
 =======
     <Compile Include="Assets\_ALL_SCRIPTS\Add\Clock\Scripts\Clock.cs" />
     <Compile Include="Assets\_ALL_SCRIPTS\Add\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
@@ -305,7 +307,6 @@
     <Compile Include="Assets\_ALL_SCRIPTS\Add\RainMaker\Prefab\RainScript2D.cs" />
     <Compile Include="Assets\_ALL_SCRIPTS\_SCENARIO\Assets\Scripts\MovingSphere.cs" />
     <Compile Include="Assets\_ALL_SCRIPTS\_SCENARIO\Assets\Scripts\OrbitCamera.cs" />
-    <Compile Include="Assets\_ALL_SCRIPTS\podskasky\Helper.cs" />
     <Compile Include="Assets\_ANY_ANIMATION\0_ANIM_IK_TEST\IkControl.cs" />
     <Compile Include="Assets\_ANY_ANIMATION\0_ANIM_IK_TEST\UnityOutlineFX\UnityOutlineFX.cs" />
     <Compile Include="Assets\_ANY_ANIMATION\0_ANIM_IK_TEST\UnityOutlineFX\UnityOutlineManager.cs" />
@@ -325,7 +326,6 @@
     <Compile Include="Assets\_MATERIALS+TEXTURES\AllMaterials\3D_materials\JCR\Script\RotatePos1C.cs" />
     <Compile Include="Assets\_MATERIALS+TEXTURES\AllMaterials\3D_materials\JCR\Script\RotatePosZ.cs" />
 >>>>>>> Stashed changes
-    <Compile Include="Assets\_Shaddy\OutLineOnDown.cs" />
     <Compile Include="Assets\etalon\Obi\Samples\Common\SampleResources\Scripts\ActorCOMTransform.cs" />
     <Compile Include="Assets\etalon\Obi\Samples\Common\SampleResources\Scripts\ActorSpawner.cs" />
     <Compile Include="Assets\etalon\Obi\Samples\Common\SampleResources\Scripts\AddRandomVelocity.cs" />
